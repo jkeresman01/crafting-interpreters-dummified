@@ -46,8 +46,8 @@ export default function Preface() {
         </Callout>
 
         <p>
-          Five languages or not, it begs the question, does it really matter today, if
-          you have an implemenation in one, AI can handle the rest pretty easily.
+          Five languages or not, it begs the question, does it really matter today, given
+          an implemenation in one, AI can handle the rest pretty easily.
         </p>
 
         </>
