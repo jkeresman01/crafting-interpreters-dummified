@@ -28,8 +28,7 @@ export default function Preface() {
 
       <Callout type="tip">
         <strong>Fun fact:</strong> Steve Jobs walked seven miles across town every Sunday
-        to get one good meal a week at the Hare Krishna temple. Perhaps it gave him
-        time to think — so let's hear what he has to say about creativity:
+        to get one good meal a week at the Hare Krishna temple.
 
         <br />
 
