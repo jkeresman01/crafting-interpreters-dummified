@@ -3,33 +3,33 @@ import Callout from '../components/Callout';
 export default function Preface() {
   return (
     <>
-      <h1>How it started?</h1>
+      <h1>How did it start?</h1>
 
       <p>
-          Yesterday I've finished one important chapter of my life. I finished
-          my first book. Left from there with last piece of wisdom that will carry me
-          trough this one: <i>"<strong>Just talk, don't walk</strong>: The continuation
-          of the tought, 5 languages one interpret"</i>
+          Yesterday I closed one important chapter of my life. I finished my first
+          book and left with one last piece of wisdom that will carry me through
+          this one: <i>"<strong>Just talk, don't walk</strong>: The continuation of
+          the thought, 5 languages one interpreter"</i>
       </p>
 
       <p>
-        That book started with a funny story, this one is a bit different, so let's
-        go back to where it started. That same <i>"Closing chapter day"</i>. I was
-        sipping coffee, talking nonsene in same bar, perhaps more a <i>"hole"</i>,
-        anyhow I decided to go for a walk, you know, to shift back in the world of
-        tought.  Just before my return to the said "hole", I got lighting struck, by
-        that one smoking hot red haired bad ass goddess that I just saw, ofcourse in
-        my world of tought. The weater was fairly sunny that day, that single moment
-        brought back my inspiration to write and the idea to dummify concepts tought
-        in the "Crafting interpters" book, speek a bit about different programming
-        languages, how to implement an interpreter in them and to answer a questions:
-        "Why I walk? Is it to bring me in the world of tought ?".
+        That book started with a funny story; this one is a bit different, so let's
+        go back to where it started. That same <i>"closing chapter day"</i>. I was
+        sipping coffee, talking nonsense in the same bar — perhaps more of a <i>"hole"</i> —
+        and decided to go for a walk, you know, to shift back into the world of
+        thought. Just before my return to the said "hole", I was struck by lightning:
+        that one smoking hot red-haired badass goddess I just saw, of course in
+        my world of thought. The weather was fairly sunny that day, and that single moment
+        brought back my inspiration to write and the idea to dummify the concepts taught
+        in the "Crafting Interpreters" book, speak a bit about different programming
+        languages, how to implement an interpreter in them, and to answer the question:
+        "Why do I walk? Is it to bring me into the world of thought?"
       </p>
 
       <Callout type="tip">
-        <strong>Fun fact:</strong> Steve Jobs walked for 7 miles across town every Sunday
-        to get one good meal a week at Hare Krishna template, perhaps it gave him a
-        time to think, so let's hear what he has to say about creativity and this story:
+        <strong>Fun fact:</strong> Steve Jobs walked seven miles across town every Sunday
+        to get one good meal a week at the Hare Krishna temple. Perhaps it gave him
+        time to think — so let's hear what he has to say about creativity:
 
         <br />
 
@@ -37,45 +37,46 @@ export default function Preface() {
             width="100%"
             height="315"
             src="https://www.youtube.com/embed/UF8uR6Z6KLc?start=184&end=283"
-                title="Steve Jobs on starting Pixar and Next"
+            title="Steve Jobs on starting Pixar and Next"
+            loading="lazy"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
             style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
         </iframe>
-        </Callout>
+      </Callout>
 
-        <p>
-          Five languages or not, it begs the question, does it really matter today,
-          given an implemenation in one, AI can handle the rest pretty easily.
-        </p>
+      <p>
+        Five languages or not — does it really matter today? Given an implementation
+        in one, AI can handle the rest pretty easily.
+      </p>
 
-        <p>
-          But, but, but with all of that the joy of programming has disappeared. Don't
-          you agree? We have lost that sense of building something slowly and step
-          by step. You know, you write a small piece of software and you can't really
-          know does it work, you need to test how it behaves, so I will do it the old
-          way and give some toughts about it all. Perhaps even spin up a debugger, you know
-          this confusing tools, meant for old people.
-        </p> 
+      <p>
+        But with all of that, the joy of programming has disappeared. Don't you agree?
+        We've lost that sense of building something slowly, step by step. You write a
+        small piece of software and you can't really tell if it works — you have to
+        test how it behaves. So I'll do it the old way and share some thoughts along
+        the way. Maybe even spin up a debugger — you know, those confusing tools
+        meant for old people.
+      </p>
 
       <Callout type="tip">
-          <p><strong>I don't understand my debugger</strong></p>
-          
-          <br />
+        <strong>I don't understand my debugger</strong>
 
-          <iframe 
-              width="315" 
-              height="560" 
-              src="https://www.youtube.com/embed/QfIOCyXBttY" 
-              title="YouTube Short"
-              frameBorder="0" 
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-              allowFullScreen
-              style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
-          </iframe>
-        </Callout>
+        <br />
 
-         </>
+        <iframe
+            width="315"
+            height="560"
+            src="https://www.youtube.com/embed/QfIOCyXBttY"
+            title="YouTube Short"
+            loading="lazy"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
+        </iframe>
+      </Callout>
+    </>
   );
 }
