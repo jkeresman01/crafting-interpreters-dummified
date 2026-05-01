@@ -6,15 +6,15 @@ export default function Preface() {
       <h1>How it started?</h1>
 
       <p>
-          Yesterday I've finished one important chapter of my life. I've just finished
+          Yesterday I've finished one important chapter of my life. I finished
           my first book. Left from there with last piece of wisdom that will carry me
-          trough this book: <i>"<strong>Just talk, don't walk</strong>: The continuation
+          trough this one: <i>"<strong>Just talk, don't walk</strong>: The continuation
           of the tought, 5 languages one interpret"</i>
       </p>
 
       <p>
         That book started with a funny story, this one is a bit different, so let's
-        go back to where it started. That same <i>"Closing chapter day"</i> .  I was
+        go back to where it started. That same <i>"Closing chapter day"</i>. I was
         sipping coffee, talking nonsene in same bar, perhaps more a <i>"hole"</i>,
         anyhow I decided to go for a walk, you know, to shift back in the world of
         tought.  Just before my return to the said "hole", I got lighting struck, by
@@ -46,10 +46,35 @@ export default function Preface() {
         </Callout>
 
         <p>
-          Five languages or not, it begs the question, does it really matter today, given
-          an implemenation in one, AI can handle the rest pretty easily.
+          Five languages or not, it begs the question, does it really matter today,
+          given an implemenation in one, AI can handle the rest pretty easily.
         </p>
 
-        </>
+        <p>
+          But, but, but with all of that the joy of programming has disappeared. Don't
+          you agree? We have lost that sense of building something slowly and step
+          by step. You know, you write a small piece of software and you can't really
+          know does it work, you need to test how it behaves, so I will do it the old
+          way and give some toughts about it all. Perhaps even spin up a debugger, you know
+          this confusing tools, meant for old people.
+        </p> 
+
+      <Callout type="tip">
+          <p><strong>I don't understand my debugger</strong></p>
+          
+          <br />
+
+          <iframe 
+              width="315" 
+              height="560" 
+              src="https://www.youtube.com/embed/QfIOCyXBttY" 
+              title="YouTube Short"
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              allowfullscreen>
+          </iframe>
+        </Callout>
+
+         </>
   );
 }
