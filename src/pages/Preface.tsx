@@ -23,7 +23,7 @@ export default function Preface() {
         brought back my inspiration to write and the idea to dummify concepts tought
         in the "Crafting interpters" book, speek a bit about different programming
         languages, how to implement an interpreter in them and to answer a questions:
-        "Why I walk? Is it to bring me in the world of tought?".
+        "Why I walk? Is it to bring me in the world of tought ?".
       </p>
 
       <Callout type="tip">
