@@ -42,6 +42,12 @@ export default function Preface() {
             style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
         </iframe>
         </Callout>
+
+        <p>
+          Five languages or not, it begs the question, does it really matter today, if
+          you have an implemenation in one, AI can handle the rest pretty easily.
+        </p>
+
         </>
   );
 }
