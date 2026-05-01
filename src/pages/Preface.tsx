@@ -69,7 +69,7 @@ export default function Preface() {
               height="560" 
               src="https://www.youtube.com/embed/QfIOCyXBttY" 
               title="YouTube Short"
-              frameborder="0" 
+              frameBorder="0" 
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
               allowfullscreen>
           </iframe>
