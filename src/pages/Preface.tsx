@@ -5,30 +5,41 @@ export default function Preface() {
     <>
       <h1>How did it start?</h1>
 
-      <p> Yesterday I closed one important chapter of my life. I finished my first
+      <p>
+        Yesterday I closed one important chapter of my life. I finished my first
         book and left with one last piece of wisdom that will carry me through this one:
         <i>"<strong>Just talk, don't walk</strong>: The continuation of the thought,
-        5 languages one interpreter"</i>
+        five languages one interpreter"</i>
       </p>
 
       <p>
         That book started with a funny story; this one is a bit different, so let's
-        go back to where it started. That same <i>"closing chapter day"</i>. I was
+        go back to where it started. That same <i>"closing chapter day"</i> I was
         sipping coffee, talking nonsense in some bar — perhaps more of a <i>"hole"</i>
         — and decided to go for a walk, you know, to shift back into the world of
         thought. Just before my return to the said <i>"hole"</i>, I was struck by
         lightning: that one smoking hot red-haired badass goddess I just saw. Ofcourse
         struck by a lightning in world of tought, in real world I was just on crosswalk
-        and day was fairly sunny so I just continued to walk, but ohhh boy even in the 
+        and day was fairly sunny so I just continued to walk, but ohhhhh boy even in the 
         world of tought my mind was blown, you know the vibe and all.
       </p>
 
       <p>
-        That  moment brought back my inspiration to write and the idea to dummify
-        the concepts taught in the <i>"Crafting Interpreters"</i> book, speak a bit about
-        different programming languages, how to implement an interpreter in them
-        and to answer the question: "Why do I walk? Is it to bring me into the world
-        of thought?"
+        This inspiration of mine is very funny thing, I draw it from everything,
+        sometimes I just drive around in my car with no obvious goal, sometimes I sit
+        in the park and just observe nature while reading something and my question is how
+        do you explain this to a normal 9 to 5, ikea, lets watch some television show
+        type of person. Don't get me wrong some televisons are more than televions, but
+        anyhowzzzy back to the main tought, it's always that one moment in the universe
+        that kickstarts my tought process, this time it was just smoking hot.
+      </p>
+
+      <p>
+        Smoking hot or not, the inspiration to write was back and the idea was born.
+        I will dummify the the concepts taught in the <i>"Crafting Interpreters"</i>
+        book, speak a bit about different programming languages, how to implement an
+        interpreter in them and to answer the question: "Why do I walk? Is it to bring
+        me into the world of thought?"
       </p>
 
      <p>
@@ -41,7 +52,7 @@ export default function Preface() {
       </p>
 
       <p>
-        So I'll do it the old way and share some thoughts along the way.  Maybe even
+        So I'll do it the old way and share some thoughts along the way. Maybe even
         spin up a debugger — you know, those confusing tools meant for old people
         and ohhhhh boy are they confusing, but the thing about debugging sessions is
         to just embrace the meaningless of it all, you don't fight it, you just embrace
@@ -66,6 +77,18 @@ export default function Preface() {
             style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
         </iframe>
       </Callout>
+
+      <h1>Why read this ?</h1>
+
+      <p>
+        This "chapter" is just really weird, for several reasons. First of all it should
+        be on introduction page, but this is my world and we do it all different,
+        funny and weird in here and second of all, this you should answer yourself.
+        Perhaps you were behind me on the crosswalk and find yourself smoking hot,
+        perhaps you like my weird style of writing, or perhaps you are just interested
+        in what I have to say about the topic. Reasons are many, whys are different
+        but one thing is for sure you will enoy.
+      </p>
     </>
   );
 }
