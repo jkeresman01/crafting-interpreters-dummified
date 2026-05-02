@@ -66,10 +66,10 @@ export default function Preface() {
         <br />
 
         <iframe
-            width="315"
-            height="560"
+            width="100%"
+            height="315"
             src="https://www.youtube.com/embed/QfIOCyXBttY"
-            title="YouTube Short"
+            title="I don't understand my debugger"
             loading="lazy"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -89,6 +89,25 @@ export default function Preface() {
         in what I have to say about the topic. Reasons are many, whys are different
         but one thing is for sure you will enoy.
       </p>
+
+      <Callout type="tip">
+
+        <p>Artists built the machithos</p>
+            
+        <iframe
+            width="100%"
+            height="315"
+            src="https://www.youtube.com/embed/1tQ5XwvjPmA?start=1065&end=1087"
+            title="Artist build the machinthos"
+            loading="lazy"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
+        </iframe>
+      </Callout>
+
+
     </>
   );
 }
