@@ -56,7 +56,10 @@ export default function Preface() {
         small piece of software and you can't really tell if it works — you have to
         test how it behaves. So I'll do it the old way and share some thoughts along
         the way. Maybe even spin up a debugger — you know, those confusing tools
-        meant for old people.
+        meant for old people and ohhhh boy are they confusing, but the thing about debugging 
+        sessions is to just embrace the meaningless of it all, you don't fight it, you just
+        embrace it and click step over, step into buttons all day along, or in other words
+        you just play along.
       </p>
 
       <Callout type="tip">
