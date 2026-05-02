@@ -31,26 +31,7 @@ export default function Preface() {
         of thought?"
       </p>
 
-      <Callout type="tip">
-        <strong>Fun fact:</strong> Steve Jobs walked seven miles across town every Sunday
-        to get one good meal a week at the Hare Krishna temple.
-
-        <br />
-
-        <iframe
-            width="100%"
-            height="315"
-            src="https://www.youtube.com/embed/UF8uR6Z6KLc?start=184&end=283"
-            title="Steve Jobs on starting Pixar and Next"
-            loading="lazy"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
-        </iframe>
-      </Callout>
-
-      <p>
+     <p>
         Five languages or not — does it really matter today? Given an implementation
         in one, AI can handle the rest pretty easily. But with all of that, the joy
         of programming has disappeared. <strong>Don't you agree?</strong>  We've lost
@@ -88,3 +69,4 @@ export default function Preface() {
     </>
   );
 }
+
