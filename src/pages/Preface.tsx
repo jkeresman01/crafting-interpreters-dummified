@@ -18,12 +18,11 @@ export default function Preface() {
         sipping coffee, talking nonsense in the same bar — perhaps more of a <i>"hole"</i> —
         and decided to go for a walk, you know, to shift back into the world of
         thought. Just before my return to the said "hole", I was struck by lightning:
-        that one smoking hot red-haired badass goddess I just saw, of course in
-        my world of thought. The weather was fairly sunny that day, and that single moment
-        brought back my inspiration to write and the idea to dummify the concepts taught
-        in the "Crafting Interpreters" book, speak a bit about different programming
-        languages, how to implement an interpreter in them, and to answer the question:
-        "Why do I walk? Is it to bring me into the world of thought?"
+        that one smoking hot red-haired badass goddess I just saw. The weather was fairly 
+        sunny that day and I continued to walk but that single moment brought back my inspiration to 
+        write and the idea to dummify the concepts taught in the "Crafting Interpreters" book, 
+        speak a bit about different programming languages, how to implement an interpreter in them,
+        and to answer the question: "Why do I walk? Is it to bring me into the world of thought?"
       </p>
 
       <Callout type="tip">
