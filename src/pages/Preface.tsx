@@ -44,7 +44,7 @@ export default function Preface() {
 
      <p>
         Five languages or not — does it really matter? Given an implementation
-        in one, AI can handle the rest pretty. But with all of that, the joy
+        in one, AI can handle the rest. But with all of that, the joy
         of programming has disappeared. <strong>Don't you agree?</strong>  We've lost
         that sense of building something slowly, step by step. You know to write a
         small piece of software and you can't really tell if it works — you have to
