@@ -143,8 +143,22 @@ export default function Introduction() {
         poetry to reality, pure on logic and instructions.
       </p>
 
-      <h2>Okay, okay this is all conceptual, so lets loose some additional brain cells and go more in depth </h2>
+      <h2>Okay but let's dummify it even further with some examples</h2>
 
-    </>
+      <p>
+        Let's start with the frontend, here roughly we also have three phases,
+        scanning(lexing), parsing and static analysis.
+      </p>
+
+      <h3>Scanning</h3>
+       
+      <p>
+        This phase is pretty much boils down to one big dumb ass switch statement. We
+        take a stream of characters and group them into tokens (words) that make our
+        language grammar. There really aren't some better words that come to mind,
+        but just stay with me it will all make sense after some dummified examples.
+      </p>
+
+      </>
   );
 }
