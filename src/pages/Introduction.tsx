@@ -28,9 +28,9 @@ export default function Introduction() {
       <h1>Interpreters vs Compilers</h1>
 
       <p>
-       There are two gems, generally speaking in this story. Compilers and interpreters
-       and while some implementations are clearly on one side for some it's hard to
-       tell, perhaps might even be both, but let's not go too far into that.
+       There are, generally speaking, two gems in this story: compilers and interpreters.
+       Some implementations sit clearly on one side; for others it's hard to tell — they
+       might even be both, but let's not go too far into that.
       </p>
 
       <p>
@@ -54,10 +54,11 @@ export default function Introduction() {
       />
 
       <p>
-        Let's say for example that this was compiled language, that would mean that
-        user would need to compile this nonsene, generate some ussually lower level
-        form, let's say an executable. User could than execute this program, which
-        would result in this beautiful and truthful printout: <i>"She was smoking hot, mind blown! "</i>
+        Let's say, hypothetically that this is a compiled language, that would mean that
+        user would need to compile this nonsense, generate some usually lower level
+        form, let's say an executable. User could then execute this program, which
+        would result in this beautiful and truthful printout: <i>"She was smoking hot,
+        mind blown!"</i>
       </p>
 
       <p>
@@ -67,7 +68,7 @@ export default function Introduction() {
       </p>
 
       <p>
-        But now it's time to really loose few brain cells, let's say that in SmallBoober 
+        But now it's time to really lose a few brain cells, let's say that in SmallBoober
         you could do something like this:
       </p>
 
@@ -86,13 +87,13 @@ export default function Introduction() {
       />
 
       <p>
-        The <strong>`compile`</strong> command would generate a machine code, while
+        The <strong>`compile`</strong> command would generate machine code, while the
         <strong>`execute`</strong> command would do the same but immediately execute it
-        afterwards. This would mean that sb can both be used as an interpreter and as
-        a compiler and when you interpret code you are compiling internaly. Brainfuck
-        isn't it. There are also a bunch of shortcuts and subvariants of this two
-        pokemons, for example: single pass compilers, tree walk interpretes, transpilers,
-        JIT compilers.  But that's all too much in here we just dummify, keep it fun,
+        afterwards. This would mean that sb can be used as both an interpreter and a
+        compiler and when you interpret code you are compiling internally. Brainfuck,
+        isn't it? There are also a bunch of shortcuts and subvariants of these two
+        pokemons, for example: single pass compilers, tree-walk interpreters, transpilers,
+        JIT compilers. But that's all too much in here we just dummify, keep it fun,
         viby and cool and if you want all the boring stuff you can read all about it
         in the actual book.
       </p>
