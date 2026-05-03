@@ -37,16 +37,16 @@ export default function Preface() {
       <p>
         Smoking hot or not, the inspiration to write was back and the idea was born.
         I will dummify the the concepts taught in the <i>"Crafting Interpreters"</i>
-        book, speak a bit about different programming languages, how to implement an
-        interpreter in them and to answer the question: "Why do I walk? Is it to bring
-        me into the world of thought?"
+        book from Robert Nystrom, speak a bit about different programming languages,
+        how to implement an interpreter in them and to answer the question: "Why do
+        I walk? Is it to bring me into the world of thought?"
       </p>
 
      <p>
-        Five languages or not — does it really matter today? Given an implementation
-        in one, AI can handle the rest pretty easily. But with all of that, the joy
+        Five languages or not — does it really matter? Given an implementation
+        in one, AI can handle the rest pretty. But with all of that, the joy
         of programming has disappeared. <strong>Don't you agree?</strong>  We've lost
-        that sense of building something slowly, step by step. You know To write a
+        that sense of building something slowly, step by step. You know to write a
         small piece of software and you can't really tell if it works — you have to
         test how it behaves, step by step, day by day.
       </p>

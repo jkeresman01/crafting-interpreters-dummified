@@ -1,3 +1,5 @@
+import CodeBlock from '../components/CodeBlock';
+
 export default function Introduction() {
   return (
     <>
@@ -36,6 +38,64 @@ export default function Introduction() {
        and spit out some other form, the poet is then free to do whatever he wants
        with that other form, while interpreters take the source code and execute it
        immediately. Of course it's not as simple as that, but let's leave it there.
+      </p>
+
+      <h2>Okay but let's dummify it even further with some examples</h2>
+
+      <p>
+       Imagine a tiny language we just made up on the spot, call it SmallBoober, it has no
+       semicolons, no curly braces, no committees, just vibes. A program might look
+       like this:
+      </p>
+
+      <CodeBlock
+        language="plaintext"
+        code={`print "I prefer" + " " + "women with smaller tits"`}
+      />
+
+      <p>
+        Let's say for example that this was compiled language, that would mean that
+        user would need to compile this nonsene, generate some ussually lower level
+        form, let's say an executable. User could than execute this program, which
+        would result in this beautiful and truthful printout: <i>"I prefer women with
+        smaller tits"</i>
+      </p>
+
+      <p>
+        On the other hand if this language implementation was an interpreter, user
+        would take this source and execute it immediately, giving him this beautiful
+        and truthful printout: <i>"I prefer women with smaller tits"</i>
+      </p>
+
+      <p>
+        But now it's time to really loose few brain cells, let's say that in SmallBoober 
+        you could do something like this:
+      </p>
+
+      <CodeBlock
+        language="plaintext"
+        code={`sb compile main.sb`}
+      />
+
+      <p>
+       But you could also do something like this:
+      </p>
+
+      <CodeBlock
+        language="plaintext"
+        code={`sb execute main.sb`}
+      />
+
+      <p>
+        The <strong>`compile`</strong> command would generate a machine code, while
+        <strong>`execute`</strong> command would do the same but immediately execute it
+        afterwards. This would mean that sb can both be used as an interpreter and as
+        a compiler and when you interpret code you are compiling internaly. Brainfuck
+        isn't it. There are also a bunch of shortcuts and subvariants of this two
+        pokemons, for example: single pass compilers, tree walk interpretes, transpilers,
+        JIT compilers.  But that's all too much in here we just dummify, keep it fun,
+        viby and cool and if you want all the boring stuff you can read all about it
+        in the actual book.
       </p>
 
     </>

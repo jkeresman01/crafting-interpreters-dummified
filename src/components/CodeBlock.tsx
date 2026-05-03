@@ -7,7 +7,7 @@ interface Props {
   language?: string;
 }
 
-export default function CodeBlock({ code, language = 'jlang' }: Props) {
+export default function CodeBlock({ code, language = 'c' }: Props) {
   const ref = useRef<HTMLElement>(null);
 
   useEffect(() => {
