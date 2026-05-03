@@ -38,7 +38,7 @@ export default function Introduction() {
        In simple terms compilers take the source code, do some voodoo magic in between
        and spit out some other form, the poet is then free to do whatever he wants
        with that other form, while interpreters take the source code and execute it
-       immediately. Of course it's not as simple as that, but let's leave it there.
+       immediately, or in other words run from source.
       </p>
 
       <h2>Okay but let's dummify it even further with some examples</h2>
