@@ -163,8 +163,8 @@ export default function Introduction() {
         There are a few terms that get used in here, "Scanning" and "Lexing", we will
         use scanning but "Lexing" could be more correct, it comes from Greek root "lex"
         meaning "word" <strong>and that's that</strong>. This mystery was quite easy.
-        We are essentially just grouping this stream of characters into "words" that have
-        some meaning in our language.
+        We are essentially just grouping this stream of characters into "words", while 
+        ignoring all the noise, like comments and whitespace.
       </p>
 
        <p>
