@@ -168,9 +168,14 @@ export default function Introduction() {
       </p>
 
        <p>
-        ... enough talk let's move to some smoking hot examples, didn't quite catch
-        the name, so we'll call her Scala Johansson for now.
+         ... enough talk let's move to some smoking hot examples, need to comeup with
+         some catchy name, Scala Johansson will do for now.
        </p>
+
+      <CodeBlock
+        language="plaintext"
+        code={`var scalaJohansson = "smoking hot, mind blown"`}
+      />
 
       </>
   );
