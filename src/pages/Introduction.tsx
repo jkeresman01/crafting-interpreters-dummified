@@ -153,11 +153,24 @@ export default function Introduction() {
       <h3>Scanning</h3>
        
       <p>
-        This phase is pretty much boils down to one big dumb ass switch statement. We
-        take a stream of characters and group them into tokens (words) that make our
-        language grammar. There really aren't some better words that come to mind,
+        This phase pretty much boils down to one big dumb ass switch statement. We
+        take a stream of characters and group them into tokens (words) that make up
+        our language grammar. There really aren't some better words that come to mind,
         but just stay with me it will all make sense after some dummified examples.
       </p>
+
+      <p>
+        There are a few terms that get used in here, "Scanning" and "Lexing", we will
+        use scanning but "Lexing" could be more correct, it comes from Greek root "lex"
+        meaning "word" <strong>and that's that</strong>. This mystery was quite easy.
+        We are essentially just grouping this stream of characters into "words" that have
+        some meaning in our language.
+      </p>
+
+       <p>
+        ... enough talk let's move to some smoking hot examples, didn't quite catch
+        the name, so we'll call her Scala Johansson for now.
+       </p>
 
       </>
   );
