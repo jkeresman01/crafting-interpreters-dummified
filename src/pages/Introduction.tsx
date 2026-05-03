@@ -1,4 +1,5 @@
 import CodeBlock from '../components/CodeBlock';
+import Callout from '../components/Callout';
 
 export default function Introduction() {
   return (
@@ -98,6 +99,34 @@ export default function Introduction() {
         in the actual book.
       </p>
 
+      <h1> Phases of a compiler/interpreter </h1>
+
+      <p>
+       Okay now that we understand what are we building, let's see which phases do
+       we need to go trought, but ofcourse dummified a lot, so the main question is:
+       <i><strong>"How do we get from the high level language like SmallBoober to
+       series of instructions that CPU can actually execute?</strong></i>
+      </p>
+
+      <Callout type="tip">
+
+        <p>
+          The phases are roughly three: <strong>front end</strong>, <strong>middle
+          end</strong> and <strong>back end</strong>
+        </p>
+
+        <iframe
+            width="100%"
+            height="315"
+            src="https://www.youtube.com/embed/BT2Cv-Tjq7Q?start=48&end=61"
+            title="Artist build the machinthos"
+            loading="lazy"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
+        </iframe>
+      </Callout>
     </>
   );
 }
