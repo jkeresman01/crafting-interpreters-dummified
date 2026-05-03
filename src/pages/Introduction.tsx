@@ -50,21 +50,20 @@ export default function Introduction() {
 
       <CodeBlock
         language="plaintext"
-        code={`print "I prefer" + " " + "women with smaller tits"`}
+        code={`print "She was smoking hot" + ", " + " mind blown!"`}
       />
 
       <p>
         Let's say for example that this was compiled language, that would mean that
         user would need to compile this nonsene, generate some ussually lower level
         form, let's say an executable. User could than execute this program, which
-        would result in this beautiful and truthful printout: <i>"I prefer women with
-        smaller tits"</i>
+        would result in this beautiful and truthful printout: <i>"She was smoking hot, mind blown! "</i>
       </p>
 
       <p>
         On the other hand if this language implementation was an interpreter, user
         would take this source and execute it immediately, giving him this beautiful
-        and truthful printout: <i>"I prefer women with smaller tits"</i>
+        and truthful printout: <i>"She was smoking hot, mind blown!"</i>
       </p>
 
       <p>
