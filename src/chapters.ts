@@ -1,7 +1,10 @@
 export const chapters = [
   {
     title: 'Getting Started',
-    items: [{ label: 'Preface', path: '/' }],
+    items: [
+      { label: 'Preface', path: '/' },
+      { label: 'Introduction', path: '/introduction' },
+    ],
   },
 ];
 

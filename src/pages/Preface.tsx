@@ -86,9 +86,9 @@ export default function Preface() {
         funny and weird in here and second of all, this you should answer yourself.
         Perhaps you were behind me on the crosswalk and find yourself smoking hot,
         perhaps you like my weird style of writing, or perhaps you are just interested
-        in what I have to say about the topic. Reasons are many, whys are different
-        but one thing is for sure you will enoy. You know the best authors make you 
-        feel, some pages make you cry, some role your eyes, some laugh.
+        in what I have to say about the topic. Reasons are many, whys are different but
+        one thing is for sure you will enoy. You know the best authors make you feel,
+        some pages make you cry, some role your eyes, some laugh.
       </p>
 
       <Callout type="tip">
