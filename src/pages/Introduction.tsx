@@ -102,10 +102,10 @@ export default function Introduction() {
       <h1> Phases of a compiler/interpreter </h1>
 
       <p>
-       Okay now that we understand what are we building, let's see which phases do
-       we need to go trought, but ofcourse dummified a lot, so the main question is:
+       Okay now that we understand what are we building, let's see which phases
+       we need to go through, but of course dummified a lot, so the main question is:
        <i><strong>"How do we get from the high level language like SmallBoober to
-       series of instructions that CPU can actually execute?</strong></i>
+       series of instructions that CPU can actually execute?"</strong></i>
       </p>
 
       <Callout type="tip">
@@ -119,7 +119,7 @@ export default function Introduction() {
             width="100%"
             height="315"
             src="https://www.youtube.com/embed/BT2Cv-Tjq7Q?start=48&end=61"
-            title="Artist build the machinthos"
+            title="Artist builds the machinthos"
             loading="lazy"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -127,6 +127,24 @@ export default function Introduction() {
             style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
         </iframe>
       </Callout>
+
+      <p>
+        So just listen, listen she was mindblowing, smoking hot and beauty is subjective
+        btw, but phases are three: <strong>front end</strong> which is usually specific
+        to the source language that we are dealing with or in other words here we are
+        trying to figure out what the poet was trying to say, <strong>middle end </strong>
+        where we optimize a bunch of stuff, like do some constant folding, unroll some
+        loops etc. or in other words when we understand what poet tried to say, we can
+        swap it a bit while keeping the same semantics and finally at the end of the
+        story there comes <strong>back end</strong> so we have now optimized everything
+        that comes to mind and now is time to generate some machine instructions and
+        here the two most obvious things we can do are generate some bytecode or target
+        a specific chip architecture (x86, ARM...) or in other words we go back from
+        poetry to reality, pure on logic and instructions.
+      </p>
+
+      <h2>Okay, okay this is all conceptual, so lets loose some additional brain cells and go more in depth </h2>
+
     </>
   );
 }
