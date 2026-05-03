@@ -16,9 +16,11 @@ export default function Introduction() {
         The answer is of course not, we do some actual programming in here. We will vibe,
         we will code and we will write, five times we will implement an interpreter and
         five different languages we will use. No sciency boring stuff, just pure fun.
-        But let's discuss first of all what this interpreter thing actually is, and be
-        aware if your background is too sciency, you will lose few brain cells along
-        the way I promise you that.
+        Before all that we need to introduce some jargon, so we will talk about love
+        towards programming, about "Statements" of intent and "Expression's" of feelings,
+        alognside some other stuff. But first lets see what this interpreter thing
+        actually is and be aware if your background is too sciency, you will lose
+        few brain cells along the way I promise you that.
        </p>
 
       <h1>Interpreters vs Compilers</h1>
