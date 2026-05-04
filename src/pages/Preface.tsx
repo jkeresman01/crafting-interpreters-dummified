@@ -108,26 +108,28 @@ export default function Preface() {
         </iframe>
       </Callout>
 
-    <h1>Why write this ?</h1>
+    <h1>Why write this?</h1>
 
      <p>
-       Most books probably don't have this "chapter", but again this is my world 
-       and we do it my way in here, funny, viby and cool, anyhwowzzy I've stumbled accross
+       Most books probably don't have this "chapter", but again this is my world and
+       we do it my way in here, funny, viby and cool, anyhwowzzy I've stumbled across
        this interesting concept that got me thinking about something.
      </p>
 
       <p>
-        One simple side tought of mine before we move to that, toughts are quite interesting, 
-        don't you agree, what we think, what we do, what we say and what we write might be all 
-        different things.
+        One simple side tought of mine before we move to that, thoughts are quite
+        interesting, don't you agree? What we think, what we do, what we say and what
+        we write might be all different things.
       </p>
-     
+
        <p>
-         You might find a women particularly goregous and unique or a song particularly vibey, but it might just 
-         stay in the world of tought. You might find a topic particularly boring, but say 
-         that it's interesting and you might say that you are going to start exercising from tomorrow, but not do it, 
-         you see all diferent things. Okay, okay you might now think that's all cute and all but it doesn't answer 
-         the question why write this, but just hang lets get back to this "weird" concept that I've been thinking about.
+         You might find a woman particularly gorgeous and unique or a song particularly
+         vibey, but it might just stay in the world of thought. You might find a topic
+         particularly boring, but say that it's interesting and you might say that
+         you are going to start exercising from tomorrow, but not do it, you see all
+         different things. Okay, okay you might now think that's all cute and all but
+         it doesn't answer the question why write this, but just hang on, let's get
+         back to this "weird" concept that I've been thinking about.
        </p>
     </>
   );
