@@ -112,24 +112,42 @@ export default function Preface() {
 
      <p>
        Most books probably don't have this "chapter", but again this is my world and
-       we do it my way in here, funny, viby and cool, anyhwowzzy I've stumbled across
-       this interesting concept that got me thinking about something.
+       we do it my way in here, funny, viby and cool, anyhowzzy I've stumbled across
+       an interesting concept that got me thinking.
      </p>
 
       <p>
-        One simple side tought of mine before we move to that, thoughts are quite
+        One simple side thought of mine before we move to that, thoughts are quite
         interesting, don't you agree? What we think, what we do, what we say and what
         we write might be all different things.
       </p>
 
        <p>
          You might find a woman particularly gorgeous and unique or a song particularly
-         vibey, but it might just stay in the world of thought. You might find a topic
-         particularly boring, but say that it's interesting and you might say that
-         you are going to start exercising from tomorrow, but not do it, you see all
-         different things. Okay, okay you might now think that's all cute and all but
-         it doesn't answer the question why write this, but just hang on, let's get
-         back to this "weird" concept that I've been thinking about.
+         viby, but it might just stay in the world of thought. You might find a topic
+         particularly boring, but say that it's interesting, and you might say you're
+         going to start exercising tomorrow, but never actually do it — all different
+         things, you see. Okay, okay you might now think that's all cute and all but
+         it doesn't answer the question <i>"Why write this?"</i>, but just hang on,
+         let's get back to this "weird" concept that I've been thinking about.
+       </p>
+
+       <p>
+        Anyhowzzy, this concept — Adler called it <i>"separation of tasks"</i>, fancy
+        name for a dead simple idea: do your own tasks, stay out of everyone else's.
+        Classic setup, kid doesn't feel like studying, parent rolls in with the old
+        <i>"it's for your own good"</i> routine. Sounds noble, right? Ohhhhh boy, no.
+        Studying is the kid's task, parent is just barging in, and here's the kicker
+        — it's not for the kid's good at all, it's for the parent's, just dressed up
+        real nice. They're worried about how they look in the eyes of society, you
+        know the vibe. Same energy with <i>"when will you get married?"</i>,
+        <i>"you should go to that university"</i>, and a hundred other classics.
+       </p>
+
+       <p>
+        So back to <i>"Why write this?"</i> — well, writing this is <strong>my</strong> task.
+        I'm doing it because it's mine, because that crosswalk lightning hit and
+        hasn't let go. The rest is just noise, you know the vibe and all.
        </p>
     </>
   );
