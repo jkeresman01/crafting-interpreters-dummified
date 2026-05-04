@@ -149,6 +149,20 @@ export default function Preface() {
         I'm doing it because it's mine, because that crosswalk lightning hit and
         hasn't let go. The rest is just noise, you know the vibe and all.
        </p>
+
+       <p>
+         .... and I'm telling you, my thought in the world of thought was, don't think,
+         don't think, 'cause we boys have this..... nevermind.
+       </p>
+
+       <p>
+        Still I didn't give you an answer to the question that might bother you. Why have
+        this dumb "Why write this?" chapter? Well, the answer is to encourage people
+        to write and share some thoughts. Remember, writing is your task. Judging,
+        laughing or criticizing is the task of other people. You see how it all comes
+        together now....  and some toughts just go to waste if not shared, found her
+        extremely intriguing and smoking hot and now she is part of the book.
+       </p>
     </>
   );
 }
