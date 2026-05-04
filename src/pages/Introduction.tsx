@@ -170,7 +170,7 @@ export default function Introduction() {
       <Callout type="tip">
 
       <p><strong>Fun fact: </strong>
-        Her vibe was all, enery was top, two bilion years ago, human ancestors—such
+        In ancient times, like two bilion years ago, human ancestors—such
         as Homo erectus discovered how to control fire and somewhere in that period
         when memory was precious resours "Scanner" refered to part of code that read
         raw source code characters from disk and "Lexer" actually did something useful
