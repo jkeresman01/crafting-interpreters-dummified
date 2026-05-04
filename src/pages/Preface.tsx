@@ -29,8 +29,8 @@ export default function Preface() {
         sometimes I just drive around in my car with no obvious goal, sometimes I sit
         in the park and just observe nature while reading something and my question is how
         do you explain this to a normal 9 to 5, ikea, lets watch some television show
-        type of person. Don't get me wrong some televisons are more than televions, but
-        anyhowzzzy back to the main tought, it's always that one moment in the universe
+        type of person. Don't get me wrong some televisons are more than televions and some
+        radios are just viby and open, but anyhowzzzy back to the main tought, it's always that one moment in the universe
         that kickstarts my tought process, this time it was just smoking hot.
       </p>
 
