@@ -78,36 +78,6 @@ export default function Preface() {
         </iframe>
       </Callout>
 
-      <h1>Why read this ?</h1>
-
-      <p>
-        This "chapter" is just really weird, for several reasons. First of all it should
-        be on introduction page, but this is my world and we do it all different,
-        funny and weird in here and second of all, this you should answer yourself.
-        Perhaps you were behind me on the crosswalk and find yourself smoking hot,
-        perhaps you like my weird style of writing, or perhaps you are just interested
-        in what I have to say about the topic. Reasons are many, whys are different but
-        one thing is for sure you will enoy. You know the best authors make you feel,
-        some pages make you cry, some role your eyes, some laugh.
-      </p>
-
-      <Callout type="tip">
-
-        <p>Artists built the machithos</p>
-            
-        <iframe
-            width="100%"
-            height="315"
-            src="https://www.youtube.com/embed/1tQ5XwvjPmA?start=1065&end=1087"
-            title="Artist build the machinthos"
-            loading="lazy"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowFullScreen
-            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
-        </iframe>
-      </Callout>
-
     <h1>Why write this?</h1>
 
      <p>
@@ -145,9 +115,9 @@ export default function Preface() {
        </p>
 
        <p>
-        So back to <i>"Why write this?"</i> — well, writing this is <strong>my</strong> task.
-        I'm doing it because it's mine, because that crosswalk lightning hit and
-        hasn't let go. The rest is just noise, you know the vibe and all.
+        So back to <i>"Why write this?"</i> — well, writing this is <strong>my</strong>
+        task.  I'm doing it because it's mine, because that crosswalk lightning hit
+        and hasn't let go. The rest is just noise, you know the vibe and all.
        </p>
 
        <p>
@@ -163,6 +133,38 @@ export default function Preface() {
         together now....  and some toughts just go to waste if not shared, found her
         extremely intriguing and smoking hot and now she is part of the book.
        </p>
+
+      <h1>Why read this ?</h1>
+
+      <p>
+        This "chapter" is just really weird, for several reasons. First of all it should
+        be on introduction page, but this is my world and we do it all different,
+        funny and weird in here and second of all, this you should answer yourself.
+        Perhaps you were behind me on the crosswalk and find yourself smoking hot,
+        perhaps you like my weird style of writing, or perhaps you are just interested
+        in what I have to say about the topic. Reasons are many, whys are different but
+        one thing is for sure you will enoy. You know the best authors make you feel,
+        some pages make you cry, some role your eyes, some laugh, some frustrate.
+        But, but, but just trust the process, you will enyoj the ride, I'm quite 
+        entertaining, just trust me on this one.
+      </p>
+
+      <Callout type="tip">
+
+        <p>Artists built the machithos</p>
+            
+        <iframe
+            width="100%"
+            height="315"
+            src="https://www.youtube.com/embed/1tQ5XwvjPmA?start=1065&end=1087"
+            title="Artist build the machinthos"
+            loading="lazy"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
+        </iframe>
+      </Callout>
     </>
   );
 }
