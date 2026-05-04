@@ -167,6 +167,18 @@ export default function Introduction() {
         ignoring all the noise, like comments and whitespace.
       </p>
 
+      <Callout type="tip">
+
+      <p><strong>Fun fact: </strong>
+        Her vibe was all, enery was top, two bilion years ago, human ancestors—such
+        as Homo erectus discovered how to control fire and somewhere in that period
+        when memory was precious resours "Scanner" refered to part of code that read
+        raw source code characters from disk and "Lexer" actually did something useful
+        with those characters, today no one cares anymore.
+      </p>
+
+      </Callout>
+
        <p>
          ... enough talk let's move to some smoking hot examples, need to comeup with
          some catchy name, Scala Johansson will do for now.
