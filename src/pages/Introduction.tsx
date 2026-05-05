@@ -161,7 +161,7 @@ export default function Introduction() {
       </Callout>
 
 
-      <h2>Okay but let's talk about this phases a bit</h2>
+      <h2>Okay but let's talk about this phases a bit more</h2>
 
       <h3>Frontend</h3>
 
