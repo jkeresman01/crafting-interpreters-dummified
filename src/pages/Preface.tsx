@@ -52,7 +52,7 @@ export default function Preface() {
       </p>
 
       <p>
-        So I'll do it the ways of old and share some thoughts along the way. Maybe even
+        So I'll do it in the ways of old and share some thoughts along the way. Maybe even
         spin up a debugger — you know, those confusing tools meant for old people
         and ohhhhh boy are they confusing, but the thing about debugging sessions is
         to just embrace the meaningless of it all, you don't fight it, you just embrace
