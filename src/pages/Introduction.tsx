@@ -161,14 +161,16 @@ export default function Introduction() {
       </Callout>
 
 
-      <h2>Okay but let's dummify it even further with some examples</h2>
+      <h2>Okay but let's talk about this phases a bit</h2>
+
+      <h3>Frontend</h3>
 
       <p>
         Let's start with the frontend, here roughly we also have three phases,
         scanning(lexing), parsing and static analysis.
       </p>
 
-      <h3>Scanning</h3>
+      <h4>Scanning</h4>
        
       <p>
         This phase pretty much boils down to one big dumb ass switch statement. We
@@ -188,24 +190,14 @@ export default function Introduction() {
       <Callout type="tip">
 
       <p><strong>Fun fact: </strong>
-        In ancient times, like two bilion years ago, human ancestors—such
-        as Homo erectus discovered how to control fire and somewhere in that period
-        when memory was precious resours "Scanner" refered to part of code that read
-        raw source code characters from disk and "Lexer" actually did something useful
-        with those characters, today no one cares anymore.
+        In ancient times, like two bilion years ago, human ancestors—such as Homo
+        erectus discovered how to control fire and somewhere in that period when memory
+        was precious resours <strong>"Scanner"</strong> refered to part of code that
+        read raw source code characters from disk and <strong>"Lexer"</strong> actually
+        did something useful with those characters, today no one cares anymore.
       </p>
 
       </Callout>
-
-       <p>
-         ... enough talk let's move to some smoking hot examples, need to comeup with
-         some catchy name, Scala Johansson will do for now.
-       </p>
-
-      <CodeBlock
-        language="plaintext"
-        code={`var scalaJohansson = "smoking hot, mind blown"`}
-      />
 
       </>
   );

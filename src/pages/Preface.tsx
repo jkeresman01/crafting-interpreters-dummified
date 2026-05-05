@@ -26,12 +26,12 @@ export default function Preface() {
 
       <p>
         This inspiration of mine is very funny thing, I draw it from everything,
-        sometimes I just drive around in my car with no obvious goal, sometimes I sit
-        in the park and just observe nature while reading something and my question is how
+        sometimes I just drive around in my car with no obvious goal, sometimes I sit in
+        the park and just observe nature while reading something and my question is how
         do you explain this to a normal 9 to 5, ikea, lets watch some television show
-        type of person. Don't get me wrong some televisons are more than televions and some
-        radios are just viby and open, but anyhowzzzy back to the main tought, it's always that one moment in the universe
-        that kickstarts my tought process, this time it was just smoking hot.
+        type of person. Don't get me wrong some televisons are more than televions,
+        but anyhowzzzy back to the main tought, it's always that one moment in the
+        universe that kickstarts my tought process, this time it was just smoking hot.
       </p>
 
       <p>
@@ -52,12 +52,12 @@ export default function Preface() {
       </p>
 
       <p>
-        So I'll do it the old way and share some thoughts along the way. Maybe even
+        So I'll do it the ways of old and share some thoughts along the way. Maybe even
         spin up a debugger — you know, those confusing tools meant for old people
         and ohhhhh boy are they confusing, but the thing about debugging sessions is
         to just embrace the meaningless of it all, you don't fight it, you just embrace
         it and click step over, step into buttons all day long, until you realize that
-        you forgot someting stupid seven hours ago.
+        you forgot someting stupid like seven hours ago.
       </p>
 
       <Callout type="tip">
@@ -125,8 +125,7 @@ export default function Preface() {
         this dumb "Why write this?" chapter? Well, the answer is to encourage people
         to write and share some thoughts. Remember, writing is your task. Judging,
         laughing or criticizing is the task of other people. You see how it all comes
-        together now....  and some toughts just go to waste if not shared, found her
-        extremely intriguing and smoking hot and now she is part of the book.
+        together now....  
        </p>
 
       <h1>Why read this ?</h1>
