@@ -131,16 +131,17 @@ export default function Introduction() {
       <p>
         So just listen, listen she was mindblowing, smoking hot and beauty is subjective
         btw, but phases are three: <strong>front end</strong> which is usually specific
-        to the source language that we are dealing with or in other words here we are
-        trying to figure out what the poet was trying to say, <strong>middle end </strong>
-        where we optimize a bunch of stuff, like do some constant folding, unroll some
-        loops etc. or in other words when we understand what poet tried to say, we can
-        swap it a bit while keeping the same semantics and finally at the end of the
-        story there comes <strong>back end</strong> so we have now optimized everything
-        that comes to mind and now is time to generate some machine instructions and
-        here the two most obvious things we can do are generate some bytecode or target
-        a specific chip architecture (x86, ARM...) or in other words we go back from
-        poetry to reality, pure on logic and instructions.
+        to the source language that we are dealing with or in other words here we
+        are trying to figure out what the poet was trying to say, <strong>middle end
+        </strong> where we optimize a bunch of stuff, like do some constant folding,
+        unroll some loops etc. or in other words when we understand what poet tried
+        to say, we can swap it a bit while keeping the same semantics and finally
+        at the end of the story there comes <strong>back end</strong> so we have now
+        optimized everything that comes to mind and now is time to generate some machine
+        instructions and here the two most obvious things we can do are generate some
+        bytecode or target a specific chip architecture (x86, ARM...) or in other words
+        we go back from poetry to reality, pure on logic and instructions. Ofcourse
+        it's quite more complex than that, but lets leave it there.
       </p>
 
       <Callout type="note">
