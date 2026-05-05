@@ -147,15 +147,16 @@ export default function Introduction() {
       <Callout type="note">
 
       <p><strong>Offtopic: </strong>
-        If your mind isn't already blown, like mine was, listen to this next thing. This
-        dude mentioned it in the video and it's called IR (Intermediate Representation).
-        It helps us with MxN problem and it also makes optimizations quite easier,
-        you see if you want to implement compilers for multiple languages and target
-        multiple architectures, you would need MxN implementations or, just listen to
-        this crazy idea, each frontend could target an intermediate representation,
-        and backend can then take that IR and produce native code. The reason why GCC
-        supports so many languages and architectures is exactly this, each frontend
-        targets an IR, mostly GIMPLE and RTL.
+        Okay if your mind isn't blown yet, like mine was, just listen to this next bit.
+        This dude in the video drops this thing called IR (Intermediate Representation),
+        and ohhhhh boy is it neat. It saves us from the dreaded MxN problem and makes
+        optimizations way easier on top of that. You see, if you want to ship compilers
+        for a bunch of languages and target a bunch of architectures, naively you'd need
+        MxN implementations — sounds painful, right? But just listen to this crazy idea:
+        each frontend targets some intermediate representation, and the backend takes
+        that IR and spits out native code. Boom, problem solved. The reason GCC supports
+        so many languages and so many chips is exactly this — every frontend targets an
+        IR, mostly GIMPLE and RTL, and that's that.
       </p>
 
       </Callout>
