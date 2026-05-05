@@ -12,7 +12,7 @@ export default function Introduction() {
         written in an overbloated IDE/editor called Visual Studio for which you need a
         2 years course in order to learn what all the buttons do while some work only
         during full blood moon. Like yes, yes you really need 14567 different options
-        for creating a controller.
+        for creating a controller and deleting WeatherForecasts is such a fun activity.
        </p>
 
        <p>
