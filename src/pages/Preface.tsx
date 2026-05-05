@@ -81,13 +81,13 @@ export default function Preface() {
     <h1>Why write this?</h1>
 
      <p>
-       Most books probably don't have this "chapter", but again this is my world and
+       Most books probably don't have this "chapter", but this is my world and
        we do it my way in here, funny, viby and cool, anyhowzzy I've stumbled across
        an interesting concept that got me thinking.
      </p>
 
       <p>
-        One simple side thought of mine before we move to that, thoughts are quite
+        Interesting side thought of mine before we move to that, thoughts are quite
         interesting, don't you agree? What we think, what we do, what we say and what
         we write might be all different things.
       </p>
@@ -115,14 +115,9 @@ export default function Preface() {
        </p>
 
        <p>
-        So back to <i>"Why write this?"</i> — well, writing this is <strong>my</strong>
+        So back to <i>"Why write this?"</i> — well, writing this is <strong>my </strong>
         task.  I'm doing it because it's mine, because that crosswalk lightning hit
         and hasn't let go. The rest is just noise, you know the vibe and all.
-       </p>
-
-       <p>
-         .... and I'm telling you, my thought in the world of thought was, don't think,
-         don't think, 'cause we boys have this..... nevermind.
        </p>
 
        <p>
@@ -137,7 +132,7 @@ export default function Preface() {
       <h1>Why read this ?</h1>
 
       <p>
-        This "chapter" is just really weird, for several reasons. First of all it should
+        This "chapter" is also really weird, for several reasons. First of all it should
         be on introduction page, but this is my world and we do it all different,
         funny and weird in here and second of all, this you should answer yourself.
         Perhaps you were behind me on the crosswalk and find yourself smoking hot,
