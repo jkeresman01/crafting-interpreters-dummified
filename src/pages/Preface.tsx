@@ -86,6 +86,23 @@ export default function Preface() {
        an interesting concept that got me thinking.
      </p>
 
+      <p>
+        Side thought of mine before we get to that — thoughts are quite
+        interesting, don't you agree? What we think, what we do, what we say
+        and what we write might all be different things.
+      </p>
+
+      <p>
+        You might find a woman particularly gorgeous and unique or a song
+        particularly viby, but it might just stay in the world of thought. You
+        might find a topic particularly boring, but say that it's interesting,
+        and you might say you're going to start exercising tomorrow, but never
+        actually do it — all different things, you see. Okay, okay you might
+        now think that's all cute and all but it doesn't answer the question
+        <i>"Why write this?"</i>. Just hang on, we'll get back to that "weird"
+        concept I've been thinking about.
+      </p>
+
        <p>
         This concept — Adler called it <i>"separation of tasks"</i>, fancy
         name for a dead simple idea: do your own tasks, stay out of everyone else's.
@@ -115,10 +132,13 @@ export default function Preface() {
       <h1>Why read this ?</h1>
 
       <p>
-        This "chapter" is also really weird, for several reasons. First of all it should
-        be on introduction page, but this is my world and we do it all different,
-        funny and weird in here and second of all, this you should answer yourself.
-        Perhaps you were behind me on the crosswalk and find yourself smoking hot,
+        Anyhowzzy, if writing this was my task, reading it is yours — and so the
+        why behind it is yours too. But I'll throw a few my way, you know just to
+        set the vibe. This "chapter" is also really weird, for several reasons.
+        First of all it should be on introduction page, but this is my world and
+        we do it all different, funny and weird in here and second of all, this
+        you should answer yourself. Perhaps you were behind me on the crosswalk
+        and find yourself smoking hot,
         perhaps you like my weird style of writing, or perhaps you are just interested
         in what I have to say about the topic. Reasons are many, whys are different but
         one thing is for sure you will enoy. You know the best authors make you feel,
