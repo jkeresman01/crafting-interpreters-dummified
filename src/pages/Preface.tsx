@@ -115,6 +115,21 @@ export default function Preface() {
         <i>"you should go to that university"</i>, and a hundred other classics.
        </p>
 
+        <Callout type="note">
+
+          <p><strong>Interesting side thought about this parenting story: </strong>
+            Adlerian psychology does not recommend a full non-interference approach,
+            one has to pay attention, but whose tasks are whose needs to be communicated
+            openly, still one must not intrude on others' tasks, but one can say that he
+            is there to help if assistance is needed, but one should never act unless
+            asked through open communication for assistance, since acting is an intrusion
+            into others' tasks, so the one acknowledges that it's not his task, that
+            he is there to assist, but continues focusing on his own tasks and not
+            interfering if not asked for assistance openly.
+          </p>
+
+       </Callout>
+
        <p>
         So back to <i>"Why write this?"</i> — well, writing this is <strong>my </strong>
         task.  I'm doing it because it's mine, because that crosswalk lightning hit
@@ -128,6 +143,21 @@ export default function Preface() {
         laughing or criticizing is the task of other people. You see how it all comes
         together now....  
        </p>
+
+        <Callout type="tip">
+
+          <p><strong>Fun fact: </strong>
+            I've stumbled across this huge pile of free time recently, and it's given me
+            more time to read — so you're gonna see a bunch of these side thoughts about
+            books that have changed the way I see the world. That's kinda the point. If
+            a book doesn't change the way you think, it isn't worth reading. If a programming
+            language doesn't change the way you think, it isn't worth learning...
+            So this will guide me trough this book, it needs to change the way that 
+            you see things in order to be worth readers attention.
+          </p>
+
+       </Callout>
+        
 
       <h1>Why read this ?</h1>
 
