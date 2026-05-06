@@ -153,7 +153,14 @@ export default function Preface() {
             a book doesn't change the way you think, it isn't worth reading. If a programming
             language doesn't change the way you think, it isn't worth learning...
             So this will guide me trough this book, it needs to change the way that 
-            you see things in order to be worth readers attention.
+            you see things in order to be worth readers attention...
+          </p>
+
+          <p>
+            You'll see some of this ideas are general like <i>"You are not the center
+            of the world"</i>, "separation of tasks idea", "life is not a competition",
+            while some are mine, perhaps might change the way that you think, perhaps
+            not and some are just smoking hot.
           </p>
 
        </Callout>
