@@ -38,7 +38,8 @@ export default function Introduction() {
        In simple terms compilers take the source code, do some voodoo magic in between
        and spit out some other form, the poet is then free to do whatever he wants
        with that other form, while interpreters take the source code and execute it
-       immediately, or in other words run from source.
+       immediately, or in other words <i>"run from source"</i>. You see how I used 
+       poet and not an programmer, programming is art, never forget that.
       </p>
 
       <h2>Okay but let's dummify it even further with some examples</h2>
@@ -55,22 +56,8 @@ export default function Introduction() {
       />
 
       <p>
-        Let's say, hypothetically that this is a compiled language, that would mean that
-        user would need to compile this nonsense, generate some usually lower level
-        form, let's say an executable. User could then execute this program, which
-        would result in this beautiful and truthful printout: <i>"She was smoking hot,
-        mind blown!"</i>
-      </p>
-
-      <p>
-        On the other hand if this language implementation was an interpreter, user
-        would take this source and execute it immediately, giving him this beautiful
-        and truthful printout: <i>"She was smoking hot, mind blown!"</i>
-      </p>
-
-      <p>
-        But now it's time to really lose a few brain cells, let's say that in SmallBoober
-        you could do something like this:
+        So let's loose few brain cells now, let's say that in SmallBoober you could 
+        do something like this:
       </p>
 
       <CodeBlock
