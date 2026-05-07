@@ -184,6 +184,16 @@ export default function Preface() {
         entertaining, just trust me on this one.
       </p>
 
+       <Callout type="note">
+          <p><strong>Coming back to non-interference approach: </strong>
+            Adlerian psychology does not recommend a full non-interference approach
+            and altought writing this is my task and judging or criticising is task
+            of other people, one can improve content only if asked directly and openly, 
+            since assumptions about what's written can be interpreted wrong.
+          </p>
+       </Callout>
+
+
       <Callout type="tip">
 
         <p>Artists built the machithos</p>

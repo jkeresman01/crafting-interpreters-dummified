@@ -48,7 +48,7 @@ export default function Introduction() {
         it's also about craft, but I's also about love, perhaps my task was on that
         crosswalk to act, haven't seen anything as hot since that, perhaps thinking
         she would read is too crazy of a tought, perhaps haven't been paying attention
-        that much, since she was still in the tought.
+        lately that much, since she was still in the tought.
       </p>
 
       </Callout>
