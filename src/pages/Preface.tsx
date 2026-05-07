@@ -120,19 +120,19 @@ export default function Preface() {
           <p><strong>Interesting side thought about this parenting story: </strong>
             Adlerian psychology does not recommend a full non-interference approach,
             one has to pay attention, but whose tasks are whose needs to be communicated
-            openly, still one must not intrude on others' tasks, but one can say that he
-            is there to help if assistance is needed, but one should never act unless
-            asked through open communication for assistance, since acting is an intrusion
-            into others' tasks, so the one acknowledges that it's not his task, that
-            he is there to assist, but continues focusing on his own tasks and not
-            interfering if not asked for assistance openly.
+            openly, still one must not intrude on others' tasks, but one can say that
+            he is there to help if assistance is needed, but one should never act
+            unless asked through open communication for assistance, since acting is
+            an intrusion into others' tasks, so the one acknowledges that it's not
+            his task, that he is there to assist, but continues focusing on his own
+            tasks and not interfering if not asked for assistance openly.
           </p>
 
        </Callout>
 
        <p>
         So back to <i>"Why write this?"</i> — well, writing this is <strong>my </strong>
-        task.  I'm doing it because it's mine, because that crosswalk lightning hit
+        task. I'm doing it because it's mine, because that crosswalk lightning hit
         and hasn't let go. The rest is just noise, you know the vibe and all.
        </p>
 

@@ -17,30 +17,41 @@ export default function Introduction() {
 
        <p>
         The answer is of course not, we do some actual programming in here. We will vibe,
-        we will code and we will write, five times we will implement an interpreter and
-        five different languages we will use. No sciency boring stuff, just pure fun.
-        Before all that we need to introduce some jargon, so we will talk about love
-        towards programming, about "Statements" of intent and "Expression's" of feelings,
-        alognside some other stuff. But first lets see what this interpreter thing
-        actually is and be aware if your background is too sciency, you will lose
-        few brain cells along the way I promise you that.
+        we will code and we will write, five times we will implement an interpreter
+        and five different languages we will use. No sciency boring stuff, just pure
+        fun. Before all that we need to introduce some jargon, so we will talk about
+        love towards programming, about "Statements" of intent and "Expression's" of
+        feelings, alognside some other stuff. But first lets see what this interpreter
+        thing actually is and be aware if your background is too sciency, you will
+        lose few brain cells along the way I promise you that.
        </p>
 
       <h1>Interpreters vs Compilers</h1>
 
       <p>
        There are, generally speaking, two gems in this story: compilers and interpreters.
-       Some implementations sit clearly on one side; for others it's hard to tell — they
-       might even be both, but let's not go too far into that.
+       Some implementations sit clearly on one side; for others it's hard to tell —
+       they might even be both, but let's not go too far into that.
       </p>
 
       <p>
        In simple terms compilers take the source code, do some voodoo magic in between
        and spit out some other form, the poet is then free to do whatever he wants
        with that other form, while interpreters take the source code and execute it
-       immediately, or in other words <i>"run from source"</i>. You see how I used 
-       poet and not an programmer, programming is art, never forget that.
+       immediately, or in other words <i>"run from source"</i>.
       </p>
+
+      <Callout type="tip">
+
+      <p><strong>Interesting side tought: </strong>
+        You, see how I used poet and not a programmer, programming is an art, but
+        it's also about craft, but I's also about love, perhaps my task was on that
+        crosswalk to act, haven't seen anything as hot since that, perhaps thinking
+        she would read is too crazy of a tought, perhaps haven't been paying attention
+        that much, since she was still in the tought.
+      </p>
+
+      </Callout>
 
       <h2>Okay but let's dummify it even further with some examples</h2>
 
