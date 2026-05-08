@@ -51,6 +51,20 @@ export default function Introduction() {
         lately that much, since she was still in the tought.
       </p>
 
+      <p>And oohh, artists built the machithos</p>
+            
+      <iframe
+          width="100%"
+          height="315"
+          src="https://www.youtube.com/embed/1tQ5XwvjPmA?start=1065&end=1087"
+          title="Artist build the machinthos"
+          loading="lazy"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowFullScreen
+          style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
+       </iframe>
+
       </Callout>
 
       <h2>Okay but let's dummify it even further with some examples</h2>
