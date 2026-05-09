@@ -6,22 +6,22 @@ export default function Preface() {
       <h1>How did it start?</h1>
 
       <p>
-        Yesterday I closed one important chapter of my life. I finished my first
-        book and left with one last piece of wisdom that will carry me through this one:
+        Yesterday I closed one important chapter of my life. I finished my first book
+        and left with one last piece of wisdom that will carry me through this one:
         <i>"<strong>Just talk, don't walk</strong>: The continuation of the thought,
         five languages one interpreter"</i>
       </p>
 
       <p>
-        That book started with a funny story; this one is a bit different, so let's
-        go back to where it started. That same <i>"closing chapter day"</i> I was
-        sipping coffee, talking nonsense in some bar — perhaps more of a <i>"hole"</i>
+        That book started with a funny story; this one is a bit different, so let's go
+        back to where it started. That same <i>"closing chapter day"</i> I was sipping
+        coffee, talking nonsense in some bar — perhaps more of a <i>"hole"</i>
         — and decided to go for a walk, you know, to shift back into the world of
         thought. Just before my return to the said <i>"hole"</i>, I was struck by
         lightning: that one smoking hot red-haired badass goddess I just saw. Ofcourse
         struck by a lightning in world of tought, in real world I was just on crosswalk
-        and day was fairly sunny so I just continued to walk, but ohhhhh boy even in the 
-        world of tought my mind was blown, you know the vibe and all.
+        and day was fairly sunny so I just continued to walk, but ohhhhh boy even in
+        the world of tought my mind was blown, you know the vibe and all.
       </p>
 
       <p>
@@ -43,21 +43,21 @@ export default function Preface() {
       </p>
 
      <p>
-        Five languages or not — does it really matter? Given an implementation
-        in one, AI can handle the rest. But with all of that, the joy
-        of programming has disappeared. <strong>Don't you agree?</strong>  We've lost
-        that sense of building something slowly, step by step. You know to write a
-        small piece of software and you can't really tell if it works — you have to
-        test how it behaves, step by step, day by day.
+        Five languages or not — does it really matter? Given an implementation in
+        one, AI can handle the rest. But with all of that, the joy of programming
+        has disappeared. <strong>Don't you agree?</strong>  We've lost that sense of
+        building something slowly, step by step. You know to write a small piece of
+        software and you can't really tell if it works — you have to test how it
+        behaves, step by step, day by day.
       </p>
 
       <p>
-        So I'll do it in the ways of old and share some thoughts along the way. Maybe even
-        spin up a debugger — you know, those confusing tools meant for old people
-        and ohhhhh boy are they confusing, but the thing about debugging sessions is
-        to just embrace the meaningless of it all, you don't fight it, you just embrace
-        it and click step over, step into buttons all day long, until you realize that
-        you forgot someting stupid like seven hours ago.
+        So I'll do it in the ways of old and share some thoughts along the way. Maybe
+        even spin up a debugger — you know, those confusing tools meant for old
+        people and ohhhhh boy are they confusing, but the thing about debugging
+        sessions is to just embrace the meaningless of it all, you don't fight it,
+        you just embrace it and click step over, step into buttons all day long,
+        until you realize that you forgot someting stupid like seven hours ago.
       </p>
 
       <Callout type="tip">
@@ -93,25 +93,24 @@ export default function Preface() {
       </p>
 
       <p>
-        You might find a woman particularly gorgeous and unique or a song
-        particularly viby, but it might just stay in the world of thought. You
-        might find a topic particularly boring, but say that it's interesting,
-        and you might say you're going to start exercising tomorrow, but never
-        actually do it — all different things, you see. Okay, okay you might
-        now think that's all cute and all but it doesn't answer the question
-        <i>"Why write this?"</i>. Just hang on, we'll get back to that "weird"
-        concept I've been thinking about.
+        You might find a woman particularly gorgeous and unique or a song particularly
+        viby, but it might just stay in the world of thought. You might find a topic
+        particularly boring, but say that it's interesting, and you might say you're
+        going to start exercising tomorrow, but never actually do it — all different
+        things, you see. Okay, okay you might now think that's all cute and all but
+        it doesn't answer the question <i>"Why write this?"</i>. Just hang on, we'll
+        get back to that "weird" concept I've been thinking about.
       </p>
 
        <p>
-        This concept — Adler called it <i>"separation of tasks"</i>, fancy
-        name for a dead simple idea: do your own tasks, stay out of everyone else's.
+        This concept — Adler called it <i>"separation of tasks"</i>, fancy name
+        for a dead simple idea: do your own tasks, stay out of everyone else's.
         Classic setup, kid doesn't feel like studying, parent rolls in with the old
         <i>"it's for your own good"</i> routine. Sounds noble, right? Ohhhhh boy, no.
         Studying is the kid's task, parent is just barging in, and here's the kicker
-        — it's not for the kid's good at all, it's for the parent's, just dressed up
-        real nice. They're worried about how they look in the eyes of society, you
-        know the vibe. Same energy with <i>"when will you get married?"</i>,
+        — it's not for the kid's good at all, it's for the parent's, just dressed
+        up real nice. They're worried about how they look in the eyes of society,
+        you know the vibe. Same energy with <i>"when will you get married?"</i>,
         <i>"you should go to that university"</i>, and a hundred other classics.
        </p>
 
@@ -141,24 +140,24 @@ export default function Preface() {
         this dumb "Why write this?" chapter? Well, the answer is to encourage people
         to write and share some thoughts. Remember, writing is your task. Judging,
         laughing or criticizing is the task of other people. You see how it all comes
-        together now....  
+        together now....
        </p>
 
         <Callout type="tip">
 
           <p><strong>Fun fact: </strong>
-            I've stumbled across this huge pile of free time recently, and it's given me
-            more time to read — so you're gonna see a bunch of these side thoughts about
-            books that have changed the way I see the world. That's kinda the point. If
-            a book doesn't change the way you think, it isn't worth reading. If a programming
-            language doesn't change the way you think, it isn't worth learning...
-            So this will guide me trough this book, it needs to change the way that 
-            you see things in order to be worth readers attention...
+            I've stumbled across this huge pile of free time recently, and it's
+            given me more time to read — so you're gonna see a bunch of these side
+            thoughts about books that have changed the way I see the world. That's
+            kinda the point. If a book doesn't change the way you think, it isn't worth
+            reading. If a programming language doesn't change the way you think, it
+            isn't worth learning...  So this will guide me trough this book, it needs to
+            change the way that you see things in order to be worth readers attention...
           </p>
 
           <p>
             You'll see some of this ideas are general like <i>"You are not the center
-            of the world"</i>, "separation of tasks idea", "life is not a competition",
+            of the world"</i>, "separation of tasks", "life is not a competition",
             while some are mine, perhaps might change the way that you think, perhaps
             not and some are just smoking hot.
           </p>
@@ -173,23 +172,24 @@ export default function Preface() {
         why behind it is yours too. But I'll throw a few my way, you know just to
         set the vibe. This "chapter" is also really weird, for several reasons.
         First of all it should be on introduction page, but this is my world and
-        we do it all different, funny and weird in here and second of all, this
-        you should answer yourself. Perhaps you were behind me on the crosswalk
-        and find yourself smoking hot,
-        perhaps you like my weird style of writing, or perhaps you are just interested
-        in what I have to say about the topic. Reasons are many, whys are different but
-        one thing is for sure you will enoy. You know the best authors make you feel,
-        some pages make you cry, some role your eyes, some laugh, some frustrate.
-        But, but, but just trust the process, you will enyoj the ride, I'm quite 
-        entertaining, just trust me on this one.
+        we do it all different, funny and weird in here and second of all, this you
+        should answer yourself. Perhaps you were behind me on the crosswalk and find
+        yourself smoking hot, perhaps you like my weird style of writing, or perhaps
+        you are just interested in what I have to say about the topic. Reasons are
+        many, whys are different but one thing is for sure you will enoy. You know
+        the best authors make you feel, some pages make you cry, some role your eyes,
+        some laugh, some frustrate.  But, but, but just trust the process, you will
+        enyoj the ride, I'm quite entertaining, just trust me on this one.
       </p>
 
        <Callout type="note">
           <p><strong>Coming back to non-interference approach: </strong>
             Adlerian psychology does not recommend a full non-interference approach
-            and altought writing this is my task and judging or criticising is task
-            of other people, one can improve content only if asked directly and openly, 
-            since assumptions about what's written can be interpreted wrong.
+            and altought writing this is my task and judging or criticising is task of
+            other people, one can improve content only if asked directly and openly,
+            since assumptions about what's written can be interpreted wrong, you see
+            how I used interpreted, because we're  building interpreters, you can read
+            all about them in pages to come.
           </p>
        </Callout>
 
