@@ -42,42 +42,6 @@ export default function Preface() {
         I walk? Is it to bring me into the world of thought?"
       </p>
 
-     <p>
-        Five languages or not — does it really matter? Given an implementation in
-        one, AI can handle the rest. But with all of that, the joy of programming
-        has disappeared. <strong>Don't you agree?</strong>  We've lost that sense of
-        building something slowly, step by step. You know to write a small piece of
-        software and you can't really tell if it works — you have to test how it
-        behaves, step by step, day by day.
-      </p>
-
-      <p>
-        So I'll do it in the ways of old and share some thoughts along the way. Maybe
-        even spin up a debugger — you know, those confusing tools meant for old
-        people and ohhhhh boy are they confusing, but the thing about debugging
-        sessions is to just embrace the meaningless of it all, you don't fight it,
-        you just embrace it and click step over, step into buttons all day long,
-        until you realize that you forgot someting stupid like seven hours ago.
-      </p>
-
-      <Callout type="tip">
-        <strong>I don't understand my debugger</strong>
-
-        <br />
-
-        <iframe
-            width="100%"
-            height="315"
-            src="https://www.youtube.com/embed/QfIOCyXBttY"
-            title="I don't understand my debugger"
-            loading="lazy"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowFullScreen
-            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
-        </iframe>
-      </Callout>
-
     <h1>Why write this?</h1>
 
      <p>
