@@ -63,12 +63,12 @@ export default function Introduction() {
 
       <Callout type="note">
           <p><strong>Interesting side tought: </strong>
-            Philosophy is important Bjarne Stroustrup also thinks that, of course
-            he talks about language design, debuggers are tools of old, I will
-            acknowledge that, young's are faster to learn and adapt, young in age,
-            or young is spirit, still minds are quite bright, "Young people walk ahead
-            of the adults" all concepts that came from the book, perhaps "you doubt"
-            could the moment of subjective reality trap, perhaps I needed to test this
+            Philosophy is important Bjarne Stroustrup also thinks that, of course he
+            talks about language design, debuggers are tools of old, I will acknowledge
+            that, young's are faster to learn and adapt, young in age, or young is
+            spirit, still minds are quite bright, "Young people walk ahead of the
+            adults" all concepts that came from the book, perhaps "you doubt" could
+            be the moment of subjective reality trap, perhaps I needed to test this
             concept out, genuine look, on first walk by proved just that, nonetheless
             it did brought an <strong> interest</strong>ing thought <strong>of
             mine</strong>. Keep looking at debugger or not? AI is here to stay and
