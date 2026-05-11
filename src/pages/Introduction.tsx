@@ -19,18 +19,18 @@ export default function Introduction() {
         we will code and we will write, five times we will implement an interpreter
         and five different languages we will use. No sciency boring stuff, just pure
         fun. Before all that we need to introduce some jargon, so we will talk about
-        love towards programming, about "Statements" of intent and "Expression's" of
-        feelings, alongside some other stuff. 
+        love towards programming, about "Statements" of intent and "Expression's"
+        of feelings, alongside some other stuff.
        </p>
 
        <p>
         Five languages or not, which ones to use, that's currently on my mind, perhaps
-        reading will get my inspiration back — but again does it really matter? Given an 
-        implementation in one, AI can handle the rest. But with all of that, the joy of 
-        programming has disappeared. <strong>Don't you agree?</strong>  We've lost that sense of
-        building something slowly, step by step. You know to write a small piece of
-        software and you can't really tell if it works — you have to test how it
-        behaves, step by step, day by day.
+        reading will get my inspiration back — but again does it really matter? Given
+        an implementation in one, AI can handle the rest. But with all of that, the
+        joy of programming has disappeared. <strong>Don't you agree?</strong>  We've
+        lost that sense of building something slowly, step by step. You know to write
+        a small piece of software and you can't really tell if it works — you have
+        to test how it behaves, step by step, day by day.
       </p>
 
       <p>
