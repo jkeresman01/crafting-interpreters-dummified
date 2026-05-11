@@ -33,7 +33,7 @@ export default function Preface() {
         but anyhowzzzy back to the main tought, it's always that one moment in the
         universe that kickstarts my tought process, this time it was just smoking hot.
       </p>
-
+      
       <p>
         Smoking hot or not, the inspiration to write was back and the idea was born.
         I will dummify the the concepts taught in the <i>"Crafting Interpreters"</i>
@@ -58,6 +58,13 @@ export default function Preface() {
         </iframe>
       </Callout>
 
+      <p>
+         It's also quite funny, how hard it's to get readers engaged or even 
+         a readers count above one, first book had this questions story so that
+         brought some readers count, this one could be just dull boring technical 
+         one with readers count of none, perhaps philosophy could be the thing that
+         could keep this one interesting.
+      </p>
 
     <h1>Why write this?</h1>
 
