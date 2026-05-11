@@ -71,7 +71,8 @@ export default function Preface() {
         things I write are just confusing on their own, some aren't even my words but
         bits from people the moment reminded me of, and some, ohhhhh boy, some don't
         even make damn sense to me. So just remember — everything I write and do
-        comes out of love.
+        comes out of love, some moments are genuine and cute, some smoking hot and some
+        concepts are best explained trough Adlers tought.
       </p>
 
     <h1>Why write this?</h1>
