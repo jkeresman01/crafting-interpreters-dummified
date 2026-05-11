@@ -18,10 +18,10 @@ export default function Preface() {
         coffee, talking nonsense in some bar — perhaps more of a <i>"hole"</i>
         — and decided to go for a walk, you know, to shift back into the world of
         thought. Just before my return to the said <i>"hole"</i>, I was struck by
-        lightning: that one smoking hot red-haired badass goddess I just saw. Ofcourse
-        struck by a lightning in world of tought, in real world I was just on crosswalk
+        lightning: that one smoking hot red-haired badass goddess I just saw. Of course
+        struck by a lightning in world of thought, in real world I was just on crosswalk
         and day was fairly sunny so I just continued to walk, but ohhhhh boy even in
-        the world of tought my mind was blown, you know the vibe and all.
+        the world of thought my mind was blown, you know the vibe and all.
       </p>
 
       <p>
@@ -29,14 +29,14 @@ export default function Preface() {
         sometimes I just drive around in my car with no obvious goal, sometimes I sit in
         the park and just observe nature while reading something and my question is how
         do you explain this to a normal 9 to 5, ikea, lets watch some television show
-        type of person. Don't get me wrong some televisons are more than televions,
-        but anyhowzzzy back to the main tought, it's always that one moment in the
-        universe that kickstarts my tought process, this time it was just smoking hot.
+        type of person. Don't get me wrong some televisions are more than televisions,
+        but anyhowzzzy back to the main thought, it's always that one moment in the
+        universe that kickstarts my thought process, this time it was just smoking hot.
       </p>
       
       <p>
         Smoking hot or not, the inspiration to write was back and the idea was born.
-        I will dummify the the concepts taught in the <i>"Crafting Interpreters"</i>
+        I will dummify the concepts taught in the <i>"Crafting Interpreters"</i>
         book from Robert Nystrom, speak a bit about different programming languages,
         how to implement an interpreter in them and to answer the question: <strong><i>"Why do
         I walk? Is it to bring me into the world of thought?"</i></strong>
@@ -139,7 +139,7 @@ export default function Preface() {
             thoughts about books that have changed the way I see the world. That's
             kinda the point. If a book doesn't change the way you think, it isn't worth
             reading. If a programming language doesn't change the way you think, it
-            isn't worth learning...  So this will guide me trough this book, it needs to
+            isn't worth learning...  So this will guide me through this book, it needs to
             change the way that you see things in order to be worth readers attention...
           </p>
 
@@ -164,16 +164,16 @@ export default function Preface() {
         should answer yourself. Perhaps you were behind me on the crosswalk and find
         yourself smoking hot, perhaps you like my weird style of writing, or perhaps
         you are just interested in what I have to say about the topic. Reasons are
-        many, whys are different but one thing is for sure you will enoy. You know
-        the best authors make you feel, some pages make you cry, some role your eyes,
+        many, whys are different but one thing is for sure you will enjoy. You know
+        the best authors make you feel, some pages make you cry, some roll your eyes,
         some laugh, some frustrate.  But, but, but just trust the process, you will
-        enyoj the ride, I'm quite entertaining, just trust me on this one.
+        enjoy the ride, I'm quite entertaining, just trust me on this one.
       </p>
 
        <Callout type="note">
           <p><strong>Coming back to non-interference approach: </strong>
             Adlerian psychology does not recommend a full non-interference approach
-            and altought writing this is my task and judging or criticising is task of
+            and although writing this is my task and judging or criticising is task of
             other people, one can improve content only if asked directly and openly,
             since assumptions about what's written can be interpreted wrong, you see
             how I used interpreted, because we're  building interpreters, you can read

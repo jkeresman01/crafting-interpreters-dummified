@@ -21,7 +21,7 @@ export default function Introduction() {
         and five different languages we will use. No sciency boring stuff, just pure
         fun. Before all that we need to introduce some jargon, so we will talk about
         love towards programming, about "Statements" of intent and "Expression's" of
-        feelings, alognside some other stuff. 
+        feelings, alongside some other stuff. 
        </p>
 
        <p>
@@ -41,7 +41,7 @@ export default function Introduction() {
         people and ohhhhh boy are they confusing, but the thing about debugging
         sessions is to just embrace the meaningless of it all, you don't fight it,
         you just embrace it and click step over, step into buttons all day long,
-        until you realize that you forgot someting stupid like seven hours ago.
+        until you realize that you forgot something stupid like seven hours ago.
       </p>
 
       <Callout type="tip">
@@ -63,23 +63,23 @@ export default function Introduction() {
       </Callout>
 
       <Callout type="note">
-          <p><strong>Interesting side tought: </strong>
+          <p><strong>Interesting side thought: </strong>
             Philosophy is important Bjarne Stroustrup also thinks that, of course he
             talks about language design, debuggers are tools of old, I will acknowledge
-            that, young's are faster to learn and adapt, young in age, or young is
+            that, young's are faster to learn and adapt, young in age, or young in
             spirit, still minds are quite bright, "Young people walk ahead of the adults"
             all concepts that came from the book, perhaps "you doubt" could be the
             moment of subjective reality trap, perhaps I needed to test this concept
-            out, the subjective reallity one,  genuine look, on first walk by proved
+            out, the subjective reality one,  genuine look, on first walk by proved
             just that, nonetheless it did brought an <strong> interest</strong>ing
             thought <strong>of mine</strong>. Keep looking at debugger or not? AI is
             here to stay and putting few breakpoints in could generally be just huge
             waste of time, vibes are important, and that's that. Anyhowzzy, on the
-            second tought, one debugging session afterwards, perhaps second walk by
-            trought the codebase, failed to prove that, deubugging in the ways of old
+            second thought, one debugging session afterwards, perhaps second walk by
+            through the codebase, failed to prove that, debugging in the ways of old
             is quite fun. You see, it's all subjective reality trap, perhaps for some,
-            stepping trough debugger is the only way, but we should try to see things
-            objectivly, perhaps one different look, or viewpoint can change your mind,
+            stepping through debugger is the only way, but we should try to see things
+            objectively, perhaps one different look, or viewpoint can change your mind,
             AI is also quite fun.
           </p>
        </Callout>
@@ -107,21 +107,21 @@ export default function Introduction() {
 
       <Callout type="tip">
 
-      <p><strong>Interesting side tought: </strong>
+      <p><strong>Interesting side thought: </strong>
         You, see how I used poet and not a programmer, programming is an art, but
-        it's also about craft, but I's also about love, perhaps my task was on that
+        it's also about craft, but it's also about love, perhaps my task was on that
         crosswalk to act, haven't seen anything as hot since that, perhaps thinking
-        she would read is too crazy of a tought, perhaps haven't been paying attention
-        lately that much, since she was still in the tought.
+        she would read is too crazy of a thought, perhaps haven't been paying attention
+        lately that much, since she was still in the thought.
       </p>
 
-      <p>And oohh, artists built the machithos</p>
+      <p>And oohh, artists built the Macintosh</p>
             
       <iframe
           width="100%"
           height="315"
           src="https://www.youtube.com/embed/1tQ5XwvjPmA?start=1065&end=1087"
-          title="Artist build the machinthos"
+          title="Artists built the Macintosh"
           loading="lazy"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -145,7 +145,7 @@ export default function Introduction() {
       />
 
       <p>
-        So let's loose few brain cells now, let's say that in SmallBoober you could 
+        So let's lose few brain cells now, let's say that in SmallBoober you could 
         do something like this:
       </p>
 
@@ -195,7 +195,7 @@ export default function Introduction() {
             width="100%"
             height="315"
             src="https://www.youtube.com/embed/BT2Cv-Tjq7Q?start=48&end=61"
-            title="Artist builds the machinthos"
+            title="Artists built the Macintosh"
             loading="lazy"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -216,7 +216,7 @@ export default function Introduction() {
         optimized everything that comes to mind and now is time to generate some machine
         instructions and here the two most obvious things we can do are generate some
         bytecode or target a specific chip architecture (x86, ARM...) or in other words
-        we go back from poetry to reality, pure on logic and instructions. Ofcourse
+        we go back from poetry to reality, pure on logic and instructions. Of course
         it's quite more complex than that, but lets leave it there.
       </p>
 
@@ -267,9 +267,9 @@ export default function Introduction() {
       <Callout type="tip">
 
       <p><strong>Fun fact: </strong>
-        In ancient times, like two bilion years ago, human ancestors—such as Homo
+        In ancient times, like two billion years ago, human ancestors—such as Homo
         erectus discovered how to control fire and somewhere in that period when memory
-        was precious resours <strong>"Scanner"</strong> refered to part of code that
+        was precious resource <strong>"Scanner"</strong> referred to part of code that
         read raw source code characters from disk and <strong>"Lexer"</strong> actually
         did something useful with those characters, today no one cares anymore.
       </p>
