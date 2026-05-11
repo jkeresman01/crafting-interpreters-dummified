@@ -26,9 +26,10 @@ export default function Introduction() {
 
        <p>
 
-        Five languages or not — does it really matter? Given an implementation in
-        one, AI can handle the rest. But with all of that, the joy of programming
-        has disappeared. <strong>Don't you agree?</strong>  We've lost that sense of
+        Five languages or not, which ones to use, that's currently on my mind, perhaps
+        reading will get my inspiration back — but again does it really matter? Given an 
+        implementation in one, AI can handle the rest. But with all of that, the joy of 
+        programming has disappeared. <strong>Don't you agree?</strong>  We've lost that sense of
         building something slowly, step by step. You know to write a small piece of
         software and you can't really tell if it works — you have to test how it
         behaves, step by step, day by day.
