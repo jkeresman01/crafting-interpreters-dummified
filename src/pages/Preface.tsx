@@ -38,9 +38,26 @@ export default function Preface() {
         Smoking hot or not, the inspiration to write was back and the idea was born.
         I will dummify the the concepts taught in the <i>"Crafting Interpreters"</i>
         book from Robert Nystrom, speak a bit about different programming languages,
-        how to implement an interpreter in them and to answer the question: "Why do
-        I walk? Is it to bring me into the world of thought?"
+        how to implement an interpreter in them and to answer the question: <strong><i>"Why do
+        I walk? Is it to bring me into the world of thought?"</i></strong>
       </p>
+
+      <Callout type="tip">
+        <p><strong>Here is funny story from Stevy, his walks and curiosity: </strong></p>
+
+        <iframe
+            width="100%"
+            height="315"
+            src="https://www.youtube.com/embed/UF8uR6Z6KLc?start=162&end=210"
+            title="I don't understand my debugger"
+            loading="lazy"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
+        </iframe>
+      </Callout>
+
 
     <h1>Why write this?</h1>
 
