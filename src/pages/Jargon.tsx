@@ -4,7 +4,10 @@ export default function Jargon() {
       <h1>Jargon & some boring stuff</h1>
 
       <p>
-        Coming soon — the jargon, dummified.
+        Was thinking about writing about parser stage for quite some time, but some
+        jargon is important before we move to that, we will ofcourse be led by love,
+        talk about "Statements" of intent and "Expressions" of feelings, alogside
+        nature, trees, grammars, how do we represent the code and boring stuff like that.
       </p>
     </>
   );
