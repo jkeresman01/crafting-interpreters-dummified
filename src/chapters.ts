@@ -4,6 +4,9 @@ export const chapters = [
     items: [
       { label: 'Preface', path: '/' },
       { label: 'Introduction', path: '/introduction' },
+      { label: 'Interpreters vs Compilers', path: '/interpreters-vs-compilers' },
+      { label: 'Jargon & some boring stuff', path: '/jargon' },
+      { label: 'Phases of Compiler', path: '/phases-of-compiler' },
     ],
   },
 ];
