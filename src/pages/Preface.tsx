@@ -59,11 +59,11 @@ export default function Preface() {
       </Callout>
 
       <p>
-         It's also quite funny, how hard it's to get readers engaged or even 
-         a readers count above one, first book had this questions story so that
-         brought some readers count, this one could be just dull boring technical 
-         one with readers count of none, perhaps philosophy could be the thing that
-         could keep this one interesting.
+         It's also quite funny, how hard it's to get readers engaged or even a readers
+         count above one, first book had this questions story so that brought some
+         readers count by accident, this one could be just dull boring technical one
+         with readers count of none, perhaps philosophy could be the thing that could
+         keep this one interesting.
       </p>
 
     <h1>Why write this?</h1>
