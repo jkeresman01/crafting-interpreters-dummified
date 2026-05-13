@@ -103,6 +103,23 @@ export default function InterpretersVsCompilers() {
         in the actual book.
       </p>
 
+     <h2>Okay this might be too viby and all so let's see concrete examples</h2>
+
+     <h3>C++ — a compiled language</h3>
+
+     <p>
+        C++ is a compiled language, right, so this is what needs to happen for a program
+        to run, of course in simple terms but nonetheless concrete example it is.
+     </p>
+
+    <p>
+      So for a C++ program to run it has to be processed by a compiler which would then
+      generate a lower level form, in this case object files, which then get combined
+      by a linker generating an executable program, the executable gets generated for a
+      specific hardware/system combination, so it would run fast — but that's also the
+      downside, portability suffers. Nonetheless, C++ source is still a portable one.
+    </p>
+
     </>
   );
 }
