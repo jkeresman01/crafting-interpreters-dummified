@@ -5,7 +5,8 @@ import Introduction from './pages/Introduction';
 import Jargon from './pages/Jargon';
 import InterpretersVsCompilers from './pages/InterpretersVsCompilers';
 import PhasesOfCompiler from './pages/PhasesOfCompiler';
-import SmallBoober from './pages/SmallBoober';
+import SmallBooberIntroduction from './pages/smallboober/Introduction';
+import DataTypes from './pages/smallboober/DataTypes';
 
 export default function App() {
   return (
@@ -16,7 +17,8 @@ export default function App() {
         <Route path="/jargon" element={<Jargon />} />
         <Route path="/interpreters-vs-compilers" element={<InterpretersVsCompilers />} />
         <Route path="/phases-of-compiler" element={<PhasesOfCompiler />} />
-        <Route path="/smallboober" element={<SmallBoober />} />
+        <Route path="/smallboober/introduction" element={<SmallBooberIntroduction />} />
+        <Route path="/smallboober/data-types" element={<DataTypes />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Route>
     </Routes>

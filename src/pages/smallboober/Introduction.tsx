@@ -1,7 +1,7 @@
-export default function SmallBoober() {
+export default function Introduction() {
   return (
     <>
-      <h1>SmallBoober</h1>
+      <h1>Introduction</h1>
 
       <p>
         Okay, okay but we need a language in order for this to make any sense, this

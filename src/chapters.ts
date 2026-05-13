@@ -7,7 +7,13 @@ export const chapters = [
       { label: 'Interpreters vs Compilers', path: '/interpreters-vs-compilers' },
       { label: 'Jargon & some boring stuff', path: '/jargon' },
       { label: 'Phases of Compiler', path: '/phases-of-compiler' },
-      { label: 'SmallBoober', path: '/smallboober' },
+    ],
+  },
+  {
+    title: 'SmallBoober',
+    items: [
+      { label: 'Introduction', path: '/smallboober/introduction' },
+      { label: 'DataTypes', path: '/smallboober/data-types' },
     ],
   },
 ];
