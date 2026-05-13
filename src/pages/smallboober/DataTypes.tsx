@@ -5,7 +5,7 @@ export default function DataTypes() {
     <>
       <h1>DataTypes</h1>
 
-      <p>Okay, okay there is nothing too smart about this data types,
+      <p>Okay, okay there is nothing too smart about these data types,
          some things are just as they are, we will just follow what "Lox" does in this
          regard, since that's just how it gets done, can't even bring philisophy in
          because it's just as boring as that.</p>
@@ -13,7 +13,7 @@ export default function DataTypes() {
       <h2>Booleans</h2>
 
       <p>One billion years ago, some languages repurposed existing data types to
-      represent what's true and whats false, today most modern languages have dedicated
+      represent what's true and what's false, today most modern languages have dedicated
       data types, so we will just follow that and use plain simple `True` and `False`</p>
 
       <CodeBlock
@@ -29,12 +29,12 @@ export default function DataTypes() {
       <h2>Numbers</h2>
        <p>
          We keep it simple and also follow what "Lox" does, only have one kind of
-         number: double precision floint point.
+         number: double precision floating point.
        </p>
 
       <CodeBlock
         language="plaintext"
-        code={`1234 will be represent integer`}
+        code={`1234 will represent integer`}
       />
 
       <CodeBlock
@@ -45,7 +45,7 @@ export default function DataTypes() {
       <h2>Strings</h2>
 
       <p>
-        This is even boring and dull, since here most of the langauges use "" for
+        This is even boring and dull, since here most of the languages use "" for
         string literals, so we will also follow that.
       </p>
 
@@ -56,19 +56,19 @@ export default function DataTypes() {
 
       <CodeBlock
         language="plaintext"
-        code={`"" this is an empty string"`}
+        code={`"" is an empty string`}
       />
 
       <CodeBlock
         language="plaintext"
-        code={`"123" and this is string, not a number`}
+        code={`"123" and this is a string, not a number`}
       />
 
       <h2>Nil</h2>
 
-      <p>We also need built in data type that represent "nothing" or "no value" and most
+      <p>We also need a built-in data type that represents "nothing" or "no value" and most
       commonly used solutions here are to use Nil or Null and we will just follow what
-      "Lox" as we did so far</p>
+      "Lox" does as we did so far</p>
 
       <CodeBlock
         language="plaintext"
