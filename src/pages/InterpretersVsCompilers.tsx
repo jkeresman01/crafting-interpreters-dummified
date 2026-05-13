@@ -120,6 +120,18 @@ export default function InterpretersVsCompilers() {
       downside, portability suffers. Nonetheless, C++ source is still a portable one.
     </p>
 
+    <h3>Java — compiled && interpreted language, wait what what?</h3>
+
+     <p>Okay okay, now something that we can say sits in between — Java, so here
+     is how it goes, the compiler would generate architecture-neutral object files,
+     or in other words generate bytecode instructions that aren't tied to any particular
+     computer architecture, the Java interpreter can then execute bytecodes directly
+     on any machine, or in other words compiled code can run on any system with a Java
+     runtime, downside to that is of course that it's slower to interpret virtual machine
+     instructions than to execute machine instructions, but, but but virtual machines can
+     translate some of these bytecode sequences into machine instructions, by observing
+     the program at runtime, and we call that JIT compilation, brainfuck, what can I say</p>
+
     </>
   );
 }
