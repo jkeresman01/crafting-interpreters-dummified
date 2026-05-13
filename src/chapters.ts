@@ -14,6 +14,9 @@ export const chapters = [
     items: [
       { label: 'Introduction', path: '/smallboober/introduction' },
       { label: 'DataTypes', path: '/smallboober/data-types' },
+      { label: 'Expressions', path: '/smallboober/expressions' },
+      { label: 'Statements', path: '/smallboober/statements' },
+      { label: 'Control Flow', path: '/smallboober/control-flow' },
     ],
   },
 ];
