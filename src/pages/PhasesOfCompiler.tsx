@@ -124,7 +124,8 @@ export default function PhasesOfCompiler() {
       </p>
 
       <p>Like what does this even mean, while some languages just keep it cute and
-      simple, generate relatively unoptimized code and just roll on.</p>
+      simple, generate relatively unoptimized code and just roll on, Lua tends to do
+      just that.</p>
 
    <Callout type="note">
         <h4>What compilers can and cannot do</h4>
