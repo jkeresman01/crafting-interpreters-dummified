@@ -114,24 +114,24 @@ export default function PhasesOfCompiler() {
 
       <h3>Middle end</h3>
 
-      <p>Okay, okay we now understand what poet tried to say, so we can now swap it out
-      while keeping the same semantics and we do while applying some optimizations.</p>
+      <p>Okay, okay we now understand what the poet tried to say, so we can swap it out
+      while keeping the same semantics, and we sneak in some optimizations along the way.</p>
 
-      <p>Optimizations are just weird and complex topic on it's own and one can
-      spend decades trying to figure it all out, it's a huge rabbit hole on it's own
+      <p>Optimizations are just a weird and complex topic on its own and one can
+      spend decades trying to figure it all out, it's a huge rabbit hole on its own
       with a bunch of fancy words like: "strength reduction", "scalar replacement of
-      aggregates", "loop invariant code motion", "common subexpression elemination"...
+      aggregates", "loop invariant code motion", "common subexpression elimination"...
       </p>
 
       <p>Like what does this even mean, while some languages just keep it cute and
-      simple, generate relatively unoptimized code and just role on.</p>
+      simple, generate relatively unoptimized code and just roll on.</p>
 
    <Callout type="note">
         <h4>What compilers can and cannot do</h4>
         <p>
-         We won't go to much into that, since as I said you can spend decades learning
-         only about optimizations, but here is short summary of what compilers generaly
-         can and cannot do in terms of Bentley rules for optimizating work and some more:
+         We won't go too much into that, since as I said you can spend decades learning
+         only about optimizations, but here is a short summary of what compilers generally
+         can and cannot do in terms of Bentley rules for optimizing work and some more:
         </p>
 
         <iframe
