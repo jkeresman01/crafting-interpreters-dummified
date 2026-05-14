@@ -134,13 +134,13 @@ export default function InterpretersVsCompilers() {
 
     <h3>Go tool can compile and can interpret and when you interpret you compile - wait what, what?</h3>
 
-    <p>This one is most confusing of them all, the go tool, when you 
-    run go build it compiles go source into machine instructions, if you run
+    <p>This one is the most confusing of them all, the Go tool, when you
+    run go build it compiles Go source into machine instructions. If you run
     go run, it does that but executes the executable afterwards.</p>
 
    <p>
-     This makes go a compiler and an interpreter and when you use
-     it as interpreter, you compile internaly, the biggest brain fuck.
+     This makes Go a compiler and an interpreter, and when you use
+     it as an interpreter you compile internally. The biggest brain fuck.
    </p>
       
     </>
