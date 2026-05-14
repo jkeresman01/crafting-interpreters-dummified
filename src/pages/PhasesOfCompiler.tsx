@@ -110,7 +110,11 @@ export default function PhasesOfCompiler() {
 
       <h4>Static Analysis</h4>
 
-      <p>...</p>
+      <p>
+        Okay, okay and while first two stages like scanning and parsing tend to be boring
+        and dull, pretty much the same accross all implementations. Static analysis
+        is where individual quirks and characteristics of each langauge come into play.
+      </p>
 
       <h3>Middle end</h3>
 
