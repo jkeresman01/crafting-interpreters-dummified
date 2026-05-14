@@ -12,8 +12,9 @@ export default function Introduction() {
 
         <p>
          It's funny how some stories never were, but tend to stick, stories of regret,
-         same thing for those moments that are whiteboard example of what's kinda
-         cringe, most memories just fade, while rare ones stick.
+         same thing for those moments that are whiteboard example of what's kinda cringe,
+         dressed up real nice or not, still adorabale and cute, most memories just fade,
+         while rare ones stick, years can pass but they still stick.
         </p>
 
     </>
