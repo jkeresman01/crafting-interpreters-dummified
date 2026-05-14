@@ -11,8 +11,8 @@ export default function Introduction() {
        </p>
 
         <p>
-         Anyhowzzy let's first talk about this new concept of mine that I've been
-         thinking about, bring in some Adler's thought and talk about language design.
+         It's funny how some stories never were, but tend to stick, same thing for 
+         those moments that are whiteboard example of what's kinda cringe.
         </p>
 
     </>

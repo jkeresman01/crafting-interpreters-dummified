@@ -36,10 +36,10 @@ export default function Preface() {
       
       <p>
         Smoking hot or not, the inspiration to write was back and the idea was born.
-        I will dummify the concepts taught in the <i>"Crafting Interpreters"</i>
-        book from Robert Nystrom, speak a bit about different programming languages,
-        how to implement an interpreter in them and to answer the question: <strong><i>"Why do
-        I walk? Is it to bring me into the world of thought?"</i></strong>
+        I will dummify the concepts taught in the <i>"Crafting Interpreters"</i> book
+        from Robert Nystrom, speak a bit about different programming languages, how to
+        implement an interpreter in them and to answer the question: <strong><i>"Why
+        do I walk? Is it to bring me into the world of thought?"</i></strong>
       </p>
 
       <Callout type="tip">
