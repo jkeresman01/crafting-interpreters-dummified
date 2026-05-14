@@ -11,13 +11,23 @@ export default function Introduction() {
        </p>
 
         <p>
-         Anyhowzzy, interesting thought about stories before we move to that, it's funny
-         how some stories never were, but tend to stick, stories of regret, same thing
-         for those moments that are a whiteboard example of what's kinda cringe, dressed
-         up real nice or not, still adorable and cute, most memories just fade, while
-         rare ones stick, years have passed and they still stick. You see, to come back
-         to the first page and preface, "Why write this part?" this was seen through my
-         eyes, so cute, adorable, gorgeous and unique, but stayed in the world of thought.
+          Programming languages on their own are a huge pile of boring concepts and
+          terminology and implementing an interpreter requires architectural and design
+          patterns not that commonly used in other development areas, so before we
+          move to this boring crap, we need a story, a bit of philosophy to keep this
+          introduction good, honest and the right one, since in writing every reader
+          and every word counts. But like look at me, what do I know about that, sticking
+          some words on the website is just for my fun and readers tend to be none.
+        </p>
+
+        <p>
+         It's funny how some stories never were, but tend to stick, stories of regret,
+         same thing for those moments that are a whiteboard example of what's kinda
+         cringe, dressed up real nice or not, still adorable and cute, most memories
+         just fade, while rare ones stick, years have passed and they still stick. You
+         see, to come back to the first page and preface, "Why write this part?" this
+         was seen through my eyes, so cute, adorable, gorgeous and unique, but stayed
+         in the world of thought.
         </p>
 
         <p>
