@@ -104,6 +104,48 @@ export default function PhasesOfCompiler() {
 
       </Callout>
 
+      <h4>Parsing</h4>
+
+      <p>...</p>
+
+      <h4>Static Analysis</h4>
+
+      <p>...</p>
+
+      <h3>Middle end</h3>
+
+      <p>Okay, okay we now understand what poet tried to say, so we can now swap it out
+      while keeping the same semantics and we do while applying some optimizations.</p>
+
+      <p>Optimizations are just weird and complex topic on it's own and one can
+      spend decades trying to figure it all out, it's a huge rabbit hole on it's own
+      with a bunch of fancy words like: "strength reduction", "scalar replacement of
+      aggregates", "loop invariant code motion", "common subexpression elemination"...
+      </p>
+
+      <p>Like what does this even mean, while some languages just keep it cute and
+      simple, generate relatively unoptimized code and just role on.</p>
+
+   <Callout type="note">
+        <h4>What compilers can and cannot do</h4>
+        <p>
+         We won't go to much into that, since as I said you can spend decades learning
+         only about optimizations, but here is short summary of what compilers generaly
+         can and cannot do in terms of Bentley rules for optimizating work and some more:
+        </p>
+
+        <iframe
+          width="100%"
+          height="315"
+          src="https://www.youtube.com/embed/ulJm7_aTiQM?start=828&end=1070"
+          title="Bentley Rules for Optimizing Work"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen
+          style={{ borderRadius: '8px', border: '1px solid var(--border)' }}
+        ></iframe>
+      </Callout>
+
       </>
   );
 }
