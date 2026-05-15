@@ -55,7 +55,7 @@ export default function Introduction() {
 
          <p>
           You see with facade or without, some women are still cute, so let's move 
-          this boring, design and architectural patterns part.
+          for to the boring design patterns stuff.
          </p>
 
         </>
