@@ -48,13 +48,9 @@ export default function Introduction() {
         <p>
          Anyhowzzzy, point of the story, years have passed, she will never know, that
          she'll read this I highly doubt, if she by some miracle stumbles across this,
-         whiteboard thing will give it away, in here I have no doubt.
-        </p>
-
-        <p>
-         First book was about act, I did write and it was quite opinionated, so judgment
-         was unavoidable, this second book is chill, no stress relaxed one, it's a dance,
-         and you see how all this introduction came together now.
+         whiteboard thing will give it away, in here I have no doubt, you see this story
+         never came together, but this introduction part did and you see, exactly how,
+         it's about dance.
         </p>
 
         </>
