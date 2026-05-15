@@ -39,9 +39,17 @@ export default function Introduction() {
        <p>
          Okay, okay, enough cutness for a day, lets talk about philosophy now,
          trough this new concept that I've been thinking about and see how it all
-         comes together:
+         comes together.
        </p>
 
+        <p>
+          The concept is called: "Live like you are dancing", it denies the
+          making of plans in life, you see trough danceing have I come to write, as have many
+          it wasn't planned it just happend and trough dancing I tend to write this, you see for 
+          the first book, I've had materials and videos that I've gathered over the years, this second 
+          one is just a dance, chapter here, chapter there, no obvious plan, just exploring
+          and keeping it fun.
+        </p>
     </>
   );
 }
