@@ -36,6 +36,12 @@ export default function Introduction() {
          what we regret while the rest of the memories just fade away.
         </p>
 
+       <p>
+         Okay, okay, enough cutness for a day, lets talk about philosophy now,
+         trough this new concept that I've been thinking about and see how it all
+         comes together:
+       </p>
+
     </>
   );
 }
