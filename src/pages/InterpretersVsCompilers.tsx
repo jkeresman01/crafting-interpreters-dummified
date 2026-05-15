@@ -150,7 +150,27 @@ export default function InterpretersVsCompilers() {
      This makes Go a compiler and an interpreter, and when you use
      it as an interpreter you compile internally. The biggest brain fuck.
    </p>
-      
+
+     <h3> Pyhton - interepted </h3>
+
+    <Callout type="tip">
+
+        <p><strong>Okay, okay python is an interprted one meant for people that don't
+        really understand type systeams</strong></p>
+
+        <iframe
+            width="100%"
+            height="315"
+            src="https://www.youtube.com/embed/G7oY8QVL3Fs?start=3279&end=3300"
+            title="Bjarne and tensorflow"
+            loading="lazy"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
+        </iframe>
+      </Callout>
+
     </>
   );
 }
