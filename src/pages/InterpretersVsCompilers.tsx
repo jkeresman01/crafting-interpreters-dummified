@@ -114,10 +114,17 @@ export default function InterpretersVsCompilers() {
 
     <p>
       So for a C++ program to run it has to be processed by a compiler which would then
-      generate a lower level form, in this case object files, which then get combined
-      by a linker generating an executable program, the executable gets generated for a
-      specific hardware/system combination, so it would run fast — but that's also the
-      downside, portability suffers. Nonetheless, C++ source is still a portable one.
+      generate a lower level form, in this case object files, which then get combined by
+      a linker generating an executable program, UNIX like operating systems alongside
+      many game consols employ a popular executable file format called executable and
+      linking format (ELF), .elf is the extension, while executables under Windows
+      have .exe extension, nonetheless the file always contains partial image of the
+      program as it always exists in the memory when it runs, partial becuase the program
+      generaly allocates memory at runtime and it's ussualy comprised out of atleast this
+      four segments (Text segment, Data segment, BSS segment and read only data segment),
+      anyhowwzy  lets get back to the main point, the executable gets generated for a
+      specific hardware/system combination, so it would run fast — but that's also
+      the downside, portability suffers. Nonetheless, C++ source is still a portable one.
     </p>
 
     <h3>Java — compiled && interpreted language, wait what what?</h3>

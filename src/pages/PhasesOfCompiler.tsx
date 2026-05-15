@@ -121,11 +121,11 @@ export default function PhasesOfCompiler() {
       <p>Okay, okay we now understand what the poet tried to say, so we can swap it out
       while keeping the same semantics, and we sneak in some optimizations along the way.</p>
 
-      <p>Optimizations are just a weird and complex topic on its own and one can
-      spend decades trying to figure it all out, it's a huge rabbit hole on its own
-      with a bunch of fancy words like: "strength reduction", "scalar replacement of
-      aggregates", "loop invariant code motion", "common subexpression elimination"...
-      </p>
+      <p>Optimizations are just a weird and complex topic on its own, most of them happen
+      on intermidiate representation, but not all of them, and one can spend decades
+      trying to figure it all out, it's a huge rabbit hole on its own with a bunch
+      of fancy words like: "strength reduction", "scalar replacement of aggregates",
+      "loop invariant code motion", "common subexpression elimination"...  </p>
 
       <p>Like what does this even mean, while some languages just keep it cute and
       simple, generate relatively unoptimized code and just roll on, Lua tends to do
