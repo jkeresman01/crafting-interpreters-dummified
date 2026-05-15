@@ -53,6 +53,11 @@ export default function Introduction() {
          it's about dance.
         </p>
 
+         <p>
+          You see with facade or without, some women are still cute, so let's move 
+          this boring, design and architectural patterns part.
+         </p>
+
         </>
   );
 }
