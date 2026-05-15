@@ -131,6 +131,11 @@ export default function PhasesOfCompiler() {
       simple, generate relatively unoptimized code and just roll on, Lua tends to do
       just that.</p>
 
+      <p>Seriously people can spend their entire carrers only thinking about
+      optimizations and performance, it can become and obsession of it's own, we will
+      just give a small overview of what can be done: </p>
+
+
    <Callout type="note">
         <h4>What compilers can and cannot do</h4>
         <p>
