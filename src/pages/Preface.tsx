@@ -67,7 +67,7 @@ export default function Preface() {
         perhaps philosophy is the move, perhaps that's the thing that keeps the whole
         ride interesting — but one lesson got hammered in along the way: a website
         is no reason to assume or react. So if you by some accident stumble across
-        this second part, come and talk, because you <i>will</i> assume wrong. Some
+        this second part,<strong> come and talk, because you <i>will/have</i> assume wrong</strong>. Some
         things I write are just confusing on their own, some aren't even my words but
         bits from people the moment reminded me of, and some, ohhhhh boy, some don't
         even make damn sense to me. So just remember — everything I write and do
