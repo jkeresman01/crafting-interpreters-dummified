@@ -16,12 +16,12 @@ export default function Preface() {
         That book started with a funny story; this one is a bit different, so let's go
         back to where it started. That same <i>"closing chapter day"</i> I was sipping
         coffee, talking nonsense in some bar — perhaps more of a <i>"hole"</i>
-        — and decided to go for a walk, you know, to shift back into the world of
-        thought. Just before my return to the said <i>"hole"</i>, I was struck by
-        lightning: that one smoking hot red-haired badass goddess I just saw. Of course
-        struck by a lightning in world of thought, in real world I was just on crosswalk
-        and day was fairly sunny so I just continued to walk, but ohhhhh boy even in
-        the world of thought my mind was blown, you know the vibe and all.
+        — and decided to go for a walk, you know, to shift back into the world
+        of thought. Just before my return to the said <i>"hole"</i>, I was struck
+        by lightning: that one smoking hot red-haired badass goddess I just saw. Of
+        course struck by a lightning in world of thought, in real world I was just
+        on crosswalk and day was fairly sunny so I just continued to walk, but ohhhhh
+        boy even in the world of thought my mind was blown, you know the vibe and all.
       </p>
 
       <p>
@@ -33,7 +33,7 @@ export default function Preface() {
         but anyhowzzzy back to the main thought, it's always that one moment in the
         universe that kickstarts my thought process, this time it was just smoking hot.
       </p>
-      
+
       <p>
         Smoking hot or not, the inspiration to write was back and the idea was born.
         I will dummify the concepts taught in the <i>"Crafting Interpreters"</i> book
@@ -64,15 +64,15 @@ export default function Preface() {
         <i>"questions story"</i> dragged some folks in by accident, you know the
         vibe and all. This one though, ohhhhh boy, this one could just sit there as a
         dull, dry, technical brick with a readers count of exactly none. Anyhowzzy,
-        perhaps philosophy is the move, perhaps that's the thing that keeps the whole
-        ride interesting — but one lesson got hammered in along the way: a website
-        is no reason to assume or react. So if you by some accident stumble across
-        this second part,<strong> come and talk, because you <i>will/have</i> assume wrong</strong>. Some
-        things I write are just confusing on their own, some aren't even my words but
-        bits from people the moment reminded me of, and some, ohhhhh boy, some don't
-        even make damn sense to me. So just remember — everything I write and do
-        comes out of love, some moments are genuine and cute, some smoking hot and some
-        concepts are best explained trough Adlers tought.
+        perhaps philosophy is the move, perhaps that's the thing that keeps the
+        whole ride interesting — but one lesson got hammered in along the way: a
+        website is no reason to assume or react. So if you by some accident stumble
+        across this second part,<strong> come and talk, because you <i>will/have</i>
+        assume wrong</strong>. Some things I write are just confusing on their own,
+        some aren't even my words but bits from people the moment reminded me of, and
+        some, ohhhhh boy, some don't even make damn sense to me. So just remember —
+        everything I write and do comes out of love, some moments are genuine and cute,
+        some smoking hot and some concepts are best explained trough Adlers tought.
       </p>
 
     <h1>Why write this?</h1>

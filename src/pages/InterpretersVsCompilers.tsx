@@ -116,13 +116,13 @@ export default function InterpretersVsCompilers() {
       So for a C++ program to run it has to be processed by a compiler which would then
       generate a lower level form, in this case object files, which then get combined by
       a linker generating an executable program, UNIX-like operating systems alongside
-      many game consoles employ a popular executable file format called Executable and
-      Linkable Format (ELF), ELF files usually carry no extension (though .elf shows up
-      in embedded and console land), while executables under Windows have .exe extension,
-      nonetheless the file contains a partial image of the
-      program as it exists in memory when it runs, partial because the program
-      generally allocates memory at runtime and it's usually comprised of at least these
-      four segments (Text segment, Data segment, BSS segment and read-only data segment),
+      many game consoles employ a popular executable file format called Executable
+      and Linkable Format (ELF), ELF files usually carry no extension (though .elf
+      shows up in embedded and console land), while executables under Windows have
+      .exe extension, nonetheless the file contains a partial image of the program
+      as it exists in memory when it runs, partial because the program generally
+      allocates memory at runtime and it's usually comprised of at least these four
+      segments (Text segment, Data segment, BSS segment and read-only data segment),
       anyhowwzy lets get back to the main point, the executable gets generated for a
       specific hardware/system combination, so it would run fast — but that's also
       the downside, portability suffers. Nonetheless, C++ source is still a portable one.
@@ -130,25 +130,26 @@ export default function InterpretersVsCompilers() {
 
     <h3>Java — compiled && interpreted language, wait what what?</h3>
 
-     <p>Okay okay, now something that we can say sits in between — Java, so here
-     is how it goes, the compiler would generate architecture-neutral object files,
-     or in other words generate bytecode instructions that aren't tied to any particular
+     <p>Okay okay, now something that we can say sits in between — Java, so here is
+     how it goes, the compiler would generate architecture-neutral object files, or
+     in other words generate bytecode instructions that aren't tied to any particular
      computer architecture, the Java interpreter can then execute bytecodes directly
-     on any machine, or in other words compiled code can run on any system with a Java
-     runtime, downside to that is of course that it's slower to interpret virtual machine
-     instructions than to execute machine instructions, but, but but virtual machines can
-     translate some of these bytecode sequences into machine instructions, by observing
-     the program at runtime, and we call that JIT compilation, brainfuck, what can I say</p>
+     on any machine, or in other words compiled code can run on any system with a
+     Java runtime, downside to that is of course that it's slower to interpret virtual
+     machine instructions than to execute machine instructions, but, but but virtual
+     machines can translate some of these bytecode sequences into machine instructions,
+     by observing the program at runtime, and we call that JIT compilation, brainfuck,
+     what can I say</p>
 
     <h3>Go tool can compile and can interpret and when you interpret you compile - wait what, what?</h3>
 
-    <p>This one is the most confusing of them all, the Go tool, when you
-    run go build it compiles Go source into machine instructions. If you run
-    go run, it does that but executes the executable afterwards.</p>
+    <p>This one is the most confusing of them all, the Go tool, when you run go build
+    it compiles Go source into machine instructions. If you run go run, it does that
+    but executes the executable afterwards.</p>
 
    <p>
-     This makes Go a compiler and an interpreter, and when you use
-     it as an interpreter you compile internally. The biggest brain fuck.
+     This makes Go a compiler and an interpreter, and when you use it as an interpreter
+     you compile internally. The biggest brain fuck.
    </p>
 
      <h3> Pyhton - interepted </h3>
