@@ -47,7 +47,7 @@ export default function Expressions() {
         ></iframe>
 
         <p>Okay, okay this MIT version is a bit too complex so let's put it in some
-        viby context and it will all make sense to explain this 'short-circuiting' concept</p>
+        viby context in order to explain this 'short-circuiting' concept</p>
 
         <p>Let's say that we have two function calls like this written in our smallboober
         language</p>
