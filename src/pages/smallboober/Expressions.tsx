@@ -140,6 +140,46 @@ export default function Expressions() {
         code={`-a`}
       />
 
+      <h3>Comparison and equality</h3>
+
+      <p>Smallboober like most of the C styles languages will support standard set of 
+      comparison operators</p>
+
+      <CodeBlock
+        language="plaintext"
+        code={`greater > than;`}
+      />
+
+      <CodeBlock
+        language="plaintext"
+        code={`less < than;`}
+      />
+
+      <CodeBlock
+        language="plaintext"
+        code={`greaterThan >= orEqual;`}
+      />
+
+      <CodeBlock
+        language="plaintext"
+        code={`lessThan <= orEqual;`}
+      />
+
+      <CodeBlock
+        language="plaintext"
+        code={`equal == equal;`}
+      />
+
+      <CodeBlock
+        language="plaintext"
+        code={`not != equal;`}
+      />
+
+      <h3>Precedence and grouping</h3>
+
+      <p>All of the operators will have the same precedence and associativity that
+      you would normally expect and for grouping you can just use '()'</p>
+
     </>
   );
 }
