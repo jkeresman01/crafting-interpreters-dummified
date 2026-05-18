@@ -106,6 +106,40 @@ export default function Expressions() {
         code={`!false; => true`}
       />
 
+      <h2>Arithmetic operators</h2>
+
+      <p>Smallboober like most of C style languges supports basic set of arithmetic
+      operators:</p>
+
+      <CodeBlock
+        language="plaintext"
+        code={`a + b;`}
+      />
+
+      <CodeBlock
+        language="plaintext"
+        code={`a - b;`}
+      />
+
+      <CodeBlock
+        language="plaintext"
+        code={`a * b;`}
+      />
+
+      <CodeBlock
+        language="plaintext"
+        code={`a / b;`}
+      />
+
+      <p>Operators placed in the middle of operands are called <strong>infix </strong>
+      operators, while operators that come before the operands are called
+      <strong> postfix</strong> operators</p>
+
+      <CodeBlock
+        language="plaintext"
+        code={`-a`}
+      />
+
     </>
   );
 }
