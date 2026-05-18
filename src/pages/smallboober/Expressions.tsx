@@ -178,7 +178,13 @@ export default function Expressions() {
       <h3>Precedence and grouping</h3>
 
       <p>All of the operators will have the same precedence and associativity that
-      you would normally expect and for grouping you can just use '()'</p>
+      you would normally expect and for grouping you can just use '()' in cases where
+      precedence isn't smth you want</p>
+
+      <CodeBlock
+        language="plaintext"
+        code={`var result = a * b + (c - b) / 2`}
+      />
 
     </>
   );
