@@ -1,4 +1,5 @@
 import Callout from '../../components/Callout';
+import CodeBlock from '../../components/CodeBlock';
 
 export default function Expressions() {
   return (
@@ -14,7 +15,7 @@ export default function Expressions() {
         value. In its simplest form <strong>a + b</strong> is an expression, it's got
         two operands a and b (which makes it a binary one) and its job is to produce
         a value, the result of a + b, '+' is an operator and the subexpressions on
-        both sides are called operands. Okay, okay but lets say hypothetically that he
+        both sides are called operands. Okay, okay but let's say hypothetically that he
         wasn't in love than we could express some feeling, you see how I used express,
         because we are talking about expressions</p>
 
@@ -29,8 +30,9 @@ export default function Expressions() {
         
         <p>
           <strong>Fun fact: </strong> 'and' and 'or' expressions will use short circuit
-          evaluation so they also behave like control flow structures. Short-circuiting is
-          one of 21 rules catalogued by Jon Bentley for reducing the work a program does.
+          evaluation so they also behave like control flow structures. Short-circuiting
+          is one of 21 rules catalogued by Jon Bentley for reducing the work a
+          program does.
         </p>
 
         <iframe
@@ -43,7 +45,66 @@ export default function Expressions() {
           allowFullScreen
           style={{ borderRadius: '8px', border: '1px solid var(--border)' }}
         ></iframe>
+
+        <p>Okay, okay this MIT version is a bit too complex so let's put it in some
+        viby context and it will all make sense to explain this 'short-circuiting' concept</p>
+
+        <p>Let's say that we have two function calls like this written in our smallboober
+        language</p>
+
+        <CodeBlock
+            language="plaintext"
+            code={`isSheSingle() and expressLove()`}
+        />
+
+        <p>So first function would check her relationship status and second would just
+        I don't know print 'express love'. In order for 'and' operator to return true
+        both values need to be true, so if we determine that she is not single (first
+        function call returns false, meaning she's already in love with someone) we
+        don't express love and second function never gets called, if and operator wasn't
+        using short-circuit evaluation both functions would get called, regardless of
+        the fact if she is already in love, you see how it all comes together.</p>
+
       </Callout>
+
+      <h3>'and' and 'or' examples</h3>
+
+      <CodeBlock
+        language="plaintext"
+        code={`true and false; => false`}
+      />
+
+      <CodeBlock
+        language="plaintext"
+        code={`true and true; => true`}
+      />
+
+      <CodeBlock
+        language="plaintext"
+        code={`false or false; => false`}
+      />
+
+      <CodeBlock
+        language="plaintext"
+        code={`true or false; => true`}
+      />
+
+      <p>Okay, okay there is one additional logical operator called not operator,
+      which returns false if its operand is true and vice versa, useful when you wanna
+      flip the script, like <strong>!isSheSingle()</strong> would tell you she's taken
+      and we're back to respecting Prince's wisdom</p>
+
+      <h3>Not operator examples</h3>
+
+      <CodeBlock
+        language="plaintext"
+        code={`!true; => false`}
+      />
+
+      <CodeBlock
+        language="plaintext"
+        code={`!false; => true`}
+      />
 
     </>
   );
