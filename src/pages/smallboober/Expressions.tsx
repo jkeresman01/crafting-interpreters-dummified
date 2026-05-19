@@ -15,7 +15,7 @@ export default function Expressions() {
         value. In its simplest form <strong>a + b</strong> is an expression, it's got
         two operands a and b (which makes it a binary one) and its job is to produce
         a value, the result of a + b, '+' is an operator and the subexpressions on
-        both sides are called operands. Okay, okay but let's say hypothetically that he
+        both sides are called operands. Okay, okay but let's say hypothetically that she
         wasn't in love than we could express some feeling, you see how I used express,
         because we are talking about expressions</p>
 
