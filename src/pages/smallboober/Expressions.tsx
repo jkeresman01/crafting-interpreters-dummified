@@ -65,6 +65,17 @@ export default function Expressions() {
         using short-circuit evaluation both functions would get called, regardless of
         the fact if she is already in love, you see how it all comes together.</p>
 
+        <p>If this concept still doesn't sit, here is even more simplifed example: </p>
+
+        <CodeBlock
+            language="plaintext"
+            code={`false and expressLove()`}
+        />
+
+        <p>Both operands must be true in order for an 'and' expression to evaluate to
+        true, we can see as soon when we evaluate the left false operand that that isn't
+        going to be the case, so there is no need to evaluate the right operand.</p>
+
       </Callout>
 
       <h3>'and' and 'or' examples</h3>
