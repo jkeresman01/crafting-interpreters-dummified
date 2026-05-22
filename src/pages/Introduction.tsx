@@ -9,7 +9,7 @@ export default function Introduction() {
         What are we cooking in here, you probably might wonder, is it beautiful soups,
         is it a react website that my grandma could write, is it a .NET application
         written in an overbloated IDE/editor called Visual Studio for which you need a
-        2 years course in order to learn what all the buttons do while some work onlyIntro
+        2 years course in order to learn what all the buttons do while some work only
         during full blood moon. Like yes, yes you really need 14567 different options
         for creating a controller and deleting WeatherForecasts is such a fun activity.
        </p>

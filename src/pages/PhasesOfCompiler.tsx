@@ -112,8 +112,8 @@ export default function PhasesOfCompiler() {
 
       <p>
         Okay, okay and while first two stages like scanning and parsing tend to be boring
-        and dull, pretty much the same accross all implementations. Static analysis
-        is where individual quirks and characteristics of each langauge come into play.
+        and dull, pretty much the same across all implementations. Static analysis
+        is where individual quirks and characteristics of each language come into play.
       </p>
 
       <h3>Middle end</h3>
@@ -122,7 +122,7 @@ export default function PhasesOfCompiler() {
       while keeping the same semantics, and we sneak in some optimizations along the way.</p>
 
       <p>Optimizations are just a weird and complex topic on its own, most of them happen
-      on intermidiate representation, but not all of them, and one can spend decades
+      on intermediate representation, but not all of them, and one can spend decades
       trying to figure it all out, it's a huge rabbit hole on its own with a bunch
       of fancy words like: "strength reduction", "scalar replacement of aggregates",
       "loop invariant code motion", "common subexpression elimination"...  </p>
@@ -131,8 +131,8 @@ export default function PhasesOfCompiler() {
       simple, generate relatively unoptimized code and just roll on, Lua tends to do
       just that.</p>
 
-      <p>Seriously people can spend their entire carrers only thinking about
-      optimizations and performance, it can become and obsession of it's own, we will
+      <p>Seriously people can spend their entire careers only thinking about
+      optimizations and performance, it can become an obsession of its own, we will
       just give a small overview of what can be done: </p>
 
 

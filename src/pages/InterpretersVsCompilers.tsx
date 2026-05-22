@@ -152,12 +152,12 @@ export default function InterpretersVsCompilers() {
      you compile internally. The biggest brain fuck.
    </p>
 
-     <h3> Pyhton - interepted </h3>
+     <h3> Python - interpreted </h3>
 
     <Callout type="tip">
 
-        <p><strong>Okay, okay python is an interprted one meant for people that don't
-        really understand type systeams</strong></p>
+        <p><strong>Okay, okay python is an interpreted one meant for people that don't
+        really understand type systems</strong></p>
 
         <iframe
             width="100%"

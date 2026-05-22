@@ -7,7 +7,7 @@ export default function DataTypes() {
 
       <p>Okay, okay there is nothing too smart about these data types,
          some things are just as they are, we will just follow what "Lox" does in this
-         regard, since that's just how it gets done, can't even bring philisophy in
+         regard, since that's just how it gets done, can't even bring philosophy in
          because it's just as boring as that.</p>
 
       <h2>Booleans</h2>
@@ -68,8 +68,8 @@ export default function DataTypes() {
 
       <p>We also need a built-in data type that represents "nothing" or "no value" and most
       commonly used solutions here are to use Nil or Null and we will just follow what
-      "Lox" does as we did so far, okay one can also argue that we don't actualy need a value that 
-      represent's nothing, since null pointer issues tend to cause all types of headaches, 
+      "Lox" does as we did so far, okay one can also argue that we don't actually need a value that
+      represents nothing, since null pointer issues tend to cause all types of headaches,
       but that's a separate story</p>
 
       <CodeBlock

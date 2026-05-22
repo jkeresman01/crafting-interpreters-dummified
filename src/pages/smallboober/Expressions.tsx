@@ -16,7 +16,7 @@ export default function Expressions() {
         two operands a and b (which makes it a binary one) and its job is to produce
         a value, the result of a + b, '+' is an operator and the subexpressions on
         both sides are called operands. Okay, okay but let's say hypothetically that she
-        wasn't in love than we could express some feeling, you see how I used express,
+        wasn't in love then we could express some feeling, you see how I used express,
         because we are talking about expressions</p>
 
         <h2>Logical operators</h2>
@@ -119,7 +119,7 @@ export default function Expressions() {
 
       <h2>Arithmetic operators</h2>
 
-      <p>Smallboober like most of C style languges supports basic set of arithmetic
+      <p>Smallboober like most of C style languages supports basic set of arithmetic
       operators:</p>
 
       <CodeBlock
@@ -144,7 +144,7 @@ export default function Expressions() {
 
       <p>Operators placed in the middle of operands are called <strong>infix </strong>
       operators, while operators that come before the operands are called
-      <strong> postfix</strong> operators</p>
+      <strong> prefix</strong> operators</p>
 
       <CodeBlock
         language="plaintext"
@@ -153,7 +153,7 @@ export default function Expressions() {
 
       <h3>Comparison and equality</h3>
 
-      <p>Smallboober like most of the C styles languages will support standard set of 
+      <p>Smallboober like most of the C style languages will support standard set of
       comparison operators</p>
 
       <CodeBlock
