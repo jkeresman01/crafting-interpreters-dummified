@@ -135,6 +135,14 @@ export default function PhasesOfCompiler() {
       optimizations and performance, it can become an obsession of its own, we will
       just give a small overview of what can be done: </p>
 
+      <h3>Backend</h3>
+
+      <p>
+        Finally we are at the backend and it's time to go from
+        poetry to reality, from users "source code" to more primitive 
+        assembly like instructions that the machine can acctualy
+        understand.
+      </p>
 
    <Callout type="note">
         <h4>What compilers can and cannot do</h4>
