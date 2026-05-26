@@ -69,7 +69,7 @@ export default function Introduction() {
             all concepts that came from the book, perhaps "you doubt" could be the
             moment of subjective reality trap, perhaps I needed to test this concept
             out, the subjective reality one,  genuine look, on first walk by proved
-            just that, nonetheless it did brought an <strong> interest</strong>ing
+            just that, nonetheless it did bring an <strong> interest</strong>ing
             thought <strong>of mine</strong>. Keep looking at debugger or not? AI is
             here to stay and putting few breakpoints in could generally be just huge
             waste of time, vibes are important, and that's that. Anyhowzzy, on the
