@@ -182,11 +182,18 @@ export default function Preface() {
        <Callout type="note">
           <p><strong>Coming back to non-interference approach: </strong>
             Adlerian psychology does not recommend a full non-interference approach
-            and although writing this is my task and judging or criticising is task of
-            other people, one can improve content only if asked directly and openly,
-            since assumptions about what's written can be interpreted wrong, you see
+            and although writing this is my task, writing this is my act, to act means to do something,
+            and judging or criticising is task of other people, their act, but you see one
+            can improve content only if asked directly and openly, so your act could be based
+            on concepts from computing world presented in here to dissagree with that, or to
+            contribute to this project or to judge, your acts and reasons could be many, also
+            assumptions about what's written can be interpreted wrong, you see
             how I used interpreted, because we're  building interpreters, you can read
-            all about them in pages to come.
+            all about them in pages to come. Anyhowzzy back to the main point, writing is 
+            my act, my task, but one shouldn't practice full non-interference approach, so the 
+            one says openly here that content can be changed and improved trough your contribution,
+            link on the profile is at the bottom of the sidebar and contributions are always
+            welcomed.
           </p>
        </Callout>
 
