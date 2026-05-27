@@ -185,9 +185,9 @@ export default function Preface() {
             and although writing this is my task, writing this is my act, to act means to do something,
             and judging or criticising is task of other people, their act, but you see one
             can improve content only if asked directly and openly, so your act could be based
-            on concepts from computing world presented in here to dissagree with that, or to
-            contribute to this project or to judge, your acts and reasons could be many, also
-            assumptions about what's written can be interpreted wrong, you see
+            on concepts from computing world presented in here with the sprinkle of philosophy arround it
+            to dissagree with that, or to contribute to this project, or to judge, your acts and reasons could be many,
+            also assumptions about what's written can be interpreted wrong, you see
             how I used interpreted, because we're  building interpreters, you can read
             all about them in pages to come. Anyhowzzy back to the main point, writing is 
             my act, my task, but one shouldn't practice full non-interference approach, so the 
