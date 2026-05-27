@@ -193,7 +193,7 @@ export default function Preface() {
             my act, my task, but one shouldn't practice full non-interference approach, so the 
             one says openly here that content can be changed and improved trough your contribution,
             link on the profile is at the bottom of the sidebar and contributions are always
-            welcomed.
+            welcomed, ofcourse to contribute in the form of writting.
           </p>
        </Callout>
 
