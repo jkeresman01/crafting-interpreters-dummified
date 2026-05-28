@@ -45,7 +45,7 @@ export default function PhasesOfCompiler() {
         machine instructions and here the two most obvious things that come to mind
         would be to generate some bytecode or target a specific chip architecture
         (x86, ARM...) or in other words we go back from poetry to reality, pure on
-        logic and instructions. Of course it's quite more complex than that, but lets
+        logic and instructions. Of course it's quite more complex than that, but let's
         leave it there.
       </p>
 
@@ -66,7 +66,7 @@ export default function PhasesOfCompiler() {
 
       </Callout>
 
-      <h2>Okay but let's talk about this phases a bit more</h2>
+      <h2>Okay but let's talk about these phases a bit more</h2>
 
       <h3>Frontend</h3>
 
@@ -97,7 +97,7 @@ export default function PhasesOfCompiler() {
       <p><strong>Fun fact: </strong>
         In ancient times, like two billion years ago, human ancestors—such as Homo
         erectus discovered how to control fire and somewhere in that period when memory
-        was precious resource <strong>"Scanner"</strong> referred to part of code that
+        was a precious resource <strong>"Scanner"</strong> referred to part of code that
         read raw source code characters from disk and <strong>"Lexer"</strong> actually
         did something useful with those characters, today no one cares anymore.
       </p>
@@ -111,14 +111,14 @@ export default function PhasesOfCompiler() {
       <h4>Static Analysis</h4>
 
       <p>
-        Okay, okay and while first two stages like scanning and parsing tend to be boring
-        and dull, pretty much the same across all implementations. Static analysis
-        is where individual quirks and characteristics of each language come into play.
+        First two stages like scanning and parsing tend to be boring and dull,
+        pretty much the same across all implementations. Static analysis is where
+        individual quirks and characteristics of each language come into play.
       </p>
 
       <h3>Middle end</h3>
 
-      <p>Okay, okay we now understand what the poet tried to say, so we can swap it out
+      <p>We now understand what the poet tried to say, so we can swap it out
       while keeping the same semantics, and we sneak in some optimizations along the way.</p>
 
       <p>Optimizations are just a weird and complex topic on its own, most of them happen
@@ -160,8 +160,8 @@ export default function PhasesOfCompiler() {
 
       <p>
         Finally we are at the backend and it's time to go from
-        poetry to reality, from users "source code" to more primitive 
-        assembly like instructions that the machine can acctualy
+        poetry to reality, from user's "source code" to more primitive
+        assembly like instructions that the machine can actually
         understand.
       </p>
       

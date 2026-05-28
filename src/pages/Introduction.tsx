@@ -37,7 +37,7 @@ export default function Introduction() {
         So I'll do it in the ways of old and share some thoughts along the way. Maybe
         even spin up a debugger — you know, those confusing tools meant for old
         people and ohhhhh boy are they confusing, but the thing about debugging
-        sessions is to just embrace the meaningless of it all, you don't fight it,
+        sessions is to just embrace the meaninglessness of it all, you don't fight it,
         you just embrace it and click step over, step into buttons all day long,
         until you realize that you forgot something stupid like seven hours ago.
       </p>

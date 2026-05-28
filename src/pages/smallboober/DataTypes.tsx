@@ -5,7 +5,7 @@ export default function DataTypes() {
     <>
       <h1>DataTypes</h1>
 
-      <p>Okay, okay there is nothing too smart about these data types,
+      <p>There is nothing too smart about these data types,
          some things are just as they are, we will just follow what "Lox" does in this
          regard, since that's just how it gets done, can't even bring philosophy in
          because it's just as boring as that.</p>

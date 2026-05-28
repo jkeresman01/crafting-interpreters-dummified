@@ -25,10 +25,10 @@ export default function Preface() {
       </p>
 
       <p>
-        This inspiration of mine is very funny thing, I draw it from everything,
+        This inspiration of mine is a very funny thing, I draw it from everything,
         sometimes I just drive around in my car with no obvious goal, sometimes I sit in
         the park and just observe nature while reading something and my question is how
-        do you explain this to a normal 9 to 5, ikea, lets watch some television show
+        do you explain this to a normal 9 to 5, ikea, let's watch some television show
         type of person. Don't get me wrong some televisions are more than televisions,
         but anyhowzzzy back to the main thought, it's always that one moment in the
         universe that kickstarts my thought process, this time it was just smoking hot.
@@ -68,7 +68,7 @@ export default function Preface() {
         whole ride interesting — but one lesson got hammered in along the way: a
         website is no reason to assume or react. So if you by some accident stumble
         across this second part,<strong> come and talk, because you <i>will/have</i>
-        assume wrong</strong>. Some things I write are just confusing on their own,
+        assumed wrong</strong>. Some things I write are just confusing on their own,
         some aren't even my words but bits from people the moment reminded me of, and
         some, ohhhhh boy, some don't even make damn sense to me. So just remember —
         everything I write and do comes out of love, some moments are genuine and cute,
@@ -149,11 +149,11 @@ export default function Preface() {
             kinda the point. If a book doesn't change the way you think, it isn't worth
             reading. If a programming language doesn't change the way you think, it
             isn't worth learning...  So this will guide me through this book, it needs to
-            change the way that you see things in order to be worth readers attention...
+            change the way that you see things in order to be worth the reader's attention...
           </p>
 
           <p>
-            You'll see some of this ideas are general like <i>"You are not the center
+            You'll see some of these ideas are general like <i>"You are not the center
             of the world"</i>, "separation of tasks", "life is not a competition",
             while some are mine, perhaps might change the way that you think, perhaps
             not and some are just smoking hot.
@@ -181,19 +181,21 @@ export default function Preface() {
 
        <Callout type="note">
           <p><strong>Coming back to non-interference approach: </strong>
-            Adlerian psychology does not recommend a full non-interference approach
-            and although writing this is my task, writing this is my act, to act means to do something,
-            and judging or criticising is task of other people, their act, but you see one
-            can improve content only if asked directly and openly, so your act could be based
-            on concepts from computing world presented in here with the sprinkle of philosophy arround it
-            to dissagree with that, or to contribute to this project, or to judge, your acts and reasons could be many,
-            also assumptions about what's written can be interpreted wrong, you see
-            how I used interpreted, because we're  building interpreters, you can read
-            all about them in pages to come. Anyhowzzy back to the main point, writing is 
-            my act, my task, but one shouldn't practice full non-interference approach, so the 
-            one says openly here that content can be changed and improved trough your contribution,
-            link on the profile is at the bottom of the sidebar and contributions are always
-            welcomed, ofcourse to contribute in the form of writting.
+            Adlerian psychology does not recommend a full non-interference approach and
+            although writing this is my task, writing this is my act, to act means to do
+            something, and judging or criticising is task of other people, their act,
+            but you see one can improve content only if asked directly and openly,
+            so your act could be based on concepts from computing world presented in
+            here with the sprinkle of philosophy around it to disagree with that, or
+            to contribute to this project, or to judge, your acts and reasons could
+            be many, also assumptions about what's written can be interpreted wrong,
+            you see how I used interpreted, because we're  building interpreters,
+            you can read all about them in pages to come. Anyhowzzy back to the
+            main point, writing is my act, my task, but one shouldn't practice full
+            non-interference approach, so the one says openly here that content can
+            be changed and improved through your contribution, link on the profile
+            is at the bottom of the sidebar and contributions are always welcomed,
+            ofcourse to contribute in the form of writing.
           </p>
        </Callout>
 

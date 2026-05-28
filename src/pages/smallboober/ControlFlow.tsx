@@ -3,7 +3,7 @@ export default function ControlFlow() {
     <>
       <h1>Control Flow</h1>
 
-      <p>Okay, okay time for the control flow, but a small story before that,
+      <p>Time for the control flow, but a small story before that,
       this Wednesday I went for a walk, you know to bring me into the world of thought,
       it wasn't that easy and I walk the same route pretty much every now and then,
       perhaps I eat too much pizza lately and am out of shape or I don't know,

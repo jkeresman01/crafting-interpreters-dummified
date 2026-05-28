@@ -22,7 +22,7 @@ export default function InterpretersVsCompilers() {
       <Callout type="tip">
 
       <p><strong>Interesting side thought: </strong>
-        You, see how I used poet and not a programmer, programming is an art, but
+        You see how I used poet and not a programmer, programming is an art, but
         it's also about craft, but it's also about love, perhaps my task was on that
         crosswalk to act, haven't seen anything as hot since that, perhaps thinking
         she would read is too crazy of a thought, perhaps haven't been paying attention
@@ -102,7 +102,7 @@ export default function InterpretersVsCompilers() {
         viby and cool and if you want all the boring stuff you can read all about it
         in the actual book.
       </p>
-
+Pre
      <h2>Okay this might be too viby and all so let's see concrete examples</h2>
 
      <h3>C++ — a compiled language</h3>
@@ -123,14 +123,14 @@ export default function InterpretersVsCompilers() {
       as it exists in memory when it runs, partial because the program generally
       allocates memory at runtime and it's usually comprised of at least these four
       segments (Text segment, Data segment, BSS segment and read-only data segment),
-      anyhowwzy lets get back to the main point, the executable gets generated for a
+      anyhowzzy let's get back to the main point, the executable gets generated for a
       specific hardware/system combination, so it would run fast — but that's also
       the downside, portability suffers. Nonetheless, C++ source is still a portable one.
     </p>
 
     <h3>Java — compiled && interpreted language, wait what what?</h3>
 
-     <p>Okay okay, now something that we can say sits in between — Java, so here is
+     <p>Now something that we can say sits in between — Java, so here is
      how it goes, the compiler would generate architecture-neutral object files, or
      in other words generate bytecode instructions that aren't tied to any particular
      computer architecture, the Java interpreter can then execute bytecodes directly
