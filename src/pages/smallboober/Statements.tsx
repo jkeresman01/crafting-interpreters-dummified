@@ -30,7 +30,7 @@ export default function Statements() {
       different times.</p>
 
       <p>We will follow what "Lox" does and our variables will be declared using
-      <strong>var</strong> statements. Some commonly used alternatives to using var
+      <strong> var</strong> statements. Some commonly used alternatives to using var
       would be let (JavaScript, TypeScript), local (Lua) or to simply use no declaration
       keyword (Python, Ruby).</p>
 
@@ -45,11 +45,6 @@ export default function Statements() {
       <CodeBlock
         language="plaintext"
         code={`var nilValue`}
-      />
-
-      <CodeBlock
-        language="plaintext"
-        code={`print "She was smoking hot" + ", " + " mind blown!;"`}
       />
 
       <p>Once declared you can naturally access and assign a variable using its name.</p>
