@@ -40,7 +40,7 @@ export default function Statements() {
       />
 
       <p>If you omit the initializer the variable's value defaults to
-      <strong>nil</strong>.</p>
+      <strong> nil</strong>.</p>
 
       <CodeBlock
         language="plaintext"
