@@ -65,7 +65,7 @@ export default function Expressions() {
         using short-circuit evaluation both functions would get called, regardless of
         the fact if she is already in love, you see how it all comes together.</p>
 
-        <p>If this concept still doesn't sit, here is even more simplifed example: </p>
+        <p>If this concept still doesn't sit, here is even more simplified example: </p>
 
         <CodeBlock
             language="plaintext"
@@ -196,6 +196,20 @@ export default function Expressions() {
         language="plaintext"
         code={`var result = a * b + (c - b) / 2`}
       />
+
+      <h2>Functions</h2>
+
+      <p>Okay, okay time for functions, but some thoughts before that, this book
+      is weird don't you think, I try to put a few stories from my life in here, to
+      make it not so boring and purely technical one and it's a work in progress so
+      some stories might get removed or moved to some other chapters, I don't know,
+      anyhowzzy I'm a weird gem, there is no doubt, tried finding some quiet place
+      today to listen to a lecture, my reading spot had some guys yelling too much
+      while playing volleyball, even climbed a tree, but even up there it wasn't so
+      quiet, fell off the tree, that's funny, anyhowzzy back to the writing part,
+      this book has this red haired goddess, you know the vibe and all, smoking hot,
+      the vibe is everything and you might wonder what she's doing in this book,
+      but time for a side thought and you'll see how it all comes together.</p>
 
     </>
   );
