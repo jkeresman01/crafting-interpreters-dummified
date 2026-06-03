@@ -211,6 +211,32 @@ export default function Expressions() {
       the vibe is everything and you might wonder what she's doing in this book,
       but time for a side thought and you'll see how it all comes together.</p>
 
+     <p>
+      Anyhowzzy, I've been asked just some days ago why are you reading this book, the
+      book is called <i>"Surrounded by idiots"</i> by Thomas Erikson, do you think that
+      all the people around you are idiots, the answer was of course not, how genuine
+      the question actually was, I don't know, perhaps the guy was just polite, side
+      thought inside a side thought about politeness, bartender bought me a coffee,
+      she was good and polite, so she earns a place in this book, also now that I
+      brought coffees into this story about politeness, sitting in the bar not ordering
+      anything is impolite, I sometimes order something, usually a coffee, not drinking
+      it, but sitting and being in the world of thought, anyhowzzy back to the book,
+      perhaps the guy was genuinely interested in the book, nonetheless it made me
+      smile a bit, not about the question, or anything related to it, but how clever
+      the author actually was.
+     </p>
+
+     <p>
+      Just think about it for a second, how many of the people actually asked themselves
+      this question, "Why are we all idiots to this guy?" and read the book, they were
+      probably disappointed a bit when they read the book, so remember never judge a
+      book by its cover.
+     </p>
+
+     <p>
+      Anyhowzzy now back to the conclusion of this small story in the functions chapter.
+     </p>
+
     </>
   );
 }
