@@ -235,6 +235,15 @@ export default function Expressions() {
 
      <p>
       Anyhowzzy now back to the conclusion of this small story in the functions chapter.
+      I haven't seen her since that day, she could be anywhere, I've just noticted the vibe 
+      and it was smoking hot, you get this part, she is the main character in this programming book.
+      It's about writing, programming books are boring and dull, "Surronded by idiots" book is 
+      a bestesller it brings mystery, why does author of that book thinks that we are all idiots,
+      same thing is with this smoking hot red haired goddess, it brings msytery who is that girl, 
+      it's a writting trick, and now you might wonder, isn't this unpolite to mention a girl 
+      in a book for writting reasons and the answer is I don't know, perhaps, but remember 
+      writting for me isn't about creating a besteller or using writting tricks, as was coding 
+      for some time it's an escape into the world of tought.
      </p>
 
     </>
