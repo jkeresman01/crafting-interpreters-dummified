@@ -13,7 +13,7 @@ export default function Statements() {
 
       <Callout type="note">
           <p><strong>Interesting statement from: </strong>
-            The philospher Friedrich Nietzcshe which is that there are no facts, only
+            The philospher Friedrich Nietzcshe is that there are no facts, only
             interpretations. This statement actually underlines the subjective nature
             of truth. In many situations the truth is simply someone's opininon. When
             someone claims to be be expressing an absoulte truth, they might in fact
