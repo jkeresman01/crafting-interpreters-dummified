@@ -78,9 +78,9 @@ export default function Preface() {
     <h1>Why write this?</h1>
 
      <p>
-       Most books probably don't have this "chapter", but this is my world and
-       we do it my way in here, funny, viby and cool, anyhowzzy I've stumbled across
-       an interesting concept that got me thinking.
+       Most books probably don't have this "chapter", but this is my world and we
+       do it my way in here, funny, viby and cool, anyhowzzy I've stumbled across an
+       interesting concept that got me thinking.
      </p>
 
       <p>
@@ -127,9 +127,9 @@ export default function Preface() {
        </Callout>
 
        <p>
-        So back to <i>"Why write this?"</i> — well, writing this is <strong>my </strong>
-        task. I'm doing it because it's mine, because that crosswalk lightning hit
-        and hasn't let go. The rest is just noise, you know the vibe and all.
+        So back to <i>"Why write this?"</i> — well, writing this is <strong>my
+        </strong> task. I'm doing it because it's mine, because that crosswalk lightning
+        hit and hasn't let go. The rest is just noise, you know the vibe and all.
        </p>
 
        <p>
@@ -143,13 +143,13 @@ export default function Preface() {
         <Callout type="tip">
 
           <p><strong>Fun fact: </strong>
-            I've stumbled across this huge pile of free time recently, and it's
-            given me more time to read — so you're gonna see a bunch of these side
-            thoughts about books that have changed the way I see the world. That's
-            kinda the point. If a book doesn't change the way you think, it isn't worth
-            reading. If a programming language doesn't change the way you think, it
-            isn't worth learning...  So this will guide me through this book, it needs to
-            change the way that you see things in order to be worth the reader's attention...
+            I've stumbled across this huge pile of free time recently, and it's given
+            me more time to read — so you're gonna see a bunch of these side thoughts
+            about books that have changed the way I see the world. That's kinda the
+            point. If a book doesn't change the way you think, it isn't worth reading. If
+            a programming language doesn't change the way you think, it isn't worth
+            learning...  So this will guide me through this book, it needs to change
+            the way that you see things in order to be worth the reader's attention...
           </p>
 
           <p>

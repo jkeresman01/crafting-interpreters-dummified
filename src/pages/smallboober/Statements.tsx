@@ -1,4 +1,5 @@
 import CodeBlock from '../../components/CodeBlock';
+import Callout from '../../components/Callout';
 
 export default function Statements() {
   return (
@@ -9,6 +10,16 @@ export default function Statements() {
       the world are the ones who do, that was a statement and a statement's job is to
       change the world in some sense, usually by modifying some state, reading input
       or producing output.</p>
+
+      <Callout type="note">
+          <p><strong>Interesting statement from: </strong>
+            The philospher Friedrich Nietzcshe which is that there are no facts, only
+            interpretations. This statement actually underlines the subjective nature
+            of truth. In many situations the truth is simply someone's opininon. When
+            someone claims to be be expressing an absoulte truth, they might in fact
+            just be affirming their own subjective view of particular situation.
+          </p>
+       </Callout>
 
       <p>Okay, okay it will all make sense after some examples as I've said statements
       cause effects, they don't evaluate to a value, you've already seen at least one
