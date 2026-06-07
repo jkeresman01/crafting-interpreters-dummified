@@ -13,13 +13,13 @@ export default function Statements() {
 
       <Callout type="note">
           <p><strong>Interesting statement from: </strong>
-            The philospher Friedrich Nietzcshe is that there are no facts, only
+            The philosopher Friedrich Nietzsche said that there are no facts, only
             interpretations. This statement actually underlines the subjective nature
             of truth. In many situations the truth is simply someone's opininon. When
             someone claims to be be expressing an absoulte truth, they might in fact
             just be affirming their own subjective view of particular situation,
-            which is philosophy and coding is all about facts, as I've said this is coding 
-            book with some philosphy around it to disagree with that.
+            which is philosophy and coding is all about facts, as I've said this is
+            coding book with some philosphy around it to disagree with that.
           </p>
        </Callout>
 
@@ -42,10 +42,10 @@ export default function Statements() {
       of any type and a single variable can even store values of different types at
       different times.</p>
 
-      <p>We will follow what "Lox" does and our variables will be declared using
-      <strong> var</strong> statements. Some commonly used alternatives to using var
-      would be let (JavaScript, TypeScript), local (Lua) or to simply use no declaration
-      keyword (Python, Ruby).</p>
+      <p>We will follow what "Lox" does and our variables will be declared using <strong>
+      var</strong> statements. Some commonly used alternatives to using var would be
+      let (JavaScript, TypeScript), local (Lua) or to simply use no declaration keyword
+      (Python, Ruby).</p>
 
       <CodeBlock
         language="plaintext"
@@ -61,7 +61,6 @@ export default function Statements() {
       />
 
       <p>Once declared you can naturally access and assign a variable using its name.</p>
-
 
       <CodeBlock
         language="plaintext"

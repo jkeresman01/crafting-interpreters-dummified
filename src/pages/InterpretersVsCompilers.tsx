@@ -102,7 +102,7 @@ export default function InterpretersVsCompilers() {
         viby and cool and if you want all the boring stuff you can read all about it
         in the actual book.
       </p>
-Pre
+
      <h2>Okay this might be too viby and all so let's see concrete examples</h2>
 
      <h3>C++ — a compiled language</h3>
