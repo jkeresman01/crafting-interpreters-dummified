@@ -4,7 +4,7 @@ export default function ControlFlow() {
       <h1>Control Flow</h1>
 
       <p>Yesterday, it was rainy evening in my part of the world, that's for sure,
-      was driving home with interesting tought on my mind, waiting for inspiration to
+      was driving home with interesting thought on my mind, waiting for inspiration to
       come back.  </p>
 
     </>

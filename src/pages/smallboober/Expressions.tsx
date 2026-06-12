@@ -212,18 +212,18 @@ export default function Expressions() {
       but time for a side thought and you'll see how it all comes together.</p>
 
      <p>
-      Anyhowzzy, I've been asked just some days ago why are you reading this book, the
-      book is called <i>"Surrounded by idiots"</i> by Thomas Erikson, do you think that
-      all the people around you are idiots, the answer was of course not, how genuine
-      the question actually was, I don't know, perhaps the guy was just polite, side
-      thought inside a side thought about politeness, bartender bought me a coffee,
-      she was good and polite, so she earns a place in this book, also now that I
-      brought coffees into this story about politeness, sitting in the bar not ordering
-      anything is impolite, I sometimes order something, usually a coffee, not drinking
-      it, but sitting and being in the world of thought, anyhowzzy back to the book,
-      perhaps the guy was genuinely interested in the book, nonetheless it made me
-      smile a bit, not about the question, or anything related to it, but how clever
-      the author actually was.
+      Anyhowzzy, I've been asked just some days ago why are you reading this book,
+      the book is called <i>"Surrounded by idiots"</i> by Thomas Erikson, do you
+      think that all the people around you are idiots, the answer was of course not,
+      how genuine the question actually was, I don't know, perhaps the guy was just
+      polite, side thought inside a side thought about politeness, bartender bought me
+      a coffee, she was good and polite, so she earns a place in this book, also now
+      that I brought coffees into this story about politeness, sitting in the bar not
+      ordering anything is impolite, I sometimes order something, usually a coffee,
+      not drinking it, but sitting and being in the world of thought, anyhowzzy back
+      to the book, perhaps the guy was genuinely interested in the book, nonetheless
+      it made me smile a bit, not about the question, or anything related to it,
+      but how clever the author actually was.
      </p>
 
      <p>
@@ -235,14 +235,15 @@ export default function Expressions() {
 
      <p>
       Anyhowzzy now back to the conclusion of this small story in the functions chapter.
-      I haven't seen her since that day, she could be anywhere, I've just noticed the vibe
-      and it was smoking hot, you get this part, she is the main character in this programming book.
-      It's about writing, programming books are boring and dull, "Surrounded by idiots" book is
-      a bestseller it brings mystery, why does the author of that book think that we are all idiots,
-      same thing is with this smoking hot red haired goddess, it brings mystery who is that girl,
-      it's a writing trick, and now you might wonder, isn't this impolite to mention a girl
-      in a book for writing reasons and the answer is I don't know, perhaps, but remember
-      writing for me isn't about creating a bestseller or using writing tricks, as was coding
+      I haven't seen her since that day, she could be anywhere, I've just noticed the
+      vibe and it was smoking hot, you get this part, she is the main character in this
+      programming book.  It's about writing, programming books are boring and dull,
+      "Surrounded by idiots" book is a bestseller it brings mystery, why does the author
+      of that book think that we are all idiots, same thing is with this smoking hot
+      red haired goddess, it brings mystery who is that girl, it's a writing trick,
+      and now you might wonder, isn't this impolite to mention a girl in a book for
+      writing reasons and the answer is I don't know, perhaps, but remember writing
+      for me isn't about creating a bestseller or using writing tricks, as was coding
       for some time it's an escape into the world of thought.
      </p>
 
