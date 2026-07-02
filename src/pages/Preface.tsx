@@ -204,10 +204,16 @@ export default function Preface() {
      <p>
        <strong>Thanks</strong>, on the preface page, wait what. Weird place for thanks,
        don't you think, preface, but than again this is all in reverse and weird in
-       this book.
+       this book. On the first tought I had some doubts about giving thanks, since
+       I tought that no one reads this crap anyways, on the second tought without
+       readers, every single one, those who agree with what I write, those who don't,
+       those indepentent thinkers who think and stop, those who doubt and those who
+       don't, those who laugh, those who judge, those who don't, those who inspire me,
+       those who think that I forgot and those that believe that I did not, those that
+       get angry sometimes and to those who don't. Thanks to every single one.
      </p>
 
-       </>
+     </>
   );
 }
 
