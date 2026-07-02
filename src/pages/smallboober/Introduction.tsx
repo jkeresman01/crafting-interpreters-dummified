@@ -15,13 +15,17 @@ export default function Introduction() {
        </p>
 
         <p>
-          Programming languages on their own are a huge pile of boring concepts and
+          But like look at me, what do I know about that and what determines if
+          a language is "good", clearly no single factor, as we study programming
+          languages, we shall need to consider issues from several points of view. In
+          particular we shall consider viewpoints of both programmer and language
+          implementor and only sometimes this viewpoints will be in harmony and
+          programming languages on their own are a huge pile of boring concepts and
           terminology and implementing an interpreter requires architectural and design
           patterns not that commonly used in other development areas, so before we
           move to this boring crap, we need a story, a bit of philosophy to keep this
           introduction good, honest and the right one, since in writing every reader
-          and every word counts. But like look at me, what do I know about that, sticking
-          some words on the website is just for my fun and readers tend to be none.
+          and every word counts.   
         </p>
 
         <p>

@@ -207,10 +207,11 @@ export default function Preface() {
        this book. On the first thought I had some doubts about giving thanks, since
        I tought that no one reads this crap anyways, on the second tought without
        readers, every single one, those who agree with what I write, those who don't,
-       those independent thinkers who think and stop, those who doubt and those who
-       don't, those who laugh, those who judge, those who don't, those who inspire me,
-       those who think that I forgot and those that believe that I did not, those that
-       get angry sometimes and to those who don't. Thanks to every single one.
+       those independent thinkers who think and stop, and to those who just go with
+       the flow, those who doubt and those who don't, those who laugh, those who judge,
+       those who don't, those who inspire me, those who think that I forgot and those
+       that believe that I did not, those that get angry sometimes and to those who
+       don't. Thanks to every single one.
      </p>
 
      </>

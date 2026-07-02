@@ -73,8 +73,8 @@ export default function InterpretersVsCompilers() {
       </p>
 
       <p>
-        So let's lose few additional brain cells now, let's say that in SmallBoober you could 
-        do something like this:
+        So let's lose few additional brain cells now, let's say that in SmallBoober
+        you could do something like this:
       </p>
 
       <CodeBlock
@@ -175,13 +175,13 @@ export default function InterpretersVsCompilers() {
     <h3>Generally speaking...</h3>
 
     <p>
-      Okay, okay this all looking language wise, but if we speak generaly compilation
+      Okay, okay this all looking language wise, but if we speak generaly, compilation
       leads to better performance. In general a decision made at compile time is
       decision that does not need to be made at runtime. For example if the compiler
       can gurantee that certain variable will lie at location 49378, it can generate
       machine language instructions that access this location whenever the source code
       refers to this variable, by contrast interpreter may need to look that variable
-      up in a table every time it is accessed.
+      up in a table every time it is accessed, which is generaly slower.
     </p>
 
     </>
