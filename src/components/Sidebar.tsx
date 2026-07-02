@@ -67,7 +67,7 @@ export default function Sidebar({ open, onClose }: Props) {
         </nav>
         <div className="sidebar-footer">
           <a
-            href="https://github.com/jkeresman01/crafting-interpreters-dummified"
+            href="https://github.com/jkeresman01"
             target="_blank"
             rel="noopener noreferrer"
             className="sidebar-github"
