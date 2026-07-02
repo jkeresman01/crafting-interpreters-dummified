@@ -181,7 +181,7 @@ export default function InterpretersVsCompilers() {
       can gurantee that certain variable will lie at location 49378, it can generate
       machine language instructions that access this location whenever the source code
       refers to this variable, by contrast interpreter may need to look that variable
-      up in a table every time it is accessed, which is generaly slower.
+      up in a table every time it is accessed.
     </p>
 
     </>
