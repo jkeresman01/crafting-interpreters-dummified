@@ -152,7 +152,7 @@ export default function InterpretersVsCompilers() {
      you compile internally. The biggest brain fuck.
    </p>
 
-     <h3> Python - interpreted </h3>
+    <h3> Python - interpreted </h3>
 
     <Callout type="tip">
 
@@ -171,6 +171,18 @@ export default function InterpretersVsCompilers() {
             style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
         </iframe>
       </Callout>
+
+    <h3>Generally speaking...</h3>
+
+    <p>
+      Okay, okay this all looking language wise, but if we speak generaly compilation
+      leads to better performance. In general a decision made at compile time is
+      decision that does not need to be made at runtime. For example if the compiler
+      can gurantee that certain variable will lie at location 49378, it can generate
+      machine language instructions that access this location whenever the source code
+      refers to this variable, by contrast interpreter may need to look that variable
+      up in a table every time it is accessed.
+    </p>
 
     </>
   );

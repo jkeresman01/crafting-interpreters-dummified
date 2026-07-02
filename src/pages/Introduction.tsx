@@ -88,6 +88,6 @@ export default function Introduction() {
         few brain cells along the way I promise you that.
        </p>
 
-          </>
+      </>
   );
 }
