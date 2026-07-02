@@ -31,12 +31,12 @@ export default function Preface() {
         do you explain this to a normal 9 to 5, ikea, let's watch some television show
         type of person. Don't get me wrong some televisions are more than televisions,
         but anyhowzzzy back to the main thought, it's always that one moment in the
-        universe that kickstarts my thought process, this time it was just smoking hot.
+        universe that kick-starts my thought process, this time it was just smoking hot.
       </p>
 
       <p>
         Smoking hot or not, the inspiration to write was back and the idea was born.
-        I will dummify the concepts taught in the <i>"Crafting Interpreters"</i> book
+        I will dumify the concepts taught in the <i>"Crafting Interpreters"</i> book
         from Robert Nystrom, speak a bit about different programming languages, how to
         implement an interpreter in them and to answer the question: <strong><i>"Why
         do I walk? Is it to bring me into the world of thought?"</i></strong>
@@ -195,7 +195,7 @@ export default function Preface() {
             non-interference approach, so the one says openly here that content can
             be changed and improved through your contribution, link on the profile
             is at the bottom of the sidebar and contributions are always welcomed,
-            ofcourse to contribute in the form of writing.
+            of course to contribute in the form of writing.
           </p>
        </Callout>
 
@@ -204,10 +204,10 @@ export default function Preface() {
      <p>
        <strong>Thanks</strong>, on the preface page, wait what. Weird place for thanks,
        don't you think, preface, but than again this is all in reverse and weird in
-       this book. On the first tought I had some doubts about giving thanks, since
+       this book. On the first thought I had some doubts about giving thanks, since
        I tought that no one reads this crap anyways, on the second tought without
        readers, every single one, those who agree with what I write, those who don't,
-       those indepentent thinkers who think and stop, those who doubt and those who
+       those independent thinkers who think and stop, those who doubt and those who
        don't, those who laugh, those who judge, those who don't, those who inspire me,
        those who think that I forgot and those that believe that I did not, those that
        get angry sometimes and to those who don't. Thanks to every single one.
