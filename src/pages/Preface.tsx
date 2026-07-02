@@ -199,6 +199,14 @@ export default function Preface() {
           </p>
        </Callout>
 
+      <h1>Thanks ...</h1>
+
+     <p>
+       <strong>Thanks</strong>, on the preface page, wait what. Weird place for thanks,
+       don't you think, preface, but than again this is all in reverse and weird in
+       this book.
+     </p>
+
        </>
   );
 }

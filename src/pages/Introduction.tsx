@@ -87,6 +87,7 @@ export default function Introduction() {
         is all about and be aware if your background is too sciency, you will lose
         few brain cells along the way I promise you that.
        </p>
-     </>
+
+          </>
   );
 }
