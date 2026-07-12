@@ -59,20 +59,31 @@ export default function Preface() {
       </Callout>
 
       <p>
+        Curiosity is weird, don't you think, we often think that we are curious and
+        that we question things around us, but in general we only tend to ask questions
+        that would confirm our original hypothesis, because we often see only one
+        side of reality, not always, but we tend to do that and it's interesting to
+        walk different circles of people, walk trough different surroundings and to see
+        different set of values that defines people withing certain cirles, one thing is
+        clear, it's not curiosity or questioning it's often just pursuit of the answers
+        that we wan't to hear, nothing more, nothing less, but now back to writing a bit.
+      </p>
+
+      <p>
         It's also kind of funny how hard it is to get readers engaged, or even bump
         that readers count above one. First book caught a lucky break — that whole
-        <i>"questions story"</i> dragged some folks in by accident, you know the
-        vibe and all. This one though, ohhhhh boy, this one could just sit there as a
-        dull, dry, technical brick with a readers count of exactly none. Anyhowzzy,
-        perhaps philosophy is the move, perhaps that's the thing that keeps the
-        whole ride interesting — but one lesson got hammered in along the way: a
-        website is no reason to assume or react. So if you by some accident stumble
-        across this second part,<strong> come and talk, because you <i>will/have</i>
-        assumed wrong</strong>. Some things I write are just confusing on their own,
-        some aren't even my words but bits from people the moment reminded me of, and
-        some, ohhhhh boy, some don't even make damn sense to me. So just remember —
-        everything I write and do comes out of love, some moments are genuine and cute,
-        some smoking hot and some concepts are best explained through Adler's thought.
+        <i>"questions story"</i> dragged some folks in by accident, you know the vibe
+        and all. This one though, ohhhhh boy, this one could just sit there as a dull,
+        dry, technical brick with a readers count of exactly none. Anyhowzzy, perhaps
+        philosophy is the move, perhaps that's the thing that keeps the whole ride
+        interesting — but one lesson got hammered in along the way: a website is no
+        reason to assume or react. So if you by some accident stumble across this second
+        part,<strong> come and talk, because you <i>will</i> assume wrong</strong>. Some
+        things I write are just confusing on their own, some aren't even my words but
+        bits from people the moment reminded me of, and some, ohhhhh boy, some don't
+        even make damn sense to me. So just remember — everything I write and do
+        comes out of love, some moments are genuine and cute, some smoking hot and
+        some concepts are best explained through Adler's thought.
       </p>
 
     <h1>Why write this?</h1>
@@ -84,9 +95,9 @@ export default function Preface() {
      </p>
 
       <p>
-        Side thought of mine before we get to that — thoughts are quite
-        interesting, don't you agree? What we think, what we do, what we say
-        and what we write might all be different things.
+        Side thought of mine before we get to that — thoughts are quite interesting,
+        don't you agree? What we think, what we do, what we say and what we write
+        might all be different things.
       </p>
 
       <p>
