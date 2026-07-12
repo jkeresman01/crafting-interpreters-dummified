@@ -64,7 +64,7 @@ export default function Preface() {
         that would confirm our original hypothesis, because we often see only one
         side of reality, not always, but we tend to do that and it's interesting to
         walk different circles of people, walk trough different surroundings and to see
-        different set of values that defines people withing certain cirles, one thing is
+        different set of values that defines people withing certain circles, one thing is
         clear, it's not curiosity or questioning it's often just pursuit of the answers
         that we wan't to hear, nothing more, nothing less, but now back to writing a bit.
       </p>
@@ -216,7 +216,7 @@ export default function Preface() {
        <strong>Thanks</strong>, on the preface page, wait what. Weird place for thanks,
        don't you think, preface, but than again this is all in reverse and weird in
        this book. On the first thought I had some doubts about giving thanks, since
-       I tought that no one reads this crap anyways, on the second tought without
+       I thought that no one reads this crap anyways, on the second thought without
        readers, every single one, those who agree with what I write, those who don't,
        those independent thinkers who think and stop, and to those who just go with
        the flow, those who doubt and those who don't, those who laugh, those who judge,
