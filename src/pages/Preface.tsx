@@ -187,8 +187,25 @@ export default function Preface() {
         many, whys are different but one thing is for sure you will enjoy. You know
         the best authors make you feel, some pages make you cry, some roll your eyes,
         some laugh, some frustrate.  But, but, but just trust the process, you will
-        enjoy the ride, I'm quite entertaining, just trust me on this one.
+        enjoy the ride, I'm quite entertaining, just trust me on this one, but before 
+        we move to that here is a small chapter about schools of tought.
       </p>
+
+       <h1>Schools of tought</h1>
+
+       <p>
+        Recently I've been walking around with the stick, have been thinking about
+        martial art and the schools of tought, how master martial artists form their
+        own schools of toughts and gather students to learn from them, students of this
+        approaches than immerse themselves in the teachings of the founder often to the
+        exclusion of any other masters teachings, later as students grow in their art
+        they may become the student of a different master so they can broaden their
+        knowledge, some eventually found their own schools, do things in their own
+        way, none of the schools is absoultly right, yet withing a particular school
+        we act as though teachings are right, but this rightness withing a school does
+        not invalidate the teachings of a different school and what I'm trying to say
+        is that we learn, practice and immerese ourselves in teachings and techniques
+        of our mentors, but there's no one right way to cook a soup.</p>
 
        <Callout type="note">
           <p><strong>Coming back to non-interference approach: </strong>
