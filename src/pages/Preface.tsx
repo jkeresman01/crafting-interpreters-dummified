@@ -153,7 +153,7 @@ export default function Preface() {
 
         <Callout type="tip">
 
-          <p><strong>Fun fact: </strong>
+          <p><strong>Interesting side thought</strong>
             I've stumbled across this huge pile of free time recently, and it's given
             me more time to read — so you're gonna see a bunch of these side thoughts
             about books that have changed the way I see the world. That's kinda the

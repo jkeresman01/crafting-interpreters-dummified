@@ -66,6 +66,16 @@ export default function PhasesOfCompiler() {
 
       </Callout>
 
+      <Callout type="tip">
+
+      <p><strong>Fun fact: </strong>
+        Grace Murray Hopper is the women credited for creating the first compiler, she is 
+        also responsible for reporting first actual case of bug while working on early Mark 2 
+        computer.
+      </p>
+
+      </Callout>
+
       <h2>Okay but let's talk about these phases a bit more</h2>
 
       <h3>Frontend</h3>
