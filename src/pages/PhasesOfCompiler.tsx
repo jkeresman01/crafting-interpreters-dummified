@@ -119,23 +119,21 @@ export default function PhasesOfCompiler() {
 
       <p>Anyhowzyy, you have now read this sentence and lets say it's your first time
       stumbling upon this nonsene, you know like, we take a stream of characters and
-      group them into tokens(words) and you now might think, what the fuck does that
-      even mean and this is supposed to be short and simple, right, and to be honest I
-      don't even know what the fuck is currently going, there could be wars for asfalt
-      or cement going on in my village or something else but that's really not the point
-      here, so let's get back to writing, let's try to simplify it even further...</p>
+      group them into tokens(words) or if you wan't even more dumber definition we
+      could also say it like this, purpose of lexing/scanning && parsing, you know the
+      first two phases, is to recognize the structure of the program without giving
+      the fuck of it's meaning, and you might be what the fuck does that even mean
+      and this is supposed to be short and simple, so let's try to go trough this nonsene
+      with this simple example: </p>
 
     <CodeBlock
-        language="plaintext"
-        code={`var diana = "There is no zebra in here"`}
+        language="plaintext" code={`var diana = "There is no zebra in here"`}
       />
 
-      <p>We could also say it a bit differently, purpose of lexing/scanning and
-      parsing, you know the first two phases is to recognize the structure of the
-      program without giving the fuck of it's meaning, so in our example the scanner
-      would read characters one by one: 'v' 'a' 'r' ' ' 'd' 'i' 'a' 'n' 'a' ' ' '='
-      '"' 'T' 'h' 'e' 'r' 'e' ' ' 'i' 's' 'n' 'o' ' ' 'z' 'e' 'b' 'r' 'a' ' ' 'i' 'n'
-      ' ' 'h' 'e' 'r' 'e' '"' and than group them into this so called tokens.</p>
+      <p>So in our example the scanner would read characters one by one: 'v' 'a' 'r'
+      ' ' 'd' 'i' 'a' 'n' 'a' ' ' '=' '"' 'T' 'h' 'e' 'r' 'e' ' ' 'i' 's' 'n' 'o' '
+      ' 'z' 'e' 'b' 'r' 'a' ' ' 'i' 'n' ' ' 'h' 'e' 'r' 'e' '"' and than group them
+      into this so called tokens.</p>
 
       <h4>Lexems</h4>
 
