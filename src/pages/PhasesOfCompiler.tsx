@@ -1,4 +1,5 @@
 import Callout from '../components/Callout';
+import CodeBlock from '../components/CodeBlock';
 
 export default function PhasesOfCompiler() {
   return (
@@ -113,6 +114,32 @@ export default function PhasesOfCompiler() {
       </p>
 
       </Callout>
+
+      <h4>Concrete example</h4>
+
+      <p>Anyhowzyy, you have now read this sentence and lets say it's your first time
+      stumbling upon this nonsene, you know like, we take a stream of characters and
+      group them into tokens(words) and you now might think, what the fuck does that
+      even mean and this is supposed to be short and simple, right, and to be honest I
+      don't even know what the fuck is currently going, there could be wars for asfalt
+      or cement going on in my village or something else but that's really not the point
+      here, so let's get back to writing, let's try to simplify it even further...</p>
+
+    <CodeBlock
+        language="plaintext"
+        code={`var diana = "There is no zebra in here"`}
+      />
+
+      <p>We could also say it a bit differently, purpose of lexing/scanning and
+      parsing, you know the first two phases is to recognize the structure of the
+      program without giving the fuck of it's meaning, so in our example the scanner
+      would read characters one by one: 'v' 'a' 'r' ' ' 'd' 'i' 'a' 'n' 'a' ' ' '='
+      '"' 'T' 'h' 'e' 'r' 'e' ' ' 'i' 's' 'n' 'o' ' ' 'z' 'e' 'b' 'r' 'a' ' ' 'i' 'n'
+      ' ' 'h' 'e' 'r' 'e' '"' and than group them into this so called tokens.</p>
+
+      <h4>Lexems</h4>
+
+      <p>But before we get to tokens let's see what this lexeme things actually are.</p>
 
       <h4>Parsing</h4>
 
