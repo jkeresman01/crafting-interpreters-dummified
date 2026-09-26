@@ -133,7 +133,7 @@ export default function PhasesOfCompiler() {
       <p>So in our example the scanner would read characters one by one: 'v' 'a' 'r'
       ' ' 'd' 'i' 'a' 'n' 'a' ' ' '=' '"' 'T' 'h' 'e' 'r' 'e' ' ' 'i' 's' 'n' 'o' '
       ' 'z' 'e' 'b' 'r' 'a' ' ' 'i' 'n' ' ' 'h' 'e' 'r' 'e' '"' and than group them
-      into this so called tokens.</p>
+      into this so called tokens</p>
 
       <h4>Lexems</h4>
 

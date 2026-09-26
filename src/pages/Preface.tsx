@@ -1,8 +1,7 @@
 import Callout from '../components/Callout';
 
 export default function Preface() {
-  return (
-    <>
+  return ( <>
       <h1>How did it start?</h1>
 
       <p>
@@ -69,6 +68,10 @@ export default function Preface() {
         that we wan't to hear, nothing more, nothing less, but now back to writing a bit.
       </p>
 
+      <p>It's even more interesting with each passing day, this writing, you know,
+      it leaves you a lot of space to express yourself in the way you want, so just
+      remember, never fight this just embrace it.</p>
+
       <p>
         It's also kind of funny how hard it is to get readers engaged, or even bump
         that readers count above one. First book caught a lucky break — that whole
@@ -86,7 +89,7 @@ export default function Preface() {
         some concepts are best explained through Adler's thought.
       </p>
 
-    <h1>Why write this?</h1>
+    <h1>Why write this? Purpose of this thing..</h1>
 
      <p>
        Most books probably don't have this "chapter", but this is my world and we
@@ -191,7 +194,7 @@ export default function Preface() {
         we move to that here is a small chapter about schools of tought.
       </p>
 
-       <h1>Schools of tought</h1>
+       <h1>Schools of thought</h1>
 
        <p>
         Recently I've been walking around with the stick, have been thinking about
