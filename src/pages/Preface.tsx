@@ -68,10 +68,6 @@ export default function Preface() {
         that we wan't to hear, nothing more, nothing less, but now back to writing a bit.
       </p>
 
-      <p>It's even more interesting with each passing day, this writing, you know,
-      it leaves you a lot of space to express yourself in the way you want, so just
-      remember, never fight this just embrace it.</p>
-
       <p>
         It's also kind of funny how hard it is to get readers engaged, or even bump
         that readers count above one. First book caught a lucky break — that whole
@@ -98,22 +94,6 @@ export default function Preface() {
      </p>
 
       <p>
-        Side thought of mine before we get to that — thoughts are quite interesting,
-        don't you agree? What we think, what we do, what we say and what we write
-        might all be different things.
-      </p>
-
-      <p>
-        You might find a woman particularly gorgeous and unique or a song particularly
-        viby, but it might just stay in the world of thought. You might find a topic
-        particularly boring, but say that it's interesting, and you might say you're
-        going to start exercising tomorrow, but never actually do it — all different
-        things, you see. Okay, okay you might now think that's all cute and all but
-        it doesn't answer the question <i>"Why write this?"</i>. Just hang on, we'll
-        get back to that "weird" concept I've been thinking about.
-      </p>
-
-       <p>
         This concept — Adler called it <i>"separation of tasks"</i>, fancy name
         for a dead simple idea: do your own tasks, stay out of everyone else's.
         Classic setup, kid doesn't feel like studying, parent rolls in with the old
