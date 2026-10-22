@@ -90,7 +90,7 @@ export default function Introduction() {
        </p>
 
       <Callout type="tip">
-        <strong>Just embrace the complete meaninglessness of it all</strong>
+        <p><strong>Just embrace the complete meaninglessness of it all</strong></p>
 
         <br />
        

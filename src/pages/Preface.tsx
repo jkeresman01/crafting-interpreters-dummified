@@ -174,7 +174,61 @@ export default function Preface() {
         we move to that here is a small chapter about schools of tought.
       </p>
 
-       <h1>Schools of thought</h1>
+       <h1>Schools of thought && radios && street games/fights</h1>
+
+       <p> Recently, while walking around with my stick, I've been thinking about
+       martial arts and the different schools of thought that develop around them. A
+       master develops their own approach, gathers students, and passes on their
+       teachings. Those students immerse themselves in that particular way of doing
+       things, sometimes to the exclusion of other masters' teachings. As they grow,
+       however, they may seek out different teachers to broaden their understanding,
+       and some eventually develop their own approaches. </p>
+
+       <p> I see something similar in my duck pickup game, a game started by <strong>Ants</strong>
+       and <strong>Open Radio</strong>, at least that's how it started for me. </p>
+
+    <Callout type="tip">
+        <p><strong>How to pick up a duck: </strong></p>
+
+        <iframe
+            width="100%"
+            height="315"
+            src="https://www.youtube.com/embed/aYbvhPHPC98?start=0&end=14"
+            title="How to train a duck"
+            loading="lazy"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
+        </iframe>
+      </Callout>
+
+
+      <p>
+       Even though the game has its own origins, traditions, and ways of being played,
+       each time I participate, I bring my own habits, strategies, and understanding
+       to it. I might become attached to a particular way of playing because it has
+       worked for me, and for the duration of a game, I commit to that approach and
+       try to execute it as well as I can. But I also have to remain open to what other
+       players can teach me, to the strategies that challenge mine, and to the things
+       I discover when my usual way of doing things doesn't work. </p>
+
+
+       <p>The fact that one approach works within a particular context doesn't make
+       it the only right approach, nor does it invalidate the approaches of others. The
+       game may have been founded by Ents and Open Radio, but the ways in which people
+       experience, play, and develop it need not remain fixed forever. Each player
+       brings a different perspective, and each has something to contribute. The point
+       isn't to abandon one approach for another every time I encounter something new,
+       but to immerse myself in what I'm practising while remembering that there's
+       always more to learn. </p>
+
+        <p> Perhaps that's what martial arts schools can teach us: we can honour the
+        traditions and teachings that gave something its form without assuming that they
+        represent the only possible way forward. We can commit ourselves to a particular
+        way of playing while remaining curious about other possibilities. In the end,
+        just as no single martial arts school holds an absolute monopoly on wisdom, there
+        is no one right way to play the game—or, for that matter, to cook a soup. </p>
 
        <p>
         Recently I've been walking around with the stick, have been thinking about
