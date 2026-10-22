@@ -89,7 +89,7 @@ export default function Introduction() {
         embrace the complete meaninglessness of it all.
        </p>
 
-      <Callout type="note">
+      <Callout type="tip">
         <strong>Just embrace the complete meaninglessness of it all</strong>
 
         <br />
