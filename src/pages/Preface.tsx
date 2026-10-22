@@ -213,12 +213,12 @@ export default function Preface() {
 
        <p>The fact that one approach works within a particular context doesn't make it
        the only right approach, nor does it invalidate the approaches of others. The
-       game may have been founded by <strong>Ants and Open Radio</strong>, but the
-       ways in which people experience, play, and develop it need not remain fixed
-       forever.  Each player brings a different perspective, and each has something
-       to contribute. The point isn't to abandon one approach for another every time
-       I encounter something new, but to immerse myself in what I'm practising while
-       remembering that there's always more to learn. </p>
+       game may have been founded by <strong>Ants and Open Radio</strong> (this is how
+       it started for me), but the ways in which people experience, play, and develop
+       it need not remain fixed forever.  Each player brings a different perspective,
+       and each has something to contribute. The point isn't to abandon one approach
+       for another every time I encounter something new, but to immerse myself in what
+       I'm practising while remembering that there's always more to learn. </p>
 
         <p> Perhaps that's what martial arts schools can teach us: we can honour the
         traditions and teachings that gave something its form without assuming that they
@@ -226,20 +226,6 @@ export default function Preface() {
         way of playing while remaining curious about other possibilities. In the end,
         just as no single martial arts school holds an absolute monopoly on wisdom, there
         is no one right way to play the game—or, for that matter, to cook a soup. </p>
-
-       <p>
-        Recently I've been walking around with the stick, have been thinking about
-        martial art and the schools of tought, how master martial artists form their
-        own schools of toughts and gather students to learn from them, students of this
-        approaches than immerse themselves in the teachings of the founder often to the
-        exclusion of any other masters teachings, later as students grow in their art
-        they may become the student of a different master so they can broaden their
-        knowledge, some eventually found their own schools, do things in their own
-        way, none of the schools is absoultly right, yet withing a particular school
-        we act as though teachings are right, but this rightness withing a school does
-        not invalidate the teachings of a different school and what I'm trying to say
-        is that we learn, practice and immerese ourselves in teachings and techniques
-        of our mentors, but there's no one right way to cook a soup.</p>
 
        <Callout type="note">
           <p><strong>Coming back to non-interference approach: </strong>
