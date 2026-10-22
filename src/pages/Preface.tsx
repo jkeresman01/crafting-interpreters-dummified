@@ -184,9 +184,6 @@ export default function Preface() {
        however, they may seek out different teachers to broaden their understanding,
        and some eventually develop their own approaches. </p>
 
-       <p> I see something similar in my duck pickup game, a game started by <strong>Ants</strong>
-       and <strong>Open Radio</strong>, at least that's how it started for me. </p>
-
     <Callout type="tip">
         <p><strong>How to pick up a duck: </strong></p>
 
@@ -214,14 +211,14 @@ export default function Preface() {
        I discover when my usual way of doing things doesn't work. </p>
 
 
-       <p>The fact that one approach works within a particular context doesn't make
-       it the only right approach, nor does it invalidate the approaches of others. The
-       game may have been founded by Ents and Open Radio, but the ways in which people
-       experience, play, and develop it need not remain fixed forever. Each player
-       brings a different perspective, and each has something to contribute. The point
-       isn't to abandon one approach for another every time I encounter something new,
-       but to immerse myself in what I'm practising while remembering that there's
-       always more to learn. </p>
+       <p>The fact that one approach works within a particular context doesn't make it
+       the only right approach, nor does it invalidate the approaches of others. The
+       game may have been founded by <strong>Ants and Open Radio</strong>, but the
+       ways in which people experience, play, and develop it need not remain fixed
+       forever.  Each player brings a different perspective, and each has something
+       to contribute. The point isn't to abandon one approach for another every time
+       I encounter something new, but to immerse myself in what I'm practising while
+       remembering that there's always more to learn. </p>
 
         <p> Perhaps that's what martial arts schools can teach us: we can honour the
         traditions and teachings that gave something its form without assuming that they
