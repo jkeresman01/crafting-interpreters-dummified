@@ -85,8 +85,28 @@ export default function Introduction() {
        <p>
         Okay, okay, enough chit chat and stuff let's see what this interpreter thing
         is all about and be aware if your background is too sciency, you will lose
-        few brain cells along the way I promise you that.
+        few brain cells along the way I promise you that, so just sit back, relax and 
+        embrace the complete meaninglessness of it all.
        </p>
+
+      <Callout type="note">
+        <strong>Just embrace the complete meaninglessness of it all</strong>
+
+        <br />
+       
+        <iframe 
+          width="100%" 
+          height="315"
+          src="https://www.youtube.com/embed/4GZdeWWraTs?start=114&end=136"
+          title="Just embrace the BS"
+          loading="lazy"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+        </iframe>
+
+       </Callout>
+
 
       </>
   );
