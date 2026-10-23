@@ -135,6 +135,23 @@ export default function PhasesOfCompiler() {
       ' 'z' 'e' 'b' 'r' 'a' ' ' 'i' 'n' ' ' 'h' 'e' 'r' 'e' '"' and than group them
       into this so called tokens</p>
 
+    <Callout type="tip">
+        <p><strong>What is scanning (No BS explanation)</strong></p>
+
+        <iframe
+            width="100%"
+            height="315"
+            src="https://www.youtube.com/embed/BI3K-ME3L74?start=163"
+            title="What is scanning (No BS explanation)"
+            loading="lazy"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
+        </iframe>
+      </Callout>
+
+
       <h4>Lexems</h4>
 
       <p>But before we get to tokens let's see what this lexeme things actually are.</p>
