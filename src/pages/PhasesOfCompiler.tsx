@@ -195,6 +195,25 @@ export default function PhasesOfCompiler() {
       simple, generate relatively unoptimized code and just roll on, Lua tends to do
       just that.</p>
 
+      <Callout type="note">
+        <p><strong>Constant folding</strong></p>
+
+        <p>A simple example of this is constant folding, if some expressions always
+           evaluate to the same result, we can do the evaluation at the compile time.
+         </p>
+
+        <iframe
+          width="100%"
+          height="315"
+          src="https://www.youtube.com/embed/68oO51ZQyHY?start=170&end=193"
+          title="Constant folding"
+          frameBorder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen
+          style={{ borderRadius: '8px', border: '1px solid var(--border)' }}
+        ></iframe>
+      </Callout>
+
       <p>Seriously people can spend their entire careers only thinking about
       optimizations and performance, it can become an obsession of its own, we will
       just give a small overview of what can be done: </p>
@@ -202,6 +221,7 @@ export default function PhasesOfCompiler() {
 
    <Callout type="note">
         <h4>What compilers can and cannot do</h4>
+
         <p>
          We won't go too much into that, since as I said you can spend decades learning
          only about optimizations, but here is a short summary of what compilers generally
@@ -223,12 +243,11 @@ export default function PhasesOfCompiler() {
       <h3>Backend</h3>
 
       <p>
-        Finally we are at the backend and it's time to go from
-        poetry to reality, from user's "source code" to more primitive
-        assembly like instructions that the machine can actually
-        understand.
+        Finally we are at the backend and it's time to go from poetry to reality,
+        from user's "source code" to more primitive assembly like instructions that
+        the machine can actually understand.
       </p>
-      
+
       </>
   );
 }
