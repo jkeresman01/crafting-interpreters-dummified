@@ -65,6 +65,18 @@ export default function PhasesOfCompiler() {
         IR, mostly GIMPLE and RTL, and that's that.
       </p>
 
+        <iframe
+            width="100%"
+            height="315"
+            src="https://www.youtube.com/embed/lflRnEfZgYQ?start=3&end=31"
+            title="IR nonsene"
+            loading="lazy"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
+        </iframe>
+
       </Callout>
 
       <Callout type="tip">
