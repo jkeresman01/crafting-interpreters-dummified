@@ -21,10 +21,8 @@ export default function Expressions() {
 
         <h2>Logical operators</h2>
 
-        <p>
-            Smallboober will follow "Lox" design for simplicity's sake and will use
-            'and' and 'or' expressions instead of '&&' and '||'.
-        </p>
+        <p>Smallboober will follow "Lox" design for simplicity's sake and will use
+        'and' and 'or' expressions instead of '&&' and '||'.</p>
 
        <Callout type="note">
         
@@ -186,7 +184,7 @@ export default function Expressions() {
         code={`not != equal;`}
       />
 
-      <h3>Precedence and grouping</h3>
+      <h3>Precedence and associativity</h3>
 
       <p>All of the operators will have the same precedence and associativity that
       you would normally expect and for grouping you can just use '()' in cases where
@@ -196,6 +194,55 @@ export default function Expressions() {
         language="plaintext"
         code={`var result = a * b + (c - b) / 2`}
       />
+
+      <h3>Boring definitions</h3>
+
+      <h4>Precedence</h4>
+
+      <p>
+        Precedence determines which operator is evaluated first in an expression
+        containing a mixture of different operators, or in other words, we evaluate
+        this shit '*' and '/' before '+' and '-'
+      </p>
+
+      <h4>Associativity</h4>
+
+      <p>
+        Associativity specifiesy wheater sequences ofoperators with equal precedence
+        group to the left or right, or in other words when operator is left-associative
+        this shit:
+      </p>
+
+      <CodeBlock
+        language="plaintext"
+        code={`5 - 3 + 1`}
+      />
+
+      <p>
+        is equal to this shit, or in other words we group to left:
+      </p>
+
+      <CodeBlock
+        language="plaintext"
+        code={`(5 - 3) + 1`}
+      />
+
+      <Callout type="tip">
+        <p><strong>Why we care about this</strong></p>
+
+        <iframe
+            width="100%"
+            height="315"
+            src="https://www.youtube.com/embed/iy-zL9wBd9g?start=121&end=163"
+            title="They leave me no choice in this wars"
+            loading="lazy"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
+        </iframe>
+      </Callout>
+
 
       <h2>Functions</h2>
 
