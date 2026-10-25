@@ -166,6 +166,13 @@ export default function PhasesOfCompiler() {
       ' 'z' 'e' 'b' 'r' 'a' ' ' 'i' 'n' ' ' 'h' 'e' 'r' 'e' '"' and than group them
       into this so called tokens</p>
 
+      <h5>Tokens</h5>
+
+      <p>
+        Tokens are the basic build blocks of program - the shortest strings of characters with 
+        individual meaning (keywords, identifiers ...)
+      </p>
+
     <Callout type="tip">
         <p><strong>What is scanning (No BS explanation)</strong></p>
 
@@ -181,11 +188,6 @@ export default function PhasesOfCompiler() {
             style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
         </iframe>
       </Callout>
-
-
-      <h4>Lexems</h4>
-
-      <p>But before we get to tokens let's see what this lexeme things actually are.</p>
 
       <h4>Parsing</h4>
 

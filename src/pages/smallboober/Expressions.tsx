@@ -208,7 +208,7 @@ export default function Expressions() {
       <h4>Associativity</h4>
 
       <p>
-        Associativity specifiesy wheater sequences ofoperators with equal precedence
+        Associativity specifies wheater sequences of operators with equal precedence
         group to the left or right, or in other words when operator is left-associative
         this shit:
       </p>

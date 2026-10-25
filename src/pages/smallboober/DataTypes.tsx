@@ -66,11 +66,11 @@ export default function DataTypes() {
 
       <h2>Nil</h2>
 
-      <p>We also need a built-in data type that represents "nothing" or "no value" and most
-      commonly used solutions here are to use Nil or Null and we will just follow what
-      "Lox" does as we did so far, okay one can also argue that we don't actually need a value that
-      represents nothing, since null pointer issues tend to cause all types of headaches,
-      but that's a separate story</p>
+      <p>We also need a built-in data type that represents "nothing" or "no value"
+      and most commonly used solutions here are to use Nil or Null and we will just
+      follow what "Lox" does as we did so far, okay one can also argue that we don't
+      actually need a value that represents nothing, since null pointer issues tend
+      to cause all types of headaches, but that's a separate story</p>
 
       <CodeBlock
         language="plaintext"
@@ -78,9 +78,9 @@ export default function DataTypes() {
       />
 
      <p>
-      Okay, okay we are done with basic data types, as I said they are just boring and
-      dull but we can't do anything useful without them, but let's move to some more
-      interesting parts.
+      Okay, okay we are done with basic data types, as I said they are just boring
+      and dull but we can't do anything useful without them, but let's move to some
+      more interesting parts.
      </p>
 
     </>
