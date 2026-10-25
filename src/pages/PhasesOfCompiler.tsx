@@ -4,7 +4,7 @@ import CodeBlock from '../components/CodeBlock';
 export default function PhasesOfCompiler() {
   return (
     <>
-    <h1> Phases of a compiler/interpreter </h1>
+    <h1>Phases of a compiler/interpreter </h1>
 
       <p>
        Okay now that we understand what are we building, let's see which phases
