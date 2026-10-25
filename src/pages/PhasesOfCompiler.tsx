@@ -91,6 +91,24 @@ export default function PhasesOfCompiler() {
 
       <h2>Okay but let's talk about these phases a bit more</h2>
 
+      <Callout type="note">
+
+      <p><strong>Phases of compiler by some almost Indian dude</strong></p>
+
+        <iframe
+            width="100%"
+            height="315"
+            src="https://www.youtube.com/embed/l-jMsoAY64k?start=67&end=311"
+            title="Phases of compiler"
+            loading="lazy"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+            style={{ borderRadius: '8px', border: '1px solid var(--border)' }}>
+        </iframe>
+
+      </Callout>
+
       <h3>Frontend</h3>
 
       <p>
@@ -129,14 +147,15 @@ export default function PhasesOfCompiler() {
 
       <h4>Concrete example</h4>
 
-      <p>Anyhowzyy, you have now read this sentence and lets say it's your first time
-      stumbling upon this nonsene, you know like, we take a stream of characters and
-      group them into tokens(words) or if you wan't even more dumber definition we
-      could also say it like this, purpose of lexing/scanning && parsing, you know the
-      first two phases, is to recognize the structure of the program without giving
-      the fuck of it's meaning, and you might be what the fuck does that even mean
-      and this is supposed to be short and simple, so let's try to go trough this nonsene
-      with this simple example: </p>
+      <p>Anyhowzyy, you've now read this sentence. Let's say it's your first time
+      stumbling upon this nonsense. You know, like, we take a stream of characters
+      and group them into tokens (words). Or, if you want an even dumber definition,
+      we could put it like this: the purpose of lexing/scanning and parsing—you know,
+      the first two phases—is to recognize the structure of a program without giving
+      a fuck about its meaning.</p>
+
+     <p>And you might be thinking, "What the fuck does that even mean? 
+     Well, let's try to go through this nonsense using a simple example:</p>
 
     <CodeBlock
         language="plaintext" code={`var diana = "There is no zebra in here"`}
