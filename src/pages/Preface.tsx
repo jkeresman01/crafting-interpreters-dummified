@@ -252,9 +252,10 @@ export default function Preface() {
                 keep to yourself, and how to make the right people feel important.
             </p>
 
-            <p><strong>Red flags: </strong> Now you are invisible to use, we made you
-            look good, Do you wan't that we make people think that you are high perform,
-            or low performer... </p>
+            <p><strong>Red flags: </strong> Now you are invisible to use, we made him
+            look good|bad, do you want to leave on your own and that people think that
+            you are high performer or do you want that we make you look bad... and
+            this whole we bullshit </p>
 
        </Callout>
 
