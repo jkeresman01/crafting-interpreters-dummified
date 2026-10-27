@@ -210,7 +210,6 @@ export default function Preface() {
        players can teach me, to the strategies that challenge mine, and to the things
        I discover when my usual way of doing things doesn't work. </p>
 
-
        <p>The fact that one approach works within a particular context doesn't make it
        the only right approach, nor does it invalidate the approaches of others. The
        game may have been founded by <strong>Ants and Open Radio</strong> (this is how
@@ -226,6 +225,38 @@ export default function Preface() {
         way of playing while remaining curious about other possibilities. In the end,
         just as no single martial arts school holds an absolute monopoly on wisdom, there
         is no one right way to play the game—or, for that matter, to cook a soup. </p>
+
+        <Callout type="tip"> 
+            <p><strong>General advice: </strong></p>
+
+            <p>
+              And this is where things get <strong>even more interesting</strong>,
+              because the same kind of thing happens in corporate environments. You have
+              different groups of people, each with their own set of values, beliefs,
+              interests, and ideas about what a good employee should look like. And
+              depending on which group holds the power, certain behaviours get rewarded,
+              certain people get promoted, and certain ways of thinking become the
+              accepted norm. People who conform to these values become visible, their
+              contributions get recognized, and their voices carry weight. Meanwhile,
+              those who don't conform might find themselves ignored, overlooked,
+              or slowly made invisible, regardless of how competent they actually are.
+            </p>
+
+            <p>
+                And, of course, some people learn how to play this game. Some develop
+                what we like to call soft skills, although sometimes the term is
+                doing a lot of heavy lifting here. Knowing how to communicate, build
+                relationships, and navigate disagreements can genuinely be useful,
+                but there's also the less flattering side of it: knowing <strong>whose
+                ass to kiss</strong>, when to agree with the boss, which opinions to
+                keep to yourself, and how to make the right people feel important.
+            </p>
+
+            <p><strong>Red flags: </strong> Now you are invisible to use, we made you
+            look good, Do you wan't that we make people think that you are high perform,
+            or low performer... </p>
+
+       </Callout>
 
        <Callout type="note">
           <p><strong>Coming back to non-interference approach: </strong>
