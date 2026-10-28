@@ -249,7 +249,9 @@ export default function Preface() {
                 relationships, and navigate disagreements can genuinely be useful,
                 but there's also the less flattering side of it: knowing <strong>whose
                 ass to kiss</strong>, when to agree with the boss, which opinions to
-                keep to yourself, and how to make the right people feel important.
+                keep to yourself, and how to make the right people feel important. When 
+                you have to play into a version that certain people want to hear and when 
+                can you simply be yourself and speak truth. 
             </p>
 
             <p><strong>Red flags: </strong> Now you are invisible to use, we made him
