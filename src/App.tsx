@@ -1,17 +1,17 @@
 import { Routes, Route, Navigate } from 'react-router-dom';
 import Layout from './components/Layout';
-import Preface from './pages/Preface';
-import Introduction from './pages/Introduction';
-import Jargon from './pages/Jargon';
-import InterpretersVsCompilers from './pages/InterpretersVsCompilers';
-import PhasesOfCompiler from './pages/PhasesOfCompiler';
+import Preface from './pages/introduction/Preface';
+import Introduction from './pages/introduction/Introduction';
+import Jargon from './pages/introduction/Jargon';
+import InterpretersVsCompilers from './pages/introduction/InterpretersVsCompilers';
+import PhasesOfCompiler from './pages/introduction/PhasesOfCompiler';
+import Shortcuts from './pages/introduction/Shortcuts';
+import LetsBegin from './pages/introduction/LetsBegin';
 import SmallBooberIntroduction from './pages/sealox/Introduction';
 import DataTypes from './pages/sealox/DataTypes';
 import Expressions from './pages/sealox/Expressions';
 import Statements from './pages/sealox/Statements';
 import ControlFlow from './pages/sealox/ControlFlow';
-import Shortcuts from './pages/Shortcuts';
-import LetsBegin from './pages/LetsBegin';
 import JlangIntroduction from './pages/jlang/Introduction';
 import LuappIntroduction from './pages/luapp/Introduction';
 
@@ -20,12 +20,12 @@ export default function App() {
     <Routes>
       <Route element={<Layout />}>
         <Route path="/" element={<Preface />} />
-        <Route path="/introduction" element={<Introduction />} />
-        <Route path="/jargon" element={<Jargon />} />
-        <Route path="/interpreters-vs-compilers" element={<InterpretersVsCompilers />} />
-        <Route path="/phases-of-compiler" element={<PhasesOfCompiler />} />
-        <Route path="/lets-begin" element={<LetsBegin />} />
-        <Route path="/shortcuts" element={<Shortcuts />} />
+        <Route path="/introduction/introduction" element={<Introduction />} />
+        <Route path="/introduction/jargon" element={<Jargon />} />
+        <Route path="/introduction/interpreters-vs-compilers" element={<InterpretersVsCompilers />} />
+        <Route path="/introduction/phases-of-compiler" element={<PhasesOfCompiler />} />
+        <Route path="/introduction/lets-begin" element={<LetsBegin />} />
+        <Route path="/introduction/shortcuts" element={<Shortcuts />} />
         <Route path="/sealox/introduction" element={<SmallBooberIntroduction />} />
         <Route path="/sealox/data-types" element={<DataTypes />} />
         <Route path="/sealox/expressions" element={<Expressions />} />

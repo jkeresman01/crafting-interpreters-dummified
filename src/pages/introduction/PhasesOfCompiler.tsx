@@ -1,5 +1,5 @@
-import Callout from '../components/Callout';
-import CodeBlock from '../components/CodeBlock';
+import Callout from '../../components/Callout';
+import CodeBlock from '../../components/CodeBlock';
 
 export default function PhasesOfCompiler() {
   return (

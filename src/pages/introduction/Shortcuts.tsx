@@ -1,4 +1,4 @@
-import Callout from '../components/Callout';
+import Callout from '../../components/Callout';
 
 export default function Shortcuts() {
   return (
@@ -30,8 +30,6 @@ export default function Shortcuts() {
            </iframe>
 
       </Callout>
-
-
 
       <h2>Single-pass compilers</h2>
         <p>

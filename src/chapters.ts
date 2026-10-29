@@ -3,12 +3,12 @@ export const chapters = [
     title: 'General introduction',
     items: [
       { label: 'Preface', path: '/' },
-      { label: 'Introduction', path: '/introduction' },
-      { label: 'Shortcuts & Alternate Routes', path: '/shortcuts' },
-      { label: 'Interpreters vs Compilers', path: '/interpreters-vs-compilers' },
-      { label: 'Jargon & some boring stuff', path: '/jargon' },
-      { label: 'Phases of Compiler', path: '/phases-of-compiler' },
-      { label: 'Lets begin', path: '/lets-begin' },
+      { label: 'Introduction', path: '/introduction/introduction' },
+      { label: 'Our options', path: '/introduction/shortcuts' },
+      { label: 'Interpreters vs Compilers', path: '/introduction/interpreters-vs-compilers' },
+      { label: 'Programming languages lingo', path: '/introduction/jargon' },
+      { label: 'Phases of Compiler', path: '/introduction/phases-of-compiler' },
+      { label: 'Lets begin', path: '/introduction/lets-begin' },
     ],
   },
   {

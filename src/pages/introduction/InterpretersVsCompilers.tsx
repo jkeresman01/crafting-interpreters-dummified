@@ -1,5 +1,5 @@
-import CodeBlock from '../components/CodeBlock';
-import Callout from '../components/Callout';
+import CodeBlock from '../../components/CodeBlock';
+import Callout from '../../components/Callout';
 
 export default function InterpretersVsCompilers() {
   return (
