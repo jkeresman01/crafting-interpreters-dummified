@@ -15,6 +15,10 @@ export const chapters = [
     title: 'Sealox && Jlox',
     items: [
       { label: 'Introduction', path: '/sealox/introduction' },
+      { label: 'DataTypes', path: '/sealox/data-types' },
+      { label: 'Expressions', path: '/sealox/expressions' },
+      { label: 'Statements', path: '/sealox/statements' },
+      { label: 'Control Flow', path: '/sealox/control-flow' },
   ],
   },
   {
