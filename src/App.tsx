@@ -12,6 +12,8 @@ import Statements from './pages/sealox/Statements';
 import ControlFlow from './pages/sealox/ControlFlow';
 import Shortcuts from './pages/Shortcuts';
 import LetsBegin from './pages/LetsBegin';
+import JlangIntroduction from './pages/jlang/Introduction';
+import LuappIntroduction from './pages/luapp/Introduction';
 
 export default function App() {
   return (
@@ -29,6 +31,8 @@ export default function App() {
         <Route path="/sealox/expressions" element={<Expressions />} />
         <Route path="/sealox/statements" element={<Statements />} />
         <Route path="/sealox/control-flow" element={<ControlFlow />} />
+        <Route path="/jlang/introduction" element={<JlangIntroduction />} />
+        <Route path="/luapp/introduction" element={<LuappIntroduction />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Route>
     </Routes>

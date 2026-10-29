@@ -24,13 +24,13 @@ export const chapters = [
   {
     title: 'Luapp',
     items: [
-      { label: 'Introduction', path: '/sealox/introduction' },
+      { label: 'Introduction', path: '/luapp/introduction' },
    ],
   },
   {
     title: 'Jlang',
     items: [
-      { label: 'Introduction', path: '/sealox/introduction' },
+      { label: 'Introduction', path: '/jlang/introduction' },
       ],
   },
 ];
