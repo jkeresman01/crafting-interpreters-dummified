@@ -39,7 +39,7 @@ export default function InterpretersVsCompilers() {
       <h2>Okay but let's dummify it even further with some examples</h2>
 
       <p>
-       Imagine a tiny language we just made up on the spot, call it SmallBoober, it has no
+       Imagine a tiny language we just made up on the spot, call it Sealox, it has no
        semicolons, no curly braces, no committees, just vibes. A program might look
        like this:
       </p>
@@ -64,7 +64,7 @@ export default function InterpretersVsCompilers() {
       </p>
 
       <p>
-        So let's lose few additional brain cells now, let's say that in SmallBoober
+        So let's lose few additional brain cells now, let's say that in Sealox
         you could do something like this:
       </p>
 

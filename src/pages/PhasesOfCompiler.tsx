@@ -9,7 +9,7 @@ export default function PhasesOfCompiler() {
       <p>
        Okay now that we understand what are we building, let's see which phases
        we need to go through, but of course dummified a lot, so the main question is:
-       <i><strong>"How do we get from the high level language like SmallBoober to
+       <i><strong>"How do we get from the high level language like Sealox to
        series of instructions that CPU can actually execute?"</strong></i>
       </p>
 

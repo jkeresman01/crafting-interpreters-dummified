@@ -117,7 +117,7 @@ export default function Expressions() {
 
       <h2>Arithmetic operators</h2>
 
-      <p>Smallboober like most of C style languages supports basic set of arithmetic
+      <p>Sealox like most of C style languages supports basic set of arithmetic
       operators:</p>
 
       <CodeBlock

@@ -1,23 +1,33 @@
 export const chapters = [
   {
-    title: 'Getting Started',
+    title: 'General introduction',
     items: [
       { label: 'Preface', path: '/' },
       { label: 'Introduction', path: '/introduction' },
+      { label: 'Shortcuts & Alternate Routes', path: '/shortcuts' },
       { label: 'Interpreters vs Compilers', path: '/interpreters-vs-compilers' },
       { label: 'Jargon & some boring stuff', path: '/jargon' },
       { label: 'Phases of Compiler', path: '/phases-of-compiler' },
+      { label: 'Lets begin', path: '/lets-begin' },
     ],
   },
   {
-    title: 'SmallBoober',
+    title: 'Sealox && Jlox',
     items: [
-      { label: 'Introduction', path: '/smallboober/introduction' },
-      { label: 'DataTypes', path: '/smallboober/data-types' },
-      { label: 'Expressions', path: '/smallboober/expressions' },
-      { label: 'Statements', path: '/smallboober/statements' },
-      { label: 'Control Flow', path: '/smallboober/control-flow' },
-    ],
+      { label: 'Introduction', path: '/sealox/introduction' },
+  ],
+  },
+  {
+    title: 'Luapp',
+    items: [
+      { label: 'Introduction', path: '/sealox/introduction' },
+   ],
+  },
+  {
+    title: 'Jlang',
+    items: [
+      { label: 'Introduction', path: '/sealox/introduction' },
+      ],
   },
 ];
 
