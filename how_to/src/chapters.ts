@@ -4,10 +4,10 @@ export const chapters = [
     items: [
       { label: 'Preface', path: '/' },
       { label: 'Introduction', path: '/introduction/introduction' },
-      { label: 'Our options', path: '/introduction/shortcuts' },
       { label: 'Interpreters vs Compilers', path: '/introduction/interpreters-vs-compilers' },
       { label: 'Programming languages lingo', path: '/introduction/jargon' },
       { label: 'Phases of Compiler', path: '/introduction/phases-of-compiler' },
+      { label: 'Our options', path: '/introduction/shortcuts' },
       { label: 'Lets begin', path: '/introduction/lets-begin' },
     ],
   },

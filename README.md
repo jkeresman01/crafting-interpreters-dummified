@@ -1,8 +1,8 @@
 <div align="center">
 
-  <h1>Interpreters how to</h1>
+  <h1>Programming languages how to</h1>
 
-  <h4>Interpreters how to</h4>
+  <h4>Programming languages how to</h4>
   <h6>Random programming languages stuff</h6>
 
 [![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
@@ -16,15 +16,15 @@
 > [!NOTE]
 > Planned
 
-## Getting Started
+## Getting Started - how_to 
 
-### 1. Install dependencies
+### 1. Install dependencies ###
 
 ```bash
-npm install
+npm install 
 ```
 
-### 2. Run the development server
+### 2. Run the development server ####
 
 ```bash
 npm run dev
