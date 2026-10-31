@@ -254,6 +254,18 @@ export default function Preface() {
                 can you simply be yourself and speak truth. 
             </p>
 
+            <p>Young players enter the game, willing to learn its codes. At first,
+            they see only the game they're taught to play (game of codes). But with
+            time, some begin to notice the other games unfolding around them. They
+            start recognizing the rules nobody speaks of, the moves nobody explains,
+            alongside dependencies between different player who seem to be playing an
+            entirely different game. Some learn how to play. Others never even realize
+            there's more than one game.  </p>
+
+            <p>
+            But be careful: once you see the game behind the game, you can never unsee it.
+            </p>
+
             <p><strong>Red flags: </strong> Now you are invisible to use, we made him
             look good|bad, do you want to leave on your own and that people think that
             you are high performer or do you want that we make you look bad... and
